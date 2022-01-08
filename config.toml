@@ -1,0 +1,13 @@
+baseURL = 'http://example.org'
+languageCode = 'en-us'
+title = 'Anticar Dependence'
+theme = 'hugo-theme-relearn'
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  # themeVariant = "mine"
+  disableNextPrev = true
