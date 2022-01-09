@@ -19,8 +19,6 @@ We don't actually need cars for everything in our daily lives. We should build o
 
 Cars should be optional, not necessary.
 
-Cars is an unnecessary expense that is caused by poor infrastructure.
-
 
 #### What's wrong with cars? {#what-s-wrong-with-cars}
 

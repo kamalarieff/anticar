@@ -146,7 +146,7 @@ See how the cars are blocking the roads. It's never cyclists, pedestrians. Cars 
 
 <https://www.reddit.com/r/fuckcars/comments/rf5nkx/they%5Fjumped%5Fout%5Fof%5Fnowhere%5Fin%5Ffront%5Fof%5Fmy%5Fcar/>
 
-Your vision gets less smaller when you drive faster. When drivers drive slower, they yield more for pedestrians.
+Your vision gets smaller when you drive faster. When drivers drive slower, they yield more for pedestrians.
 
 It's just an infographic though. It'd be nice if there is an official source or a study.
 
@@ -169,7 +169,7 @@ There is just this number. I don't think it is useful to use in an argument. You
 Cars are expensive. This is a page from wikipedia detailing all the costs of owning a car.
 
 
-### Bike vs. Bus vs. Car in Portland! How biking is faster, cheaper, healthier and better for the planet - YouTube {#bike-vs-dot-bus-vs-dot-car-in-portland-how-biking-is-faster-cheaper-healthier-and-better-for-the-planet-youtube}
+### Bike vs. Bus vs. Car in Portland! How biking is faster, cheaper, healthier and better for the planet - YouTube - CityNerd {#bike-vs-dot-bus-vs-dot-car-in-portland-how-biking-is-faster-cheaper-healthier-and-better-for-the-planet-youtube-citynerd}
 
 <https://www.youtube.com/watch?v=-7UcvadTgac>
 

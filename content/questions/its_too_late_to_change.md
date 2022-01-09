@@ -5,7 +5,7 @@ draft = false
 weight = 17
 +++
 
-No it doesn't. Netherlands was heavily car cultured 30 years ago. Look where they are now.
+No it's not. Netherlands was heavily car cultured 30 years ago. Look where they are now.
 
 
 ## Resources {#resources}

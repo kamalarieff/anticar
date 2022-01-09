@@ -1,5 +1,5 @@
 +++
-title = "I'm a politician. People would object and I won't get reelected?"
+title = "This is political suicide."
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
 weight = 22
@@ -19,7 +19,7 @@ A lot of mayors all over the world has been reelected by campaigning for better 
 
 This is an article about politicians getting reelected even being probike. There are some opposition but those don't translate to votes.
 
-Here are the politicians what they did:
+Here are the politicians and what they did:
 
 -   Milan’s mayor, Giuseppe Sala, earlier this month won reelection after reclaiming 22,000 sq meters of vehicle lanes to create 38 neighbourhood plazas over three years and 22 miles (35km) of cycling and walking space on main travel corridors
 -   London’s mayor, Sadiq Khan, won reelection in May after creating or completing 160 miles (260km) of new bike routes. Faced with an opponent who vocally opposed improvements for cycling and walking, the Labour mayor won 55% of the vote in the runoff.
@@ -30,7 +30,7 @@ Here are the politicians what they did:
 
         -   <https://www.newstatesman.com/politics/transport-politics/2021/12/cycle-lanes-dont-cause-congestion-but-theres-money-to-be-made-in-pretending-they-do>
         -   <https://www.reddit.com/r/fuckcars/comments/rbo9e6/cycle%5Flanes%5Fdont%5Fcause%5Fcongestion%5Fbut%5Ftheres/>
-    -   How to (Quickly) Build a Cycling City - Paris - YouTube
+    -   How to (Quickly) Build a Cycling City - Paris - YouTube - Not Just Bikes
 
         <https://www.youtube.com/watch?v=sI-1YNAmWlk>
 
