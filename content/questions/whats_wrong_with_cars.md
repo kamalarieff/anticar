@@ -5,16 +5,9 @@ draft = false
 weight = 3
 +++
 
-Cars are dangerous, costs a lot of money, creates pollution, takes up a lot of space.
+Cars are dangerous, cost a lot of money, create pollution, take up a lot of space.
 
 Let's face it. Every time you get behind a wheel, you have to accept that there is a slightly higher chance that you will die. Everything from drivers getting distracted on the road, drunk drivers, emotional drivers, bad road conditions, car troubles, these things can lead to your death.
-
-2021-12-30 Thursday 04:41 maybe you can group these articles as well by this
-
--   Cars kill
--   Cars pollute
--   Cars take up so much space
--   Cars are expensive
 
 
 ## Resources {#resources}
