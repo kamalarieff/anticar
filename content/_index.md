@@ -1,14 +1,14 @@
 +++
-title = "All things related to anticar dependency"
+title = "All things related to anti-car dependency"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
 +++
 
-## What is anticar dependency? {#what-is-anticar-dependency}
+## What is anti-car dependency? {#what-is-anti-car-dependency}
 
-This site serves as a bible for all things regarding anticar dependency. You have a question? Just find it in the sidebar.
+This site serves as a bible for all things regarding anti-car dependency. You have a question? Just find it in the sidebar.
 
-However, if you want an overview what anticar dependency is about, you can read further.
+However, if you want an overview what anti-car dependency is about, you can read further.
 
 
 ### Build cities for people, not cars. {#build-cities-for-people-not-cars-dot}

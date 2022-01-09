@@ -1,5 +1,5 @@
 +++
-title = "What would a anticar dependency city look like/Before and after photos?"
+title = "What would a anti-car dependency city look like/Before and after photos?"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
 weight = 1
