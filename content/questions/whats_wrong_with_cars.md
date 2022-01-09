@@ -668,3 +668,10 @@ One damning quote:
 > People who ride bicycles also pay taxes, which means they often pay more into the road system than they cost it. By one estimate, a carfree cyclist would overpay by an average of $250 a year – a few dollars more than the amount the average driver underpays.
 
 These people who rides bicycles are overpaying for roads that they barely damage.
+
+
+### Average Monthly Payment for a New Car Hits $636 | Edmunds {#average-monthly-payment-for-a-new-car-hits-636-edmunds}
+
+<https://www.edmunds.com/car-news/average-monthly-car-payment-for-new-car-636-dollars.html>
+
+-   <https://www.reddit.com/r/urbanplanning/comments/rze4ew/all%5Fthings%5Frelated%5Fto%5Fanticar%5Fdependency/hrv1sn1/>
