@@ -19,4 +19,6 @@ You mean this tunnel where people are still stuck in traffic jams?
 
 <https://www.youtube.com/watch?v=QZaRfNjTPx8>
 
+-   <https://www.reddit.com/r/fuckcars/comments/rywftv/he%5Ffixed%5Fit/>
+
 Some expectation vs reality of the loop. The video progresses from the initial concept to its current implementation. Notice how there's no emergency exit and towards the end of a video, there is a clip of a Tesla caught on fire.

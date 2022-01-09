@@ -69,6 +69,13 @@ An after and before photo in Vienna.
 <https://www.reddit.com/r/fuckcars/comments/rrcrhg/positivity%5Fweek%5Flondon%5Fjubilee%5Fgardens/>
 
 
+### 1970 and now : london {#1970-and-now-london}
+
+<https://www.reddit.com/r/london/comments/rynu57/1970%5Fand%5Fnow/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/ryuw1y/carparks%5Fare%5Ftheft/>
+
+
 ### Positivity week. Pioneer Courthouse Square in Portland, OR : fuckcars {#positivity-week-dot-pioneer-courthouse-square-in-portland-or-fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/rqi8ts/positivity%5Fweek%5Fpioneer%5Fcourthouse%5Fsquare%5Fin/>

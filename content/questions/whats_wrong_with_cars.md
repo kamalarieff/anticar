@@ -217,7 +217,7 @@ He suggested to have better alternatives modes of transportation [11:18].
 He also suggested to implement congestion pricing to solve this issue [11:31].
 
 
-### Cycling across Europe in the pandemic - BBC World Service - YouTube {#cycling-across-europe-in-the-pandemic-bbc-world-service-youtube}
+### Cycling across Europe in the pandemic - BBC World Service - YouTube - BBC World Service {#cycling-across-europe-in-the-pandemic-bbc-world-service-youtube-bbc-world-service}
 
 <https://www.youtube.com/watch?v=Cukx%5FBSQ0Ww>
 
@@ -462,7 +462,6 @@ The cost of highways are paid by all taxpayers, not just the one's that use them
 There are some other important points made in this article too, but the one I like the most is:
 
 Swimming in Debt. We have to pay interest and maintenance for all that highways that we built. And the more we build them, the more interest that we have to pay.
-****\*****
 
 
 ### If people understood the health damage caused by cars, they would be saying "fuck cars" too : fuckcars {#if-people-understood-the-health-damage-caused-by-cars-they-would-be-saying-fuck-cars-too-fuckcars}

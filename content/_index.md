@@ -6,7 +6,7 @@ draft = false
 
 ## What is anti-car dependency? {#what-is-anti-car-dependency}
 
-This site serves as a bible for all things regarding anti-car dependency. You have a question? Just find it in the sidebar.
+This site serves as a bible for all things regarding anti-car dependency. You have a question? Just find it in the sidebar or search for it.
 
 However, if you want an overview what anti-car dependency is about, you can read further.
 
