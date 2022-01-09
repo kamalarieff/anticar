@@ -355,6 +355,18 @@ Sort by cities.
 -   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new%5Fhere%5Fglad%5Fi%5Ffound%5Fthis%5Fhave%5Ffelt%5Fthe%5Fsame%5Ffor/>
 
 
+### Transit Malaysia {#transit-malaysia}
+
+<https://transitmalaysia.com/>
+
+You can try signing up. These are the tasks that are specified on the page that you can help with:
+
+-   Website and blog writing
+-   Administration
+-   Grassroots activism and contact work
+-   Government and public sector lobbying
+
+
 ## Twitter {#twitter}
 
 

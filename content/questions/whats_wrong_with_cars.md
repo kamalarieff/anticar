@@ -97,7 +97,7 @@ This is a picture of a how much space a parking lot takes. (maybe you can create
 
 <https://www.reddit.com/r/fuckcars/comments/rduyat/how%5Fsuvs%5Fconquered%5Fthe%5Fworld%5Fat%5Fthe%5Fexpense%5Fof/>
 
-SUVs is not good for the environment. It is very shocking that just SUVs is second behind an entire industry. They are not aerodynamic, consumes a lot of gas.
+SUVs are not good for the environment. It is very shocking that just SUVs are second behind an entire industry. They are not aerodynamic, consumes a lot of gas.
 
 > SUVs were the second largest cause of the global rise in carbon dioxide emissions over the past decade, eclipsing all shipping, aviation, heavy industry and even trucks, usually the only vehicles to loom larger than them on the road.
 
