@@ -2,7 +2,7 @@
 title = "Cars take up a lot of space"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2008
+weight = 2009
 +++
 
 ## Let's collect the most powerful new mobility imaginaries to unlock our thinking! {#let-s-collect-the-most-powerful-new-mobility-imaginaries-to-unlock-our-thinking}

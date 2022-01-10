@@ -2,7 +2,7 @@
 title = "Cars are not accessible"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2010
+weight = 2011
 +++
 
 ## The Hidden Inequity of Car-Based Design {#the-hidden-inequity-of-car-based-design}

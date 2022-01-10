@@ -2,7 +2,7 @@
 title = "This is political suicide."
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 22
+weight = 23
 +++
 
 A lot of mayors all over the world has been reelected by campaigning for better bike infrastructure.

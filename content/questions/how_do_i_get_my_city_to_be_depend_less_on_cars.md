@@ -2,7 +2,7 @@
 title = "I'm sold. How do I get my city to be depend less on cars?"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 24
+weight = 25
 +++
 
 Raise this issue with your local council. Use this site as your talking points. Raise awareness. Talk to your moms, dads, bosses, neighbors.

@@ -2,7 +2,7 @@
 title = "I will get sweaty if I cycle."
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 20
+weight = 21
 +++
 
 ## Resources {#resources}

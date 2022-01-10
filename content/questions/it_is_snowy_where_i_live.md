@@ -2,7 +2,7 @@
 title = "It is snowy where I live."
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 21
+weight = 22
 +++
 
 ## Resources {#resources}
