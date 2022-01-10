@@ -69,7 +69,7 @@ At 7:17, he explained the Downs-Thomson paradox in Layman's terms which is
 > if your bus is stuck in traffic, so is everyone else
 
 
-### Why Traffic Is So Bad In Los Angeles - YouTube {#why-traffic-is-so-bad-in-los-angeles-youtube}
+### Why Traffic Is So Bad In Los Angeles - YouTube - CNBC {#why-traffic-is-so-bad-in-los-angeles-youtube-cnbc}
 
 <https://www.youtube.com/watch?v=S76lKWeU%5Fxc>
 
@@ -77,3 +77,16 @@ At 7:17, he explained the Downs-Thomson paradox in Layman's terms which is
 -   <https://www.reddit.com/r/fuckcars/comments/ru37p8/ehhh%5Fjust%5Fwatched%5Fthis%5Fvideo%5Fwhat%5Fdo%5Fyou%5Fguys/>
 
 He talked about induced demand at 7:53.
+
+
+### What People Get Wrong About Induced Demand - YouTube - Oh The Urbanity! {#what-people-get-wrong-about-induced-demand-youtube-oh-the-urbanity}
+
+<https://www.youtube.com/watch?v=8wlld3Z9wRc>
+
+-   <https://www.reddit.com/r/fuckcars/comments/rzu74b/can%5Fanyone%5Flink%5Fan%5Finteresting%5Fvideo%5Fon%5Fwhy%5Fcars/hrxbqfz/>
+
+Induced demand applies to all modes of transportation. But increasing demand for cars brings a lot more problems than other modes of transportation.
+
+A good quote at the end of the video:
+
+> The question isn't really which types of transportation infrastructure induce demand because they all do. The question is which type of demand you want to induce.

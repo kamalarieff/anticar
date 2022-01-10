@@ -74,6 +74,15 @@ At 10:00, you need the political will to make these changes.
 <https://www.reddit.com/r/fuckcars/comments/rlr6w5/seoul%5Fand%5Fother%5Fplaces%5Fare%5Fbuilding%5Fcities/>
 
 
+### Seoul Transportation Vision 2030 - Seoul Metropolitan Government {#seoul-transportation-vision-2030-seoul-metropolitan-government}
+
+<https://english.seoul.go.kr/policy/transport/seoul-transportation-vision-2030/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s08mr9/seoulsouth%5Fkoreas%5Ftransportation%5Fvision%5Ffor%5F2030/>
+
+An extremely well thought out plan on Seoul's Transportation Vision for 2030. This could be your reference when you're trying to submit a proposal to your local council.
+
+
 ### After lobbying from advocates, CDOT commits to better protection for Clark bike lanes – Streetsblog Chicago {#after-lobbying-from-advocates-cdot-commits-to-better-protection-for-clark-bike-lanes-streetsblog-chicago}
 
 <https://chi.streetsblog.org/2021/12/21/after-lobbying-from-advocates-cdot-commits-to-better-protection-for-clark-bike-lanes/>
@@ -126,3 +135,14 @@ There's no concrete action in this article. It seems like it's an announcement. 
 > Running 24 miles on existing track from Co-op City in the Bronx to Bay Ridge in Brooklyn, the Triboro would be an above-ground rail line connecting 17 subway lines and 4 commuter lines.
 
 In the referrer link is a video of the NY Governor Kathy Hochul giving a speech on this idea.
+
+
+### Milan confirms ambitious new cycling network linking 80% of the city to bike paths | road.cc {#milan-confirms-ambitious-new-cycling-network-linking-80-of-the-city-to-bike-paths-road-dot-cc}
+
+<https://road.cc/content/news/milan-confirms-new-bike-network-289375>
+
+-   <https://www.reddit.com/r/europe/comments/rzzc1x/milan%5Fhas%5Fapproved%5Fa%5F200%5Fmillion%5Fplan%5Fto%5Fcreate%5Fa/>
+-   <https://www.reddit.com/r/fuckcars/comments/s08sos/milan%5Fhas%5Fapproved%5Fa%5F200%5Fmillion%5Fplan%5Fto%5Fcreate%5Fa/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzvsgt/milan%5Fto%5Fcreate%5Fmassive%5Fbike%5Fnetwork/>
+
+They plan to make the bike the most convenient mode of transport for Milan's population. They took inspiration from Paris's plan to make the city '100 percent cycling city' within the next four years.

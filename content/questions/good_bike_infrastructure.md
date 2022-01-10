@@ -147,3 +147,12 @@ A video of before and after a bike infrastructure is implemented at Vauxhall Bri
 <https://www.reddit.com/r/fuckcars/comments/rvbikr/another%5Faddition%5Fto%5Fthe%5Fableism%5Farguments%5Fin/hr5b9oi/>
 
 Video of young, old and disabled peopled out and about on the cycling tracks because it's safe.
+
+
+### Me gusta | Tumblr | Bicycle trail, Map, Netherlands {#me-gusta-tumblr-bicycle-trail-map-netherlands}
+
+<https://www.pinterest.com/pin/316800155010757425/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/rzvluk/the%5Fwellconnected%5Fbike%5Fnetwork%5Fof%5Fthe%5Fnetherlands/>
+
+This is a map on how well-connected the bike lanes in the Netherlands are. You need a bike infrastructure that is able to take you anywhere in order for it to be useful.

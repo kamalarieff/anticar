@@ -126,3 +126,14 @@ At 6:05, the people interviewed all said that the city is silent. You don't hear
 <https://www.youtube.com/watch?v=swqaAIkGtpA>
 
 At 3:31, kids are able to be more independent.
+
+
+### Bicycling Can Sharpen Your Thinking and Improve Your Mood | Psychology Today {#bicycling-can-sharpen-your-thinking-and-improve-your-mood-psychology-today}
+
+<https://www.psychologytoday.com/us/blog/minding-the-body/201505/bicycling-can-sharpen-your-thinking-and-improve-your-mood>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s01dsh/could%5Fcar%5Fdependence%5Fmake%5Fus%5Fmore%5Fanxious%5Fas%5Fa/>
+
+-   Lowering blood pressure, improving cholesterol levels, managing their weight and reducing their risk of developing heart disease and type 2 diabetes.
+-   Brain scans showed that practicing pedaling on a regular basis increased the integrity of white matter fiber tracts in both healthy and schizophrenic brains.
+-   Prevent or relieve stress, anxiety and depression.

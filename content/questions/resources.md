@@ -238,6 +238,11 @@ Sarcastic videos on car infrastructure.
 <https://www.youtube.com/c/CityNerd>
 
 
+### Urban Jersey Guy - YouTube {#urban-jersey-guy-youtube}
+
+<https://www.youtube.com/user/mikez2/featured>
+
+
 ## Podcasts and websites {#podcasts-and-websites}
 
 

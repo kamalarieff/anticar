@@ -16,3 +16,31 @@ They reduce carbon emission but they still take up space, noisy above 40km/h.
 <https://cleantechnica.com/2016/06/05/will-electric-cars-make-traffic-quieter-yes-no/>
 
 Above 40km/h, tire noise comes into play.
+
+
+### Tesla fire kills man because door handles wouldn’t open, lawsuit alleges - The Washington Post {#tesla-fire-kills-man-because-door-handles-wouldn-t-open-lawsuit-alleges-the-washington-post}
+
+<https://www.washingtonpost.com/business/2019/10/23/man-died-burning-tesla-because-its-futuristic-doors-wouldnt-open-lawsuit-alleges/>
+
+-   <https://www.reddit.com/r/SubredditDrama/comments/rz68in/elon%5Fmusks%5Fsolution%5Fto%5Ftraffic%5Fthe%5Flas%5Fvegas%5Floop/hrunhxl/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating%5Fsilly%5Fmistakes%5Fhow%5Fdid%5Fit%5Fcome%5Fto%5Fthis/>
+
+Since Tesla falls under electric cars, I'll put this here. They are still a danger to human lives.
+
+
+### Electric Cars are Not Sustainable and they're Terrible - YouTube - Alan Fisher {#electric-cars-are-not-sustainable-and-they-re-terrible-youtube-alan-fisher}
+
+<https://www.youtube.com/watch?v=WiI1AcsJlYU>
+
+At 2:24, electric cars have more rare materials in them and these materials require a lot of CO2 to mine them. They will only become more environmentally friendly around three or five years of ownership.
+
+At 8:55, electric cars are heavy. This increases the damage done on roads.
+
+
+### Cities Aren't Loud: Cars Are Loud - YouTube - Not Just Bikes {#cities-aren-t-loud-cars-are-loud-youtube-not-just-bikes}
+
+<https://www.youtube.com/watch?v=CTV-wwszGw8>
+
+-   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i%5Flove%5Fthis%5Fsub%5Fbut%5Fit%5Fdesperately%5Fneeds%5Fa/>
+
+At 13:24, electric cars are worse at high speeds because tire noise increases with weight. Electric cars weigh more than normal cars.

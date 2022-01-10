@@ -143,6 +143,12 @@ Your vision gets smaller when you drive faster. When drivers drive slower, they 
 
 It's just an infographic though. It'd be nice if there is an official source or a study.
 
+There's a study in the comments about how speed affects your vision.
+
+The source of this post comes from the Seattle DOT: <https://www.seattle.gov/transportation/projects-and-programs/safety-first/vision-zero/speedlimits>. In this post, there is a link to a study on speed limits:
+
+> When SDOT signed streets for 25 mph, the data showed total crashes decline, injury crashes decline, 50th percentile speeds decline, 85th percentile speeds decline, and high-end speeding decline for every location reviewed.
+
 
 ### Greenhouse Gas Emissions from a Typical Passenger Vehicle | US EPA {#greenhouse-gas-emissions-from-a-typical-passenger-vehicle-us-epa}
 
@@ -668,3 +674,43 @@ These people who rides bicycles are overpaying for roads that they barely damage
 <https://www.edmunds.com/car-news/average-monthly-car-payment-for-new-car-636-dollars.html>
 
 -   <https://www.reddit.com/r/urbanplanning/comments/rze4ew/all%5Fthings%5Frelated%5Fto%5Fanticar%5Fdependency/hrv1sn1/>
+
+
+### Road Traffic Noise Exposure and Depression/Anxiety: An Updated Systematic Review and Meta-Analysis - PubMed {#road-traffic-noise-exposure-and-depression-anxiety-an-updated-systematic-review-and-meta-analysis-pubmed}
+
+<https://pubmed.ncbi.nlm.nih.gov/31717834/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s01dsh/could%5Fcar%5Fdependence%5Fmake%5Fus%5Fmore%5Fanxious%5Fas%5Fa/>
+
+This study researches on how road traffic noise affects depression/anxiety. They find that increasing exposure to road traffic noise may be associated with depression and anxiety.
+
+
+### NASA - Road Transportation Emerges as Key Driver of Warming in New Analysis from NASA {#nasa-road-transportation-emerges-as-key-driver-of-warming-in-new-analysis-from-nasa}
+
+<https://www.nasa.gov/topics/earth/features/road-transportation.html>
+
+-   <https://www.reddit.com/r/fuckcars/comments/rzirug/i%5Fcant%5Fbelieve%5Fpeople%5Fagree%5Fwith%5Fme/hrvzixm/>
+
+From NASA's research, they found that
+
+> In their analysis, motor vehicles emerged as the greatest contributor to atmospheric warming now and in the near term. Cars, buses, and trucks release pollutants and greenhouse gases that promote warming, while emitting few aerosols that counteract it.
+
+
+### Cities Aren't Loud: Cars Are Loud - YouTube - Not Just Bikes {#cities-aren-t-loud-cars-are-loud-youtube-not-just-bikes}
+
+<https://www.youtube.com/watch?v=CTV-wwszGw8>
+
+-   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i%5Flove%5Fthis%5Fsub%5Fbut%5Fit%5Fdesperately%5Fneeds%5Fa/>
+
+Cars are loud, period. In the video, he went from Amsterdam to Delft to record the sound levels and the difference is astounding. Delft made the city quiet by slowing cars down.
+
+
+### Asphalt adds to air pollution, especially on hot, sunny days {#asphalt-adds-to-air-pollution-especially-on-hot-sunny-days}
+
+<https://phys.org/news/2020-09-asphalt-air-pollution-hot-sunny.html>
+
+-   <https://www.reddit.com/r/fuckcars/comments/rywmc5/asphalt%5Fadds%5Fto%5Fair%5Fpollution%5Fespecially%5Fon%5Fhot/>
+
+Asphalt used in roads pollute. It'd be best if we can reduce the amount of roads so that ultimately we reduce the amount of pollution.
+
+> A main finding is that asphalt-related products emit substantial and diverse mixtures of organic compounds into the air, with a strong dependence on temperature and other environmental conditions
