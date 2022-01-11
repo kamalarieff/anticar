@@ -10,7 +10,7 @@ Here are the reasons why cars are bad with their supporting text.
 {{% children %}}
 
 {{% notice note %}}
-I haven't found a good place for these resources yet. In the mean time, I'll put them here instead.
+I haven't found a good place for these resources yet. In the mean time, I'll put them here.
 {{% /notice %}}
 
 

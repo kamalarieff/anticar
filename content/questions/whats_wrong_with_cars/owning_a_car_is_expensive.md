@@ -2,7 +2,7 @@
 title = "Owning a car is expensive"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2008
+weight = 2007
 +++
 
 ## Car costs - Wikipedia {#car-costs-wikipedia}

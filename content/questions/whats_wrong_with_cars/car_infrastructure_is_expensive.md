@@ -2,7 +2,7 @@
 title = "Car infrastructure is expensive"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2007
+weight = 2006
 +++
 
 ## (PDF) The Social Cost of Automobility, Cycling and Walking in the European Union {#pdf--the-social-cost-of-automobility-cycling-and-walking-in-the-european-union}
