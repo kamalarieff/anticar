@@ -2,7 +2,7 @@
 title = "Twitter"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 3005
+weight = 2041
 +++
 
 ## Cycling Professor {#cycling-professor}

@@ -146,3 +146,12 @@ In the referrer link is a video of the NY Governor Kathy Hochul giving a speech 
 -   <https://www.reddit.com/r/fuckcars/comments/rzvsgt/milan%5Fto%5Fcreate%5Fmassive%5Fbike%5Fnetwork/>
 
 They plan to make the bike the most convenient mode of transport for Milan's population. They took inspiration from Paris's plan to make the city '100 percent cycling city' within the next four years.
+
+
+### Sydney cycling: has the city that 'hates bikes' finally turned the corner? | Sydney | The Guardian {#sydney-cycling-has-the-city-that-hates-bikes-finally-turned-the-corner-sydney-the-guardian}
+
+<https://www.theguardian.com/australia-news/2021/jan/09/sydney-cycling-has-the-city-that-hates-bikes-finally-turned-the-corner>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s131cw/citizens%5Fof%5Fmy%5Fcity%5Fprove%5Fwhy%5Faustralia%5Fwill/hs5tt4b/>
+
+Only 7km of cycle lanes have been built but the response has been amazing. Ridership has increased.

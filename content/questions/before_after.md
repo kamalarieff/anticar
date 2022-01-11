@@ -161,3 +161,20 @@ This is the tweet in Barcelona where it showed the before and after where the af
 ### Oradea, Romania. Before and After : fuckcars {#oradea-romania-dot-before-and-after-fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/rykncc/oradea%5Fromania%5Fbefore%5Fand%5Fafter/>
+
+
+### City centre of Lisbon: how to convert a car-centric street into a walkable space : fuckcars {#city-centre-of-lisbon-how-to-convert-a-car-centric-street-into-a-walkable-space-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s0gjif/city%5Fcentre%5Fof%5Flisbon%5Fhow%5Fto%5Fconvert%5Fa%5Fcarcentric/>
+
+
+### Before and after Avenue de la Liberté in luxembourg city : fuckcars {#before-and-after-avenue-de-la-liberté-in-luxembourg-city-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s0qwdw/before%5Fand%5Fafter%5Favenue%5Fde%5Fla%5Flibert%C3%A9%5Fin/>
+
+
+### The Big Dig before and after : urbanplanning {#the-big-dig-before-and-after-urbanplanning}
+
+<https://www.reddit.com/r/urbanplanning/comments/czp2iy/the%5Fbig%5Fdig%5Fbefore%5Fand%5Fafter/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s0qz92/the%5Fbig%5Fdig%5Fbefore%5Fand%5Fafter/>

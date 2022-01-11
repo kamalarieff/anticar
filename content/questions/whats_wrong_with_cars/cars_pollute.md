@@ -198,3 +198,20 @@ Cars are loud, period. In the video, he went from Amsterdam to Delft to record t
 Asphalt used in roads pollute. It'd be best if we can reduce the amount of roads so that ultimately we reduce the amount of pollution.
 
 > A main finding is that asphalt-related products emit substantial and diverse mixtures of organic compounds into the air, with a strong dependence on temperature and other environmental conditions
+
+
+## Road Salt Works. But It's Also Bad for the Environment. {#road-salt-works-dot-but-it-s-also-bad-for-the-environment-dot}
+
+<https://news.yahoo.com/road-salt-works-bad-environment-161912248.html>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s0n6mp/as%5Fsnow%5Fand%5Fice%5Fmelt%5Fon%5Froads%5Fthe%5Fsalt%5Fwashes/>
+
+The salt used to de-ice the roads have environmental consequences. The salt used is contaminating the wells and affecting the sodium concentration thereby harming people with low-sodium and moderate-sodium diets.
+
+Wildlife are affected too.
+
+> elevated salinity levels in freshwater ecosystems had already caused a reduction in the abundance and growth of freshwater organisms and a reduction in their reproduction outputs.
+
+Besides that,
+
+> Road salt also corrodes vehicles and bridges, causing $5 billion in annual repairs in the United States

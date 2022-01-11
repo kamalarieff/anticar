@@ -2,7 +2,7 @@
 title = "Podcasts and websites"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 3003
+weight = 2038
 +++
 
 ## Strong Towns {#strong-towns}

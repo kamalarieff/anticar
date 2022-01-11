@@ -2,7 +2,7 @@
 title = "Local advocacy groups"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 3004
+weight = 2040
 +++
 
 ## Local Walking Organizations - America Walks {#local-walking-organizations-america-walks}
@@ -50,3 +50,11 @@ You can try signing up. These are the tasks that are specified on the page that 
 -   Administration
 -   Grassroots activism and contact work
 -   Government and public sector lobbying
+
+
+## London Cycle Link {#london-cycle-link}
+
+<https://www.londoncyclelink.ca/>
+
+-   <https://www.reddit.com/r/londonontario/comments/s0bmma/has%5Fanyone%5Fgone%5Fcar%5Ffree%5Fin%5Flondon%5Fany%5Ftips/hs27ajk/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0od38/more%5Ffakelondoners%5Fasking%5Fabout%5Falternatives%5Fto/>
