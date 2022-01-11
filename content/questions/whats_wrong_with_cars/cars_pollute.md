@@ -2,7 +2,7 @@
 title = "Cars pollute"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2012
+weight = 2011
 +++
 
 ## (PDF) Tire Abrasion as a Major Source of Microplastics in the Environment {#pdf--tire-abrasion-as-a-major-source-of-microplastics-in-the-environment}
@@ -161,8 +161,9 @@ It's caused by fine particles.
 
 ## Road Traffic Noise Exposure and Depression/Anxiety: An Updated Systematic Review and Meta-Analysis - PubMed {#road-traffic-noise-exposure-and-depression-anxiety-an-updated-systematic-review-and-meta-analysis-pubmed}
 
-<https://pubmed.ncbi.nlm.nih.gov/31717834/>
+<https://pdfs.semanticscholar.org/a9a4/2cb7596ee99b6a74fc7fcdc0e90e354caade.pdf>
 
+-   <https://pubmed.ncbi.nlm.nih.gov/31717834/>
 -   <https://www.reddit.com/r/fuckcars/comments/s01dsh/could%5Fcar%5Fdependence%5Fmake%5Fus%5Fmore%5Fanxious%5Fas%5Fa/>
 
 This study researches on how road traffic noise affects depression/anxiety. They find that increasing exposure to road traffic noise may be associated with depression and anxiety.
