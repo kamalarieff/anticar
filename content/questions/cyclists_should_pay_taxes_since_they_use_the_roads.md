@@ -20,6 +20,10 @@ This is a myth. The damage done by cyclists are so little compared to cars.
 
 The article itself is very short so there's not much to quote from. There is a chart in this article where it showed how much damage a bicycle does.
 
+{{< figure src="/ox-hugo/2022-01-13_11:58 vehicle-weight-and-damage-chart.jpg" >}}
+
+As you can see, damage done by cyclists are so little compared to everything else.
+
 But there is a paragraph that is pretty cool to share to shut up about these types of arguments.
 
 > It would take 700 trips by bicycle to equal the damage caused by one Smart Car. It would take 17,059 trips by bike to equal the damage caused by an average car. And it would take 364,520 bike trips to equal the damage caused by just one Hummer H2. !!!!!

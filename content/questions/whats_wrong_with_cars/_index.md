@@ -103,7 +103,9 @@ An infographic on how much each mode of transportation carry people with suburba
 -   <https://www.reddit.com/r/BicyclingCirclejerk/comments/ry3kwq/the%5Fenviromental%5Ffriendly%5Ffredster/>
 -   <https://www.reddit.com/r/fuckcars/comments/ry8vvf/the%5Fenviromental%5Ffriendly%5Ffredster/>
 
-Cars do much more damage than a bicycle.
+{{< figure src="/ox-hugo/2022-01-13_11:58 vehicle-weight-and-damage-chart.jpg" >}}
+
+From the image, cars do much more damage than a bicycle. Remember this image. It is referenced a lot when it comes to talking about road infrastructure.
 
 > It would take 17,059 trips by bike to equal the damage caused by an average car
 
