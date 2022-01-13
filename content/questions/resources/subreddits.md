@@ -123,3 +123,8 @@ weight = 2036
 <https://www.reddit.com/r/walkabletowns/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/s0q8n7/thoughts%5Fon%5Fporticoes%5Fthey%5Fkeep%5Fpedestrians%5Fsafe/>
+
+
+## AbolishCars {#abolishcars}
+
+<https://www.reddit.com/r/AbolishCars/>

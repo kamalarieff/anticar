@@ -18,6 +18,6 @@ This is a myth. By giving people more alternative modes of transportation, this 
 There is a segment where people are complaining that removing cars from Market Street would be bad but the data shown is different. You can see it at 5:53. There was no negative impact for travel times but bus times increased.
 
 
-### Do Your Buses Get Stuck in Traffic? Traffic solutions & the Downs-Thomson Paradox - YouTube - Not Just Bikes {#do-your-buses-get-stuck-in-traffic-traffic-solutions-and-the-downs-thomson-paradox-youtube-not-just-bikes}
+### Do Your Buses Get Stuck in Traffic? Traffic solutions &amp; the Downs-Thomson Paradox - YouTube - Not Just Bikes {#do-your-buses-get-stuck-in-traffic-traffic-solutions-and-the-downs-thomson-paradox-youtube-not-just-bikes}
 
 <https://www.youtube.com/watch?v=RQY6WGOoYis>

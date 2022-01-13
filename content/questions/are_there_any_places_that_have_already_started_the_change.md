@@ -108,7 +108,7 @@ Hagastaden planning to build one of Stockholm’s largest urban development area
 This is a video of Brussels turning a stroad into a people focused space. Notice how quiet it is.
 
 
-### Streets in Mumbai's #BKC are being redesigned to encourage walking & cycling. {#streets-in-mumbai-s-bkc-are-being-redesigned-to-encourage-walking-and-cycling-dot}
+### Streets in Mumbai's #BKC are being redesigned to encourage walking &amp; cycling. {#streets-in-mumbai-s-bkc-are-being-redesigned-to-encourage-walking-and-cycling-dot}
 
 <https://twitter.com/nihart1024/status/1474954279584616448>
 
@@ -155,3 +155,13 @@ They plan to make the bike the most convenient mode of transport for Milan's pop
 -   <https://www.reddit.com/r/fuckcars/comments/s131cw/citizens%5Fof%5Fmy%5Fcity%5Fprove%5Fwhy%5Faustralia%5Fwill/hs5tt4b/>
 
 Only 7km of cycle lanes have been built but the response has been amazing. Ridership has increased.
+
+
+### Town of Banff drops speed limit to 30 km/h on all streets | CBC News {#town-of-banff-drops-speed-limit-to-30-km-h-on-all-streets-cbc-news}
+
+<https://www.cbc.ca/news/canada/calgary/town-of-banff-drops-speed-limit-to-30-km-h-1.6310498>
+
+-   <https://www.reddit.com/r/urbanplanning/comments/s1jweb/town%5Fof%5Fbanff%5Fdrops%5Fspeed%5Flimit%5Fto%5F30%5Fkmh%5Fon%5Fall/>
+-   <https://www.reddit.com/r/fuckcars/comments/s1kx96/town%5Fof%5Fbanff%5Fdrops%5Fspeed%5Flimit%5Fto%5F30%5Fkmh%5Fon%5Fall/>
+
+By reducing the speed, it becomes safer for everyone. Reducing the speed also saw a reduction in emissions and congestion.

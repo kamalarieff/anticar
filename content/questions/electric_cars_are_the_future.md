@@ -11,7 +11,7 @@ They reduce carbon emission but they still take up space, noisy above 40km/h.
 ## Resources {#resources}
 
 
-### Will Electric Cars Make Traffic Quieter? Yes & No. - CleanTechnica {#will-electric-cars-make-traffic-quieter-yes-and-no-dot-cleantechnica}
+### Will Electric Cars Make Traffic Quieter? Yes &amp; No. - CleanTechnica {#will-electric-cars-make-traffic-quieter-yes-and-no-dot-cleantechnica}
 
 <https://cleantechnica.com/2016/06/05/will-electric-cars-make-traffic-quieter-yes-no/>
 

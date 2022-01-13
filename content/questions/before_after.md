@@ -5,7 +5,7 @@ draft = false
 weight = 1
 +++
 
-What does it mean building cities for people, not cars? If you like a video format, check this video out [Utrecht: Planning for People & Bikes, Not for Cars - YouTube](https://www.youtube.com/watch?v=Boi0XEm9-4E).
+What does it mean building cities for people, not cars? If you like a video format, check this video out [Utrecht: Planning for People &amp; Bikes, Not for Cars - YouTube](https://www.youtube.com/watch?v=Boi0XEm9-4E).
 
 
 ## Resources {#resources}
@@ -121,7 +121,7 @@ Plenty of pictures in this post.
 <https://www.reddit.com/r/fuckcars/comments/rvdj5r/nice%5Ftransformation%5Fin%5Fbudapest/>
 
 
-### fuck slip lanes (montreal 2015 -> 2020) : fuckcars {#fuck-slip-lanes--montreal-2015-2020--fuckcars}
+### fuck slip lanes (montreal 2015 -&gt; 2020) : fuckcars {#fuck-slip-lanes--montreal-2015-2020--fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/rvnivz/fuck%5Fslip%5Flanes%5Fmontreal%5F2015%5F2020/>
 
@@ -178,3 +178,15 @@ This is the tweet in Barcelona where it showed the before and after where the af
 <https://www.reddit.com/r/urbanplanning/comments/czp2iy/the%5Fbig%5Fdig%5Fbefore%5Fand%5Fafter/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/s0qz92/the%5Fbig%5Fdig%5Fbefore%5Fand%5Fafter/>
+
+
+### Why Tokyo Is Insanely Well Designed - YouTube - OBF {#why-tokyo-is-insanely-well-designed-youtube-obf}
+
+<https://www.youtube.com/watch?v=zysL%5Flkdtys>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s1vtbr/why%5Ftokyo%5Fis%5Finsanely%5Fwell%5Fdesigned/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0ymbd/why%5Ftokyo%5Fis%5Finsanely%5Fwell%5Fdesigned/>
+
+Tokyo made cars unattractive as possible by making them pay expensive tolls. You can see it at 4:56.
+
+They also do regular maintenance on their trains and tracks to make sure that they're safe.

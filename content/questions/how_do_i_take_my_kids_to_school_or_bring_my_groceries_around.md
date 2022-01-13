@@ -23,3 +23,10 @@ At 4:07, she brings her kids around in a cargo bike.
 <https://www.reddit.com/r/fuckcars/comments/rz8cfy/2022%5Fis%5Fthe%5Fyear%5Fi%5Fstart%5Fgetting%5Fgroceries%5Fusing/>
 
 There are plenty of ways you can bring your groceries around. This is one of them.
+
+
+### The NYC Cargo Bike Revolution: More Families take to the Streets! - YouTube - Streetfilms {#the-nyc-cargo-bike-revolution-more-families-take-to-the-streets-youtube-streetfilms}
+
+<https://www.youtube.com/watch?v=fBK4RSZN1Do>
+
+An excellent video on how people get around the city carrying their kids by using cargo bikes. They get to interact with their kids on the bike. Kids have fun on the bike as well.

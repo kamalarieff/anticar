@@ -35,7 +35,7 @@ This article is in German. But it is about how air quality has improved and vehi
 > Sensational success of the Kantstrasse pop-up cycle path in Berlin: Investigation by Deutsche Umwelthilfe shows that cycle traffic has tripled and air quality has improved. From 1,500 to more than 5,100 bicycles per day after the introduction of the pop-up cycle path, vehicle traffic drops by 22%
 
 
-### Utrecht: Planning for People & Bikes, Not for Cars - YouTube - Streetfilms {#utrecht-planning-for-people-and-bikes-not-for-cars-youtube-streetfilms}
+### Utrecht: Planning for People &amp; Bikes, Not for Cars - YouTube - Streetfilms {#utrecht-planning-for-people-and-bikes-not-for-cars-youtube-streetfilms}
 
 <https://www.youtube.com/watch?v=Boi0XEm9-4E>
 
@@ -114,7 +114,7 @@ It reduces cancer by 45% and heart diseases by 46%. You can see it at 4:03 in th
 It costs $20 million to build a 80km cycle nenetwork. When you build 1km of a highway, you build hundreds of kilometers of cycling lanes.
 
 
-### Nijmegen: The City That Tamed Cars So People Can Walk & Bike Where They Please - YouTube - Streetfilms {#nijmegen-the-city-that-tamed-cars-so-people-can-walk-and-bike-where-they-please-youtube-streetfilms}
+### Nijmegen: The City That Tamed Cars So People Can Walk &amp; Bike Where They Please - YouTube - Streetfilms {#nijmegen-the-city-that-tamed-cars-so-people-can-walk-and-bike-where-they-please-youtube-streetfilms}
 
 <https://www.youtube.com/watch?v=gjLZv3Y0CWM>
 

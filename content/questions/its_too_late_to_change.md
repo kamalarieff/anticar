@@ -11,14 +11,14 @@ No it's not. Netherlands was heavily car cultured 30 years ago. Look where they 
 ## Resources {#resources}
 
 
-### 24 Hours in Rotterdam: Bicycling Up, Enjoying the City Lounge & Less Space for the Car - YouTube - Streetfilms {#24-hours-in-rotterdam-bicycling-up-enjoying-the-city-lounge-and-less-space-for-the-car-youtube-streetfilms}
+### 24 Hours in Rotterdam: Bicycling Up, Enjoying the City Lounge &amp; Less Space for the Car - YouTube - Streetfilms {#24-hours-in-rotterdam-bicycling-up-enjoying-the-city-lounge-and-less-space-for-the-car-youtube-streetfilms}
 
 <https://www.youtube.com/watch?v=HrI4Sv0djY4>
 
 At 1:37, you can see that Rotterdam was full of cars 10-15 years ago. No room for people. It is definitely not too late to change.
 
 
-### Nijmegen: The City That Tamed Cars So People Can Walk & Bike Where They Please - YouTube - Streetfilms {#nijmegen-the-city-that-tamed-cars-so-people-can-walk-and-bike-where-they-please-youtube-streetfilms}
+### Nijmegen: The City That Tamed Cars So People Can Walk &amp; Bike Where They Please - YouTube - Streetfilms {#nijmegen-the-city-that-tamed-cars-so-people-can-walk-and-bike-where-they-please-youtube-streetfilms}
 
 <https://www.youtube.com/watch?v=gjLZv3Y0CWM>
 

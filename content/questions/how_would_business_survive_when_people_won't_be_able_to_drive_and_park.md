@@ -40,7 +40,7 @@ A study done on restaurant owners on what is their perception on how many people
 
 <https://www.youtube.com/watch?v=b2HvW2iGNRk>
 
-At 9:56, merchants even want all parking gone so that it is more accessible for pedestrians because sales are better. This clip is taken from [Utrecht: Planning for People & Bikes, Not for Cars - YouTube](https://www.youtube.com/watch?v=Boi0XEm9-4E). You can see it at 4:25.
+At 9:56, merchants even want all parking gone so that it is more accessible for pedestrians because sales are better. This clip is taken from [Utrecht: Planning for People &amp; Bikes, Not for Cars - YouTube](https://www.youtube.com/watch?v=Boi0XEm9-4E). You can see it at 4:25.
 
 At 10:12, there is a 10% boost in sales in Madrid.
 

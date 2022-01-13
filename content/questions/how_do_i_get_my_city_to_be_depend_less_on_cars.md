@@ -102,3 +102,29 @@ Kids being politically engaged. They want the safer streets to play. At 4:17, yo
 -   <https://www.reddit.com/r/fuckcars/comments/ru37p8/ehhh%5Fjust%5Fwatched%5Fthis%5Fvideo%5Fwhat%5Fdo%5Fyou%5Fguys/>
 
 He talked about congestion pricing where you have to pay a certain amount when you want to enter part of a city. You can see it at 10:35.
+
+
+### One-Way Protected Cycle Tracks | National Association of City Transportation Officials {#one-way-protected-cycle-tracks-national-association-of-city-transportation-officials}
+
+<https://nacto.org/publication/urban-bikeway-design-guide/cycle-tracks/one-way-protected-cycle-tracks/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s1kp6y/moving%5Fcars%5Fis%5Fmore%5Fimportant%5Fthan%5Fhuman%5Flife%5Fand/hsacgp4/>
+
+NACTO's guide on how to make protected bike lanes. You can use this to recommend to your local council.
+
+
+## What's Wrong With Free Parking at Work? - Bloomberg {#what-s-wrong-with-free-parking-at-work-bloomberg}
+
+<https://www.bloomberg.com/news/articles/2021-07-14/what-s-wrong-with-free-parking-at-work>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s1zdsy/cool%5Fconcept%5Fget%5Fpaid%5Ffor%5Fnot%5Fparking%5Fyour%5Fcar%5Fat/>
+
+You can ask your employers to offer parking cash out where people who don't drive to work gets some sort of cash incentive.
+
+> Commuters can continue to drive and park free, or they can take the cash value of the parking subsidy and use it for anything they want, such as putting it toward the rent of an apartment within walking or biking distance of work
+
+There is a lot of benefits to implementing parking cash out.
+
+From the article,
+
+> solo driving to work fell 17%, carpooling increased 64%, transit ridership increased 50%, and walking or biking increased 39%. These changes reduced vehicle travel to work by 12% — equivalent to removing from the road one of every eight cars driven to work. Employers reported that parking cash out was cheap, easy to manage and fair. It also helped them to recruit and retain workers.

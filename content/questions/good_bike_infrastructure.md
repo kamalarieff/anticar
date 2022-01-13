@@ -60,7 +60,7 @@ You know how to keep trying to find a way to create a safer intersection? This i
 From the referrer, it is criticizing the American way of building intersections. This video is the Dutch way [Junction design, the Dutch - cycle-friendly - way {120} - YouTube](https://www.youtube.com/watch?v=FlApbxLz6pA) and [Junction design for safer cycling (Netherlands) {90} - YouTube](https://www.youtube.com/watch?v=rBwMRGxtZ9k) [[referrer] CAR and BIKE conflict on BIKE lane - YouTube](https://www.youtube.com/watch?v=z1lp%5FJnv3L8).
 
 
-### Utrecht: Planning for People & Bikes, Not for Cars - YouTube - Streetfilms {#utrecht-planning-for-people-and-bikes-not-for-cars-youtube-streetfilms}
+### Utrecht: Planning for People &amp; Bikes, Not for Cars - YouTube - Streetfilms {#utrecht-planning-for-people-and-bikes-not-for-cars-youtube-streetfilms}
 
 <https://www.youtube.com/watch?v=Boi0XEm9-4E>
 
@@ -99,7 +99,7 @@ This video is comparing between American cities and cities with good multiple mo
 When you don't provide good other modes of transportation, you force everyone to drive [1:10].
 
 
-### Nijmegen: The City That Tamed Cars So People Can Walk & Bike Where They Please - YouTube - Streetfilms {#nijmegen-the-city-that-tamed-cars-so-people-can-walk-and-bike-where-they-please-youtube-streetfilms}
+### Nijmegen: The City That Tamed Cars So People Can Walk &amp; Bike Where They Please - YouTube - Streetfilms {#nijmegen-the-city-that-tamed-cars-so-people-can-walk-and-bike-where-they-please-youtube-streetfilms}
 
 <https://www.youtube.com/watch?v=gjLZv3Y0CWM>
 

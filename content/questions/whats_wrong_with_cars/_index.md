@@ -17,6 +17,13 @@ I haven't found a good place for these resources yet. In the mean time, I'll put
 ## Resources {#resources}
 
 
+### A picture that encompasses why cars are bad {#a-picture-that-encompasses-why-cars-are-bad}
+
+-   <https://www.reddit.com/r/fuckcars/comments/s18qwq/startling%5Finformation%5Fon%5Fhow%5Fwasteful%5Fcars%5Fare%5F86/>
+
+{{< figure src="/ox-hugo/2022-01-12_16:23 infographic on why cars are bad.png" >}}
+
+
 ### Let's Ban Cars! (Seriously) - YouTube - BritMonkey {#let-s-ban-cars--seriously--youtube-britmonkey}
 
 <https://www.youtube.com/watch?v=rSSNlM3Au1A>
