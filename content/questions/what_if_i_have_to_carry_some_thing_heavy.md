@@ -2,7 +2,7 @@
 title = "What if I have to carry some thing heavy?"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 19
+weight = 20
 +++
 
 There are plenty types of bikes that you can use to carry these heavy things around.

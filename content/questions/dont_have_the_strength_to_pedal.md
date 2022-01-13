@@ -2,7 +2,7 @@
 title = "There's a lot of hills where I live/I'm old/I'm disabled and I don't have the strength to pedal my bike."
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 20
+weight = 21
 +++
 
 There is always an option to use ebikes. This gives the benefits of a bicycle with so much cheaper than a car.

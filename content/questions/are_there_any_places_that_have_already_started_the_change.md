@@ -2,7 +2,7 @@
 title = "Are there any places that have already started the change?"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 24
+weight = 25
 +++
 
 Yes there are.
@@ -165,3 +165,10 @@ Only 7km of cycle lanes have been built but the response has been amazing. Rider
 -   <https://www.reddit.com/r/fuckcars/comments/s1kx96/town%5Fof%5Fbanff%5Fdrops%5Fspeed%5Flimit%5Fto%5F30%5Fkmh%5Fon%5Fall/>
 
 By reducing the speed, it becomes safer for everyone. Reducing the speed also saw a reduction in emissions and congestion.
+
+
+### Strong Towns Success Stories {#strong-towns-success-stories}
+
+<https://actionlab.strongtowns.org/hc/en-us/sections/360011677231-Success-Stories>
+
+A lot of success stories in here.

@@ -2,7 +2,7 @@
 title = "It's too late to change."
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 17
+weight = 18
 +++
 
 No it's not. Netherlands was heavily car cultured 30 years ago. Look where they are now.

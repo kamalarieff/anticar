@@ -2,7 +2,7 @@
 title = "Local advocacy groups"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2040
+weight = 2042
 +++
 
 ## Local Walking Organizations - America Walks {#local-walking-organizations-america-walks}

@@ -2,7 +2,7 @@
 title = "Podcasts and websites"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2038
+weight = 2040
 +++
 
 ## Strong Towns {#strong-towns}
@@ -10,6 +10,8 @@ weight = 2038
 <https://www.strongtowns.org/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+
+If the entire website is too much for you and you don't know where to start, I recommend the [explore by topics](https://actionlab.strongtowns.org/hc/en-us/categories/360004221831-Explore-by-Topic) page.
 
 
 ## The War on Cars – Enlist today! {#the-war-on-cars-enlist-today}
