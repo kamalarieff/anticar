@@ -84,3 +84,18 @@ People tend to overestimate the number of people who drove to their shops.
 <https://www.reddit.com/r/fuckcars/comments/rsgqs1/it%5Fgets%5Ftiring%5Fhaving%5Fto%5Fprove%5Fthat%5Fits%5Fpossible/>
 
 This is an image of a walkable street where there's arrows pointing out people buying groceries, disabled people in wheelchairs.
+
+
+### The Business Case for Car-Free Streets - Bloomberg {#the-business-case-for-car-free-streets-bloomberg}
+
+<https://www.bloomberg.com/news/articles/2021-05-11/the-business-case-for-car-free-streets>
+
+-   <https://www.reddit.com/r/vancouver/comments/s2otsu/gastown/hsg0r59/>
+
+This is an article and research on how car-free streets were attracting more customers. It did a study on a few number of streets in the United States during the COVID 19 pandemic.
+
+> As a share of all restaurants across San Francisco, eateries on Valencia saw 18% more consumer interest on car-free days compared to the start of the pandemic.
+
+<!--quoteend-->
+
+> Restaurants on car-free Vanderbilt Avenue in Brooklyn’s Prospect Heights neighborhood reported an average of 54% more customer visits after the first month of the program

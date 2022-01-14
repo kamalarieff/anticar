@@ -190,3 +190,8 @@ This is the tweet in Barcelona where it showed the before and after where the af
 Tokyo made cars unattractive as possible by making them pay expensive tolls. You can see it at 4:56.
 
 They also do regular maintenance on their trains and tracks to make sure that they're safe.
+
+
+### Mackinac Island in the US State of Michigan does not allow automobiles on the roads (except for emergency services) : fuckcars {#mackinac-island-in-the-us-state-of-michigan-does-not-allow-automobiles-on-the-roads--except-for-emergency-services--fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s2a13u/mackinac%5Fisland%5Fin%5Fthe%5Fus%5Fstate%5Fof%5Fmichigan%5Fdoes/>

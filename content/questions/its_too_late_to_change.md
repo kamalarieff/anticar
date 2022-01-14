@@ -37,4 +37,12 @@ There are additional pictures in the reddit thread from Twitter and the post its
 
 In the second referrer link, it is a post of a picture of a highway and roads turned into a canal and bike paths.
 
-2021-12-30 Thursday 01:38 I'm starting to combine posts that are based around the similar topic. This is the first one.
+
+### Amsterdam: historic images depicting a transition from cars to bikes in the city centre – The Urban Observer {#amsterdam-historic-images-depicting-a-transition-from-cars-to-bikes-in-the-city-centre-the-urban-observer}
+
+<https://exploring-and-observing-cities.org/2016/01/11/amsterdam-historic-images-depicting-the-transition-from-cars-to-bikes/>
+
+-   <https://www.reddit.com/r/vancouver/comments/s2otsu/gastown/hsgf7l3/>
+-   <https://www.reddit.com/r/fuckcars/comments/s2u37a/lets%5Fgo%5Fpeople%5Fin%5Frvancouver%5Fsupport%5Fbanning%5Fcars/>
+
+10 to 15 years ago, Amsterdam was still car-centric. It's never too late to change.
