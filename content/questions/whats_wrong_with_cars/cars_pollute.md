@@ -215,3 +215,12 @@ Wildlife are affected too.
 Besides that,
 
 > Road salt also corrodes vehicles and bridges, causing $5 billion in annual repairs in the United States
+
+
+## Your Utah, Your Future - Background: Air Quality in Utah {#your-utah-your-future-background-air-quality-in-utah}
+
+<https://yourutahyourfuture.org/topics/air-quality/item/44-background-air-quality-in-utah#:%7E:text=Mobile%20sources%E2%80%94cars%20and%20trucks,up%2027%25%20of%20winter%20emissions>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s4zgpy/welcome%5Fto%5Fsalt%5Flake%5Fcity%5Futah%5Fover%5Fhalf%5Fof%5Fthe/hsu9vou/>
+
+55% of the air pollution in Utah is caused by vehicles.

@@ -195,3 +195,15 @@ They also do regular maintenance on their trains and tracks to make sure that th
 ### Mackinac Island in the US State of Michigan does not allow automobiles on the roads (except for emergency services) : fuckcars {#mackinac-island-in-the-us-state-of-michigan-does-not-allow-automobiles-on-the-roads--except-for-emergency-services--fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/s2a13u/mackinac%5Fisland%5Fin%5Fthe%5Fus%5Fstate%5Fof%5Fmichigan%5Fdoes/>
+
+
+### Even Moscow is getting better : fuckcars {#even-moscow-is-getting-better-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s5ell8/even%5Fmoscow%5Fis%5Fgetting%5Fbetter/>
+
+
+### Before car - during car - after car. Nikolskaya Street Moscow : fuckcars {#before-car-during-car-after-car-dot-nikolskaya-street-moscow-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s4qkhq/before%5Fcar%5Fduring%5Fcar%5Fafter%5Fcar%5Fnikolskaya%5Fstreet/>
+
+A three-series picture where it showed before cars, during cars and after cars.

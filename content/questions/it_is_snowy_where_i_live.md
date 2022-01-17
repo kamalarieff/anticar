@@ -31,3 +31,12 @@ People can ride in the snow fine.
 -   <https://www.reddit.com/r/fuckcars/comments/ryi2kb/i%5Fneed%5Fmy%5Ftruck%5Fbecause%5Fit%5Fsnows%5Fsometimes1/>
 
 He compared two different cities in Finland where one city has good bike infrastructure but the other doesn't. It's all basically in the bike infrastructure.
+
+
+### Winter Cycling ? IMPOSSIBLE ! - YouTube - War On Cars {#winter-cycling-impossible-youtube-war-on-cars}
+
+<https://www.youtube.com/watch?v=1NLvP2YsVmY>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s5nmv7/just%5Fa%5Freminder%5Fabout%5Fsnow%5Fand%5Fbicycles/>
+
+Video showed you can ride in plowed bike paths and snowed bike paths.

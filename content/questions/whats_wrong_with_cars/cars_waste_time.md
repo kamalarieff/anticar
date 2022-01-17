@@ -13,3 +13,12 @@ weight = 2012
 <https://www.reddit.com/r/fuckcars/comments/rbjndz/cars%5Fliterally%5Fwasting%5Fmore%5Fthan%5Fhalf%5Fa%5Fweek%5Fin%5Fa/>
 
 Cars waste time. There is also a figure on how much that would amount to money.
+
+
+## This 15-km Japanese traffic jam had some trapped for 40 hours | Driving {#this-15-km-japanese-traffic-jam-had-some-trapped-for-40-hours-driving}
+
+<https://driving.ca/auto-news/news/this-15-km-japanese-traffic-jam-had-some-trapped-for-40-hours>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s60fox/this%5F15km%5Fjapanese%5Ftraffic%5Fjam%5Fhad%5Fsome%5Ftrapped/>
+
+When the car infrastructure fails, a lot of people bear the brunt of it.

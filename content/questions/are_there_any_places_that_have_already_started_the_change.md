@@ -172,3 +172,42 @@ By reducing the speed, it becomes safer for everyone. Reducing the speed also sa
 <https://actionlab.strongtowns.org/hc/en-us/sections/360011677231-Success-Stories>
 
 A lot of success stories in here.
+
+
+### Hennepin Ave: If We Can’t Implement the City’s Policies Here, Then Where? | streets.mn {#hennepin-ave-if-we-can-t-implement-the-city-s-policies-here-then-where-streets-dot-mn}
+
+<https://streets.mn/2022/01/11/hennepin-ave-if-we-cant-implement-the-citys-policies-here-then-where/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s5eo3o/hennepin%5Fave%5Fminneapolis%5Fmn/hsx9gkk/>
+
+Some statistics regarding parking in this article. But basically, they're taking away car lanes and parking spaces to make way for buses, pedestrian paths and bike paths.
+
+A lot of concern regarding taking away of parking spaces but they're only taking away 10% of total parking spaces.
+
+There's also an image of how the new road system would look like.
+
+
+### Berlin is planning a car-free area larger than Manhattan {#berlin-is-planning-a-car-free-area-larger-than-manhattan}
+
+<https://www.fastcompany.com/90711961/berlin-is-planning-a-car-free-area-larger-than-manhattan>
+
+-   <https://www.reddit.com/r/UpliftingNews/comments/s59ver/berlin%5Fis%5Fplanning%5Fa%5Fcarfree%5Farea%5Flarger%5Fthan/>
+-   <https://www.reddit.com/r/fuckcars/comments/s5axoa/berlin%5Fis%5Fplanning%5Fa%5Fcarfree%5Farea%5Flarger%5Fthan/>
+
+It's more like car-less where special vehicles like ambulances and such are still able to enter the city. They are planning to drop the number of usage in private vehicles.
+
+
+### The Point, a new Utah community, will be a 15-minute city {#the-point-a-new-utah-community-will-be-a-15-minute-city}
+
+<https://www.fastcompany.com/90713241/theyre-building-a-15-minute-city-from-scratch-in-the-utah-desert?partner=rss&utm%5Fsource=facebook.com&utm%5Fmedium=social&utm%5Fcampaign=rss+fastcompany&utm%5Fcontent=rss>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s5clp0/theyre%5Fbuilding%5Fa%5F15minute%5Fcity%5Ffrom%5Fscratch%5Fin/>
+
+Utah is building a first of its kind in the United States, a 15-minute city where it will prioritize space for bike lanes and wide sidewalks over cars called The Point. There's also good public transportation in the plans.
+
+
+### Why more Arabs are embracing pedal power | The Economist {#why-more-arabs-are-embracing-pedal-power-the-economist}
+
+<https://www.economist.com/middle-east-and-africa/2022/01/13/why-more-arabs-are-embracing-pedal-power>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s5frnd/why%5Fmore%5Farabs%5Fare%5Fembracing%5Fpedal%5Fpower/>
