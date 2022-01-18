@@ -175,3 +175,12 @@ In the article, he said "There is evidence that phone use is as dangerous as dri
 -   <https://www.reddit.com/r/fuckcars/comments/rwkyhg/a%5Fblood%5Fsacrifice%5Ffor%5Fthe%5Fcar%5Fgods/>
 
 This article showed that pedestrian deaths are on the rise. It's because the infrastructure is focused on speed rather than safety.
+
+
+## Pakistan:At least 22 die stranded in heavy snow in traffic jam | Metro News {#pakistan-at-least-22-die-stranded-in-heavy-snow-in-traffic-jam-metro-news}
+
+<https://metro.co.uk/2022/01/08/pakistanat-least-22-die-stranded-in-heavy-snow-in-traffic-jam-15886066/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s6iaqg/car%5Fcompanies%5Fknow%5Fperfectly%5Fwell%5Fthat%5Fdeveloping/ht3rru0/>
+
+Bad car infrastructure can also kill you not just through accidents. These people die when they were stranded in the snow. If you can't maintain safe and proper infrastructure, maybe it's time to invest in cheaper and better infrastructure in the form of public transportation.

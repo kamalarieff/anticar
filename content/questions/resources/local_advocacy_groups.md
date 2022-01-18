@@ -58,3 +58,12 @@ You can try signing up. These are the tasks that are specified on the page that 
 
 -   <https://www.reddit.com/r/londonontario/comments/s0bmma/has%5Fanyone%5Fgone%5Fcar%5Ffree%5Fin%5Flondon%5Fany%5Ftips/hs27ajk/>
 -   <https://www.reddit.com/r/fuckcars/comments/s0od38/more%5Ffakelondoners%5Fasking%5Fabout%5Falternatives%5Fto/>
+
+
+## League of American Bicyclists Home Page | League of American Bicyclists {#league-of-american-bicyclists-home-page-league-of-american-bicyclists}
+
+<https://www.bikeleague.org/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s6jlej/are%5Fthere%5Fany%5Forganizations%5For%5Fgroups%5Fdedicated/ht4fv1o/>
+
+Pro-bike is usually anti-car.

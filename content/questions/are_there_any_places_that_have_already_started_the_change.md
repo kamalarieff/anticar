@@ -193,8 +193,11 @@ There's also an image of how the new road system would look like.
 
 -   <https://www.reddit.com/r/UpliftingNews/comments/s59ver/berlin%5Fis%5Fplanning%5Fa%5Fcarfree%5Farea%5Flarger%5Fthan/>
 -   <https://www.reddit.com/r/fuckcars/comments/s5axoa/berlin%5Fis%5Fplanning%5Fa%5Fcarfree%5Farea%5Flarger%5Fthan/>
+-   <https://www.reddit.com/r/fuckcars/comments/s6b8ds/berlin%5Flooks%5Fto%5Fcreate%5Fcarfree%5Fzone%5Flarger%5Fthan/>
 
 It's more like car-less where special vehicles like ambulances and such are still able to enter the city. They are planning to drop the number of usage in private vehicles.
+
+They're planning to remove cars in general, not just converting them to electric cars.
 
 
 ### The Point, a new Utah community, will be a 15-minute city {#the-point-a-new-utah-community-will-be-a-15-minute-city}

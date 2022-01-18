@@ -137,3 +137,12 @@ At 3:31, kids are able to be more independent.
 -   Lowering blood pressure, improving cholesterol levels, managing their weight and reducing their risk of developing heart disease and type 2 diabetes.
 -   Brain scans showed that practicing pedaling on a regular basis increased the integrity of white matter fiber tracts in both healthy and schizophrenic brains.
 -   Prevent or relieve stress, anxiety and depression.
+
+
+### Property values 'thrive' near transit, study finds | Smart Cities Dive {#property-values-thrive-near-transit-study-finds-smart-cities-dive}
+
+<https://www.smartcitiesdive.com/news/property-values-thrive-near-transit-study-finds/564982/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s62mkm/bussing%5Fis%5Fslower%5Fbut%5Fmuch%5Fcheaper%5Fprices%5Ftaken/ht1p45x/>
+
+10 years ago, places that are near to amenities were the ones that drive up property value. But now, it's places that are near transit.
