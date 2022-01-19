@@ -19,3 +19,10 @@ Rural places are often far away, too far that it's not serviceable by public tra
 There are some success stories. For example, in 2019, Travis County, Texas with a population of 9000 implemented this service. The results:
 
 > In the first three months of service in Manor, ridership increased 285% per day compared to the previous legacy dial-a-ride service, the number of passengers per vehicle per hour increased by four times, and the costs decreased by 50% per passenger. Residents using PickUp get the ease and convenience of a private taxi with the affordability and sustainability of the bus.
+
+
+### "But what about rural areas" : fuckcars {#but-what-about-rural-areas-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s7eqvr/but%5Fwhat%5Fabout%5Frural%5Fareas/>
+
+An example of bike lanes in rural Netherlands.

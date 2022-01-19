@@ -207,3 +207,15 @@ They also do regular maintenance on their trains and tracks to make sure that th
 <https://www.reddit.com/r/fuckcars/comments/s4qkhq/before%5Fcar%5Fduring%5Fcar%5Fafter%5Fcar%5Fnikolskaya%5Fstreet/>
 
 A three-series picture where it showed before cars, during cars and after cars.
+
+
+### Millennium Park Chicago, before and after parking was moved underground : fuckcars {#millennium-park-chicago-before-and-after-parking-was-moved-underground-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s7ovgu/millennium%5Fpark%5Fchicago%5Fbefore%5Fand%5Fafter%5Fparking/>
+
+
+### Guadalajara over the years. Pre-car. Car. Post-car : fuckcars {#guadalajara-over-the-years-dot-pre-car-dot-car-dot-post-car-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s780zi/guadalajara%5Fover%5Fthe%5Fyears%5Fprecar%5Fcar%5Fpostcar/>
+
+A three-series picture where it showed before cars, during cars and after cars.

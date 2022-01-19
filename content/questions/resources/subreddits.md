@@ -128,3 +128,12 @@ weight = 2037
 ## AbolishCars {#abolishcars}
 
 <https://www.reddit.com/r/AbolishCars/>
+
+
+## Cargo Bikes {#cargo-bikes}
+
+<https://www.reddit.com/r/CargoBike/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s70p93/rcargobike%5Fhas%5Fan%5Fanswer%5Fto%5Fevery%5Fi%5Fneed%5Fa%5Fcar/>
+
+This is basically the sub to go to when you have questions like "But how do I cycle in ... ?".

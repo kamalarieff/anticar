@@ -89,6 +89,8 @@ Sarcastic videos on car infrastructure.
 
 -   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
 
+Channel that shows good bike infrastructure in the Netherlands.
+
 
 ## Biking Barcelona - YouTube {#biking-barcelona-youtube}
 

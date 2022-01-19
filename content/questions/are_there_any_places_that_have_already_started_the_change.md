@@ -214,3 +214,10 @@ Utah is building a first of its kind in the United States, a 15-minute city wher
 <https://www.economist.com/middle-east-and-africa/2022/01/13/why-more-arabs-are-embracing-pedal-power>
 
 -   <https://www.reddit.com/r/fuckcars/comments/s5frnd/why%5Fmore%5Farabs%5Fare%5Fembracing%5Fpedal%5Fpower/>
+
+
+### London mayor wants daily driving charge of up to £2 - BBC News {#london-mayor-wants-daily-driving-charge-of-up-to-2-bbc-news}
+
+<https://www.bbc.com/news/uk-england-london-60030127>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s6voll/mayor%5Fof%5Flondon%5Fis%5Fconsidering%5Fnew%5Fpolicies%5Fto/>
