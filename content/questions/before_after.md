@@ -219,3 +219,10 @@ A three-series picture where it showed before cars, during cars and after cars.
 <https://www.reddit.com/r/fuckcars/comments/s780zi/guadalajara%5Fover%5Fthe%5Fyears%5Fprecar%5Fcar%5Fpostcar/>
 
 A three-series picture where it showed before cars, during cars and after cars.
+
+
+### Change is possible! Some Before and After photos of the I-195 removal through downtown Providence, RI, and the new pedestrian bridge! : fuckcars {#change-is-possible-some-before-and-after-photos-of-the-i-195-removal-through-downtown-providence-ri-and-the-new-pedestrian-bridge-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/s7x8l7/change%5Fis%5Fpossible%5Fsome%5Fbefore%5Fand%5Fafter%5Fphotos/>
+
+Check out the 4th picture where it showed a pedestrian bridge over the water.

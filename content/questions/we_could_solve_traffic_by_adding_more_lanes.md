@@ -90,3 +90,16 @@ Induced demand applies to all modes of transportation. But increasing demand for
 A good quote at the end of the video:
 
 > The question isn't really which types of transportation infrastructure induce demand because they all do. The question is which type of demand you want to induce.
+
+
+### The Science Is Clear: More Highways Equals More Traffic. Why Are DOTs Still Ignoring It? – Streetsblog USA {#the-science-is-clear-more-highways-equals-more-traffic-dot-why-are-dots-still-ignoring-it-streetsblog-usa}
+
+<https://usa.streetsblog.org/2017/06/21/the-science-is-clear-more-highways-equals-more-traffic-why-are-dots-still-ignoring-it/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably%5Fone%5Fof%5Fthe%5Fworst%5Farguments%5Five%5Fseen/hteomzw/>
+
+From the article,
+
+> They found that for every 1 percent increase in highway capacity, traffic increases 0.29 to 1.1 percent in the long term (about five years out), and up to 0.68 percent in the short term (one or two years). One recent study found a one-to-one relationship between new highway lane capacity and traffic increases.
+
+Hence, adding new lanes is never a good long term solution.

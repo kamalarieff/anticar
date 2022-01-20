@@ -184,3 +184,23 @@ This article showed that pedestrian deaths are on the rise. It's because the inf
 -   <https://www.reddit.com/r/fuckcars/comments/s6iaqg/car%5Fcompanies%5Fknow%5Fperfectly%5Fwell%5Fthat%5Fdeveloping/ht3rru0/>
 
 Bad car infrastructure can also kill you not just through accidents. These people die when they were stranded in the snow. If you can't maintain safe and proper infrastructure, maybe it's time to invest in cheaper and better infrastructure in the form of public transportation.
+
+
+## Road accidents biggest killer of young people - WHO - BBC News {#road-accidents-biggest-killer-of-young-people-who-bbc-news}
+
+<https://www.bbc.com/news/world-africa-46486231>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably%5Fone%5Fof%5Fthe%5Fworst%5Farguments%5Five%5Fseen/htfmixr/>
+
+From the article,
+
+> Car accidents are now the leading global cause of death amongst children and young adults aged five to 29 years old, the report says.
+
+
+## Which Mode of Transportation is the Safest? | Bus.com {#which-mode-of-transportation-is-the-safest-bus-dot-com}
+
+<https://www.bus.com/blog/safest-mode-of-transportation/?amp>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably%5Fone%5Fof%5Fthe%5Fworst%5Farguments%5Five%5Fseen/htfmr1m/>
+
+Cars is the second most dangerous vehicle and motorcycles is the most dangerous vehicle.
