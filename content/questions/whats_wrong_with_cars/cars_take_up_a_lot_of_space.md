@@ -80,3 +80,12 @@ Make sure the turn on the satellite layers to see how much space it takes.
 <https://usa.streetsblog.org/2016/03/10/its-true-the-typical-car-is-parked-95-percent-of-the-time/>
 
 Cars take up space by not doing anything at all.
+
+
+## Opinion | Why cars and cities are a bad match. - The Washington Post {#opinion-why-cars-and-cities-are-a-bad-match-dot-the-washington-post}
+
+<https://www.washingtonpost.com/news/in-theory/wp/2016/03/02/buses-and-trains-thats-what-will-solve-congestion/?utm%5Fsource=reddit.com>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s9xzsq/why%5Fcars%5Fand%5Fcities%5Fare%5Fa%5Fbad%5Fmatch/>
+
+An opinion piece by author of Human Transit, Jarrett Walker. His facts are really simple, it's just basic geometry. Cars need huge amount of space but cities want to be denser so that it's more livable. These two don't fit together. Big things can't fit in small spaces.

@@ -146,3 +146,16 @@ At 3:31, kids are able to be more independent.
 -   <https://www.reddit.com/r/fuckcars/comments/s62mkm/bussing%5Fis%5Fslower%5Fbut%5Fmuch%5Fcheaper%5Fprices%5Ftaken/ht1p45x/>
 
 10 years ago, places that are near to amenities were the ones that drive up property value. But now, it's places that are near transit.
+
+
+### Public Transportation Facts - American Public Transportation Association {#public-transportation-facts-american-public-transportation-association}
+
+<https://www.apta.com/news-publications/public-transportation-facts/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s8hkkv/what%5Fcould%5Fpossibly%5Fbe%5Fworse%5Fthan%5Fusing%5Fpublic/htjk6jr/>
+
+Lots of good facts in here that advocates for public transportation. Interesting stuff like:
+
+1.  ​Every $1 invested in public transportation generates $5 in economic returns.
+2.  Traveling by public transportation is 10 times safer per mile than traveling by automobile.
+3.  ​Communities that invest in public transit reduce the nation’s carbon emissions by 63 million metric tons annually.

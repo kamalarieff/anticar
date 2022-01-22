@@ -13,7 +13,8 @@ Cycle infrastructure design (LTN 1/20) - GOV.UK
 
 <https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120>
 
-<https://www.reddit.com/r/fuckcars/comments/rbfkwt/across%5Fthe%5Fpond%5Fa%5Ffew%5Fthings%5Fthe%5Fuk%5Fis%5Fdoing/>
+-   <https://www.reddit.com/r/fuckcars/comments/rbfkwt/across%5Fthe%5Fpond%5Fa%5Ffew%5Fthings%5Fthe%5Fuk%5Fis%5Fdoing/>
+-   <https://www.reddit.com/r/fuckcars/comments/s8r0cb/recent%5Frule%5Fchange%5Ffor%5Fall%5Fnew%5Fcycle/>
 
 Urban Street Design Guide | National Association of City Transportation Officials
 

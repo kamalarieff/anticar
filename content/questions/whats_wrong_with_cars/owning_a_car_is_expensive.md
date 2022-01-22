@@ -80,3 +80,17 @@ The auto loan burden is second only to student loan. People should not be in deb
 <https://www.edmunds.com/car-news/average-monthly-car-payment-for-new-car-636-dollars.html>
 
 -   <https://www.reddit.com/r/urbanplanning/comments/rze4ew/all%5Fthings%5Frelated%5Fto%5Fanticar%5Fdependency/hrv1sn1/>
+
+
+## Charlotte workers who didn't commute last year saved more than $3,000 - Business Today {#charlotte-workers-who-didn-t-commute-last-year-saved-more-than-3-000-business-today}
+
+<https://www.businesstodaync.com/charlotte-workers-who-didnt-commute-last-year-saved-more-than-3000/>
+
+-   <https://www.reddit.com/r/Charlotte/comments/s9agr5/charlotte%5Fworkers%5Fwho%5Fdidnt%5Fcommute%5Flast%5Fyear/>
+-   <https://www.reddit.com/r/fuckcars/comments/s9c7r8/charlotte%5Fworkers%5Fwho%5Fdidnt%5Fcommute%5Flast%5Fyear/>
+
+Charlotte workers who worked from home saved $3,021 and 4,319 pounds of CO2 emissions by not commuting.
+
+Other cities are mentioned in the article too.
+
+> Atlanta residents benefited the most, saving an average of $3,987 not commuting in 2021. Dallas and Houston tied for slots 2 and 3 with $3,800 saved. Phoenix, Nashville, Detroit, Birmingham, Chicago, St. Louis, and Charlotte fill out the remainder of the Top 10 cities that benefited from not commuting in 2021.

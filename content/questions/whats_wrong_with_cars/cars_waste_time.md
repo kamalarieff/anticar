@@ -22,3 +22,12 @@ Cars waste time. There is also a figure on how much that would amount to money.
 -   <https://www.reddit.com/r/fuckcars/comments/s60fox/this%5F15km%5Fjapanese%5Ftraffic%5Fjam%5Fhad%5Fsome%5Ftrapped/>
 
 When the car infrastructure fails, a lot of people bear the brunt of it.
+
+
+## Atlanta traffic news: Atlanta ranks among most congested cities in US {#atlanta-traffic-news-atlanta-ranks-among-most-congested-cities-in-us}
+
+<https://www.ajc.com/news/local/atlanta-ranks-among-america-most-congested-cities/zynWXNr6l0M35mnP8r0TVK/>
+
+Your commute is wasting your time. From the article,
+
+> In Moscow, analysts noticed the average driver lost 210 hours of congestion in 2018. Drivers in Bogota lost the most time of anyone in the world: 272 hours.

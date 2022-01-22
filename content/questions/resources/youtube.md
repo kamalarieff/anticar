@@ -163,3 +163,12 @@ Channel that shows good bike infrastructure in the Netherlands.
 ## Urban Jersey Guy - YouTube {#urban-jersey-guy-youtube}
 
 <https://www.youtube.com/user/mikez2/featured>
+
+
+## RGB16 - YouTube {#rgb16-youtube}
+
+<https://www.youtube.com/channel/UCvpCqRSI-9rPyT431QkRKig>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s9hlr4/i%5Fcouldnt%5Ffind%5Fany%5Fyoutube%5Fchannels%5Fshowing%5Foff/>
+
+Channel on how you can explore on a bike. One underrated aspect of a bike is how much you can explore with them. Combine them with trains and you can go very far.

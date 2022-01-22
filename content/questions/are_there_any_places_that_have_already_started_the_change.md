@@ -221,3 +221,12 @@ Utah is building a first of its kind in the United States, a 15-minute city wher
 <https://www.bbc.com/news/uk-england-london-60030127>
 
 -   <https://www.reddit.com/r/fuckcars/comments/s6voll/mayor%5Fof%5Flondon%5Fis%5Fconsidering%5Fnew%5Fpolicies%5Fto/>
+
+
+### New York City Is Finally Getting Raised Crosswalks {#new-york-city-is-finally-getting-raised-crosswalks}
+
+<https://www.curbed.com/2022/01/new-york-city-finally-getting-raised-crosswalks.html>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s8wpca/new%5Fyork%5Fcity%5Fis%5Ffinally%5Fgetting%5Fraised%5Fcrosswalks/>
+
+Nearly 80 percent of the city’s traffic injuries happen at intersections.
