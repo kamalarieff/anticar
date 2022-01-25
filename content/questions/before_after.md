@@ -226,3 +226,15 @@ A three-series picture where it showed before cars, during cars and after cars.
 <https://www.reddit.com/r/fuckcars/comments/s7x8l7/change%5Fis%5Fpossible%5Fsome%5Fbefore%5Fand%5Fafter%5Fphotos/>
 
 Check out the 4th picture where it showed a pedestrian bridge over the water.
+
+
+### Taking back space from cars is possible. 1960s Germany compared to now : fuckcars {#taking-back-space-from-cars-is-possible-dot-1960s-germany-compared-to-now-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/sbmxje/taking%5Fback%5Fspace%5Ffrom%5Fcars%5Fis%5Fpossible%5F1960s/>
+
+
+### What a difference a year [and a green major] makes. : fuckcars {#what-a-difference-a-year-and-a-green-major-makes-dot-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/sbhnrn/what%5Fa%5Fdifference%5Fa%5Fyear%5Fand%5Fa%5Fgreen%5Fmajor%5Fmakes/>
+
+Budapest, Hungary.

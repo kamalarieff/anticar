@@ -40,3 +40,10 @@ He compared two different cities in Finland where one city has good bike infrast
 -   <https://www.reddit.com/r/fuckcars/comments/s5nmv7/just%5Fa%5Freminder%5Fabout%5Fsnow%5Fand%5Fbicycles/>
 
 Video showed you can ride in plowed bike paths and snowed bike paths.
+
+
+### "You guys are delusional if you think people would get their kids to school without a car when it is snowing" Meanwhile in Northern Europe: : fuckcars {#you-guys-are-delusional-if-you-think-people-would-get-their-kids-to-school-without-a-car-when-it-is-snowing-meanwhile-in-northern-europe-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/sbo9gr/you%5Fguys%5Fare%5Fdelusional%5Fif%5Fyou%5Fthink%5Fpeople%5Fwould/>
+
+A picture of kids going to school on bikes in the winter.

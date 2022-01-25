@@ -67,3 +67,25 @@ You can try signing up. These are the tasks that are specified on the page that 
 -   <https://www.reddit.com/r/fuckcars/comments/s6jlej/are%5Fthere%5Fany%5Forganizations%5For%5Fgroups%5Fdedicated/ht4fv1o/>
 
 Pro-bike is usually anti-car.
+
+
+## Telegraph for People {#telegraph-for-people}
+
+<https://www.telegraphforpeople.com/home>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sc47q9/telegraph%5Ffor%5Fpeople/>
+
+> Telegraph for People is a student-led coalition that aims to turn Berkeley's Telegraph Avenue into a street for people. Our vision is a car-free Telegraph Avenue that puts pedestrians, cyclists, transit riders, and small businesses first, with a uniting goal of fighting climate change.
+
+
+## Rail Passengers Association | Washington, DC - Stand Up for A Connected America! {#rail-passengers-association-washington-dc-stand-up-for-a-connected-america}
+
+<https://www.railpassengers.org/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sbt3nh/consider%5Fjoiningsupporting%5Fthe%5Frail%5Fpassengers/>
+
+On the homepage, there is a lot of reasons why cars are bad. Some of them:
+
+1.  $166 billion the annual cost of congestion to Americans
+2.  8.8 billion hours how much time Americans waste each year due to congestion on urban roads
+3.  3.3 billion gallons how much extra fuel is burned annually crawling in traffic

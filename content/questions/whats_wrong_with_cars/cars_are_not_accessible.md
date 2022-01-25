@@ -17,3 +17,14 @@ weight = 2010
 2.  Stay-at-Home Parents
 3.  The Income-Vulnerable
 4.  Senior Citizens
+
+
+## Toronto’s struggles with blizzard highlight its dependence on cars | Canada | The Guardian {#toronto-s-struggles-with-blizzard-highlight-its-dependence-on-cars-canada-the-guardian}
+
+<https://www.theguardian.com/weather/2022/jan/20/toronto-struggles-blizzard-dependence-cars>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sbtlqd/its%5Fborderline%5Funethical%5Fto%5Fbuild%5Fa%5Fstadium%5Flike/hu218ex/>
+
+Once the infrastructure for cars gets bad enough, they're entirely useless. This is what happened in Toronto. Cars getting stuck in snow making the owners abandon them. It would also take a long time to clear these roads.
+
+> The city’s mayor, John Tory, warned on Tuesday that it would take days to get the roads fully cleared, and 600 road plows, 360 sidewalk plows and 200 salt trucks were deployed.
