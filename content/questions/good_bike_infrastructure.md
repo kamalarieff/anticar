@@ -163,3 +163,12 @@ This is a map on how well-connected the bike lanes in the Netherlands are. You n
 <https://www.reddit.com/r/fuckcars/comments/s3f8al/before%5Fvs%5Fafter%5Fmultistory%5Fbike%5Fstorage%5Flot%5Fbuilt/>
 
 A good bike parking garage.
+
+
+### Is Groningen the most walkable city in the world? - YouTube - cities4people {#is-groningen-the-most-walkable-city-in-the-world-youtube-cities4people}
+
+<https://youtu.be/Bt4c1J3iHAU>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is%5Fgroningen%5Fthe%5Fmost%5Fwalkable%5Fcity%5Fin%5Fthe%5Fworld/>
+
+Gronigen, the leading city for cycling in the world [15:31]. They introduced superblocks back in 1977 [1:44]. The idea is that cars have a ring road that goes around the city but they can never go through the superblocks. Cyclists have a more direct access rather than cars making cycling the better option for transportation.

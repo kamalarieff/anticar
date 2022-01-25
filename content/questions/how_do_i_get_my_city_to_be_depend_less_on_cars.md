@@ -53,6 +53,14 @@ This video starts off with induced demand. But his main two solutions are to use
 
 His other solutions are okay. It's about making more pedestrian friendly zones and congestion pricing.
 
+We’re using our streets all wrong | Hard Reset by Freethink - YouTube - Freethink
+
+<https://youtu.be/hK7agOPye6M>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s7sw2n/were%5Fusing%5Four%5Fstreets%5Fall%5Fwrong%5Fhow%5Fwe%5Fgave%5Faway/>
+
+When they wanted to make Times Square more pedestrian friendly, they implemented temporary solutions e.g. paint, chairs, tables. Things that can be removed in 48 hours or less. They wanted to find out if that is what the people wanted. Turns out, they do. This led to user-generated urbanism where you listen to the people of the city what kind of city they want to live in.
+
 
 ## Resources {#resources}
 

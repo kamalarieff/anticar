@@ -99,3 +99,12 @@ This is an article and research on how car-free streets were attracting more cus
 <!--quoteend-->
 
 > Restaurants on car-free Vanderbilt Avenue in Brooklyn’s Prospect Heights neighborhood reported an average of 54% more customer visits after the first month of the program
+
+
+### Is Groningen the most walkable city in the world? - YouTube - cities4people {#is-groningen-the-most-walkable-city-in-the-world-youtube-cities4people}
+
+<https://youtu.be/Bt4c1J3iHAU>
+
+-   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is%5Fgroningen%5Fthe%5Fmost%5Fwalkable%5Fcity%5Fin%5Fthe%5Fworld/>
+
+In the 70s, business owners were against the idea of making the city center car free [3:48]. But cars don't do the shopping. People do. Now, when the city wanted to remove bicycle parking spaces during COVID but the business owners were against that. It's the total opposite from the 70s. [5:37]
