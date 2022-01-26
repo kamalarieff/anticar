@@ -31,3 +31,12 @@ When the car infrastructure fails, a lot of people bear the brunt of it.
 Your commute is wasting your time. From the article,
 
 > In Moscow, analysts noticed the average driver lost 210 hours of congestion in 2018. Drivers in Bogota lost the most time of anyone in the world: 272 hours.
+
+
+## Long commutes cause obesity, neck pain, loneliness, divorce, stress, and insomnia. {#long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia-dot}
+
+<https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html>
+
+-   <https://www.reddit.com/r/fuckcars/comments/scwx6o/we%5Fforget%5Fthat%5Fadditional%5Ftime%5Fin%5Fthe%5Fcar%5Fis%5Fa/>
+
+> It is commuting, not the total length of the workday, that matters, he found. Take a worker with a negligible commute and a 12-hour workday and a worker with an hourlong commute and a 10-hour workday. The former will have healthier habits than the latter, even though total time spent on the relatively stressful, unpleasant tasks is equal.
