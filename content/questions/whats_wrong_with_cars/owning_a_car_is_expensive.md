@@ -94,3 +94,14 @@ Charlotte workers who worked from home saved $3,021 and 4,319 pounds of CO2 emis
 Other cities are mentioned in the article too.
 
 > Atlanta residents benefited the most, saving an average of $3,987 not commuting in 2021. Dallas and Houston tied for slots 2 and 3 with $3,800 saved. Phoenix, Nashville, Detroit, Birmingham, Chicago, St. Louis, and Charlotte fill out the remainder of the Top 10 cities that benefited from not commuting in 2021.
+
+
+## The lifetime cost of driving a car - ScienceDirect {#the-lifetime-cost-of-driving-a-car-sciencedirect}
+
+<https://www.sciencedirect.com/science/article/pii/S0921800921003943>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sh0mvi/save%5Fmoney/hv03tf7/>
+
+> For the typical German travel distance of 15,000 car kilometers per year, the total lifetime cost of car ownership (50 years) ranges between €599,082 for an Opel Corsa to €956,798 for a Mercedes GLC.
+
+This is unfair to those who cannot afford private vehicles.
