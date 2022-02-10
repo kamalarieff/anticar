@@ -14,6 +14,15 @@ weight = 2008
 A very cool post that has a lot of infographic regarding space taken up by cars.
 
 
+## More people less space : fuckcars {#more-people-less-space-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/sokcwd/more%5Fpeople%5Fless%5Fspace/>
+
+{{< figure src="/ox-hugo/2022-02-11_00:23 comparison-cars-bikes-bus.jpg" >}}
+
+An image that compares the space taken by people in cars, on bikes and on a bus. You can see how much space a car take.
+
+
 ## But why? Not only the over sized parking lot, but look at the surroundings! : fuckcars {#but-why-not-only-the-over-sized-parking-lot-but-look-at-the-surroundings-fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/rd5y8m/but%5Fwhy%5Fnot%5Fonly%5Fthe%5Fover%5Fsized%5Fparking%5Flot%5Fbut/>
