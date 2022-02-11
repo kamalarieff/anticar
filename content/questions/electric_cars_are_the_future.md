@@ -44,3 +44,22 @@ At 8:55, electric cars are heavy. This increases the damage done on roads.
 -   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i%5Flove%5Fthis%5Fsub%5Fbut%5Fit%5Fdesperately%5Fneeds%5Fa/>
 
 At 13:24, electric cars are worse at high speeds because tire noise increases with weight. Electric cars weigh more than normal cars.
+
+
+### A comment that compiles all the dangerous incidents that has happened with Teslas. {#a-comment-that-compiles-all-the-dangerous-incidents-that-has-happened-with-teslas-dot}
+
+<https://www.reddit.com/r/fuckcars/comments/sp4kbh/elon%5Fis%5Fa%5Ffraudster/hwea6qb/>
+
+> Tesla's quality control is truly a sight to behold. Like some seriously messed up stuff;
+>
+> 1.  The roof of a Model Y flew off
+> 2.  The roof also tends to leak on the Y
+> 3.  The Model 3 also tends to leak
+> 4.  The Model X also tends to shed parts
+> 5.  There's the general shoddy nature of the trim within Teslas
+> 6.  Model Y owners have even found components being held together by fake wood
+> 7.  This one's a personal favorite of mine, Tesla told a customer that a broken rear subframe was normal wear &amp; tear
+>
+> I of course have not mentioned Tesla's catching on fire killing its drivers which may be of some concern given that the Model 3 does not have a manual rear door release. Nor have I mentioned that it's Self Driving has caused deaths on the road.
+>
+> All of this is to say that you should avoid Tesla's because they are the car manufacturer with the most problems in America.

@@ -2,7 +2,7 @@
 title = "Cars are dangerous"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2009
+weight = 2017
 +++
 
 ## GRIPE SESSION: Departing Council Member Cumbo Gives Parting Gift to Car Owners – Streetsblog New York City {#gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners-streetsblog-new-york-city}
@@ -204,3 +204,21 @@ From the article,
 -   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably%5Fone%5Fof%5Fthe%5Fworst%5Farguments%5Five%5Fseen/htfmr1m/>
 
 Cars is the second most dangerous vehicle and motorcycles is the most dangerous vehicle.
+
+
+## Florida Toddler Run Over and Killed by His Mother's SUV | PEOPLE.com {#florida-toddler-run-over-and-killed-by-his-mother-s-suv-people-dot-com}
+
+<https://people.com/human-interest/florida-toddler-run-over-killed-by-mothers-suv/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm%5Fsource=share&utm%5Fmedium=web2x&context=3>
+
+A mother killed her own son because she couldn't see him. Apparently, this is not her first child that has been involved in an automobile accident.
+
+
+## Another 2-Year-Old Killed by SUV Driver Who Apparently Didn’t See Her – Streetsblog New York City {#another-2-year-old-killed-by-suv-driver-who-apparently-didn-t-see-her-streetsblog-new-york-city}
+
+<https://nyc.streetsblog.org/2021/10/30/another-2-year-old-killed-by-suv-driver-who-apparently-didnt-see-her/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm%5Fsource=share&utm%5Fmedium=web2x&context=3>
+
+Another child killed by someone driving a SUV because she couldn't see her.
