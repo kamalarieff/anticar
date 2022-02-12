@@ -238,3 +238,19 @@ Check out the 4th picture where it showed a pedestrian bridge over the water.
 <https://www.reddit.com/r/fuckcars/comments/sbhnrn/what%5Fa%5Fdifference%5Fa%5Fyear%5Fand%5Fa%5Fgreen%5Fmajor%5Fmakes/>
 
 Budapest, Hungary.
+
+
+### Burgos, Spain - 25 years of pedestrianization : fuckcars {#burgos-spain-25-years-of-pedestrianization-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/sq2oi8/burgos%5Fspain%5F25%5Fyears%5Fof%5Fpedestrianization/hwio90q/>
+
+> Burgos is a small city situated in Northern Spain. Like most of the western world, Spain saw unprecedented economic growth during the second half of the twentieth century, which among other things made cars affordable for the masses. This resulted in what you can see in the “old” pictures below – a car-infested city throughout the late 60s, the 70s and 80s.
+>
+> Initiatives were started in the mid-to-late-90s to pedestrianize some streets around the historical center, which eventually grew to encompass the whole city core. These continued efforts won Burgos the CiViTAs City of the Year in 2007, and the Energy Globe Award in 2008. Urban renewal initiatives continue, and the city has now announced further plans for a 2-sq km Low Emission Zone with further restrictions for motor vehicles.
+
+
+### Cambridge, UK is really doing the work : fuckcars {#cambridge-uk-is-really-doing-the-work-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/sqixsg/cambridge%5Fuk%5Fis%5Freally%5Fdoing%5Fthe%5Fwork/>
+
+This is an image gallery of good bike infrastructure, pedestrian walkpaths and public transport.

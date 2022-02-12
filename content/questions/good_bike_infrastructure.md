@@ -172,3 +172,12 @@ A good bike parking garage.
 -   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is%5Fgroningen%5Fthe%5Fmost%5Fwalkable%5Fcity%5Fin%5Fthe%5Fworld/>
 
 Gronigen, the leading city for cycling in the world [15:31]. They introduced superblocks back in 1977 [1:44]. The idea is that cars have a ring road that goes around the city but they can never go through the superblocks. Cyclists have a more direct access rather than cars making cycling the better option for transportation.
+
+
+### 5 minutes of traffic on a Dutch roundabout with bi-directional cycling lanes - YouTube - Frank van Caspel {#5-minutes-of-traffic-on-a-dutch-roundabout-with-bi-directional-cycling-lanes-youtube-frank-van-caspel}
+
+<https://www.youtube.com/watch?v=FR5l48%5Fh5Eo>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sqixsg/comment/hwm95tn/?utm%5Fsource=share&utm%5Fmedium=web2x&context=3>
+
+This is the newer version of the Dutch roundabout where there are bi-directional cycling lanes.
