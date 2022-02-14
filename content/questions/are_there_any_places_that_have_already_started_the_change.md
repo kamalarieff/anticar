@@ -15,7 +15,7 @@ Yes there are.
 
 <https://www.denverpost.com/2021/12/16/colorado-greenhouse-gas-emission-rules/>
 
-<https://www.reddit.com/r/fuckcars/comments/ri3ryw/colorado%5Factually%5Facknowledges%5Femissions%5Ffrom/>
+<https://www.reddit.com/r/fuckcars/comments/ri3ryw/colorado_actually_acknowledges_emissions_from/>
 
 
 ### How to (Quickly) Build a Cycling City - Paris - YouTube - Not Just Bikes {#how-to--quickly--build-a-cycling-city-paris-youtube-not-just-bikes}
@@ -32,7 +32,7 @@ He also said that too many cities are wasting time on pilot projects. You can se
 <https://www.providenceri.gov/planning/great-streets/>
 
 -   <https://www.bostonglobe.com/2021/10/21/metro/memo-cranky-providence-residents-real-cities-have-bike-lanes/>
--   <https://www.reddit.com/r/fuckcars/comments/rir0pf/memo%5Fto%5Fcranky%5Fprovidence%5Fresidents%5Freal%5Fcities/>
+-   <https://www.reddit.com/r/fuckcars/comments/rir0pf/memo_to_cranky_providence_residents_real_cities/>
 
 This plan is to make streets safer. This includes adding bike lanes.
 
@@ -41,7 +41,7 @@ This plan is to make streets safer. This includes adding bike lanes.
 
 <https://usa.streetsblog.org/2020/10/13/best-practices-how-seville-became-a-city-of-cyclists/>
 
-<https://www.reddit.com/r/fuckcars/comments/rj3oyl/oh%5Fgod%5Fwho%5Flet%5Fthis%5Fhappen%5Fs/hp1mi2c/>
+<https://www.reddit.com/r/fuckcars/comments/rj3oyl/oh_god_who_let_this_happen_s/hp1mi2c/>
 
 The first phase is
 
@@ -62,7 +62,7 @@ The first phase is
 
 ### The Innovative Way Ghent, Belgium Removed Cars From The City - YouTube - Streetfilms {#the-innovative-way-ghent-belgium-removed-cars-from-the-city-youtube-streetfilms}
 
-<https://www.youtube.com/watch?v=sEOA%5FTcq2XA>
+<https://www.youtube.com/watch?v=sEOA_Tcq2XA>
 
 At 10:00, you need the political will to make these changes.
 
@@ -71,14 +71,14 @@ At 10:00, you need the political will to make these changes.
 
 <https://archinect.com/news/article/150286718/10-minute-city-masterplan-for-seoul-unveiled>
 
-<https://www.reddit.com/r/fuckcars/comments/rlr6w5/seoul%5Fand%5Fother%5Fplaces%5Fare%5Fbuilding%5Fcities/>
+<https://www.reddit.com/r/fuckcars/comments/rlr6w5/seoul_and_other_places_are_building_cities/>
 
 
 ### Seoul Transportation Vision 2030 - Seoul Metropolitan Government {#seoul-transportation-vision-2030-seoul-metropolitan-government}
 
 <https://english.seoul.go.kr/policy/transport/seoul-transportation-vision-2030/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s08mr9/seoulsouth%5Fkoreas%5Ftransportation%5Fvision%5Ffor%5F2030/>
+-   <https://www.reddit.com/r/fuckcars/comments/s08mr9/seoulsouth_koreas_transportation_vision_for_2030/>
 
 An extremely well thought out plan on Seoul's Transportation Vision for 2030. This could be your reference when you're trying to submit a proposal to your local council.
 
@@ -87,7 +87,7 @@ An extremely well thought out plan on Seoul's Transportation Vision for 2030. Th
 
 <https://chi.streetsblog.org/2021/12/21/after-lobbying-from-advocates-cdot-commits-to-better-protection-for-clark-bike-lanes/>
 
-<https://www.reddit.com/r/fuckcars/comments/rnp7zm/an%5Fidiot%5Fparking%5Fjob%5Fchicago/>
+<https://www.reddit.com/r/fuckcars/comments/rnp7zm/an_idiot_parking_job_chicago/>
 
 People complained about a car parked in a bicycle lane. The city responded by installing concrete for proper protection.
 
@@ -96,14 +96,14 @@ People complained about a car parked in a bicycle lane. The city responded by in
 
 <https://vaxer.stockholm/omraden/norrmalm-hagastaden/in-english-hagastaden/>
 
-<https://www.reddit.com/r/fuckcars/comments/rn84l4/this%5Fnew%5Fdistrict%5Fin%5Fstockholm%5Ffinished%5Fby%5F2030/>
+<https://www.reddit.com/r/fuckcars/comments/rn84l4/this_new_district_in_stockholm_finished_by_2030/>
 
 Hagastaden planning to build one of Stockholm’s largest urban development areas with 6,000 new homes and 50,000 workplaces. They are planning to enable the best possible alternatives for pedestrians, cyclists and local transit.
 
 
 ### So much negativity on this sub. Here is city centre of Brussels. : fuckcars {#so-much-negativity-on-this-sub-dot-here-is-city-centre-of-brussels-dot-fuckcars}
 
-<https://www.reddit.com/r/fuckcars/comments/roa7u8/so%5Fmuch%5Fnegativity%5Fon%5Fthis%5Fsub%5Fhere%5Fis%5Fcity/>
+<https://www.reddit.com/r/fuckcars/comments/roa7u8/so_much_negativity_on_this_sub_here_is_city/>
 
 This is a video of Brussels turning a stroad into a people focused space. Notice how quiet it is.
 
@@ -112,7 +112,7 @@ This is a video of Brussels turning a stroad into a people focused space. Notice
 
 <https://twitter.com/nihart1024/status/1474954279584616448>
 
-<https://www.reddit.com/r/fuckcars/comments/royb2l/positivity%5Fweek%5Fstreets%5Fin%5Fmumbais%5Fbkc%5Fare%5Fbeing/>
+<https://www.reddit.com/r/fuckcars/comments/royb2l/positivity_week_streets_in_mumbais_bkc_are_being/>
 
 A video clip of good sidewalks and bike paths in Mumbai.
 
@@ -121,7 +121,7 @@ A video clip of good sidewalks and bike paths in Mumbai.
 
 <https://www.motorious.com/articles/features-3/uk-eliminating-car-ownership/>
 
-<https://www.reddit.com/r/fuckcars/comments/rpx2dn/uk%5Finches%5Fcloser%5Fto%5Feliminating%5Fprivate%5Fcar/>
+<https://www.reddit.com/r/fuckcars/comments/rpx2dn/uk_inches_closer_to_eliminating_private_car/>
 
 There's no concrete action in this article. It seems like it's an announcement. There is mention of a mobility credit though.
 
@@ -130,7 +130,7 @@ There's no concrete action in this article. It seems like it's an announcement. 
 
 <https://rpa.org/work/campaigns/triboro>
 
--   <https://www.reddit.com/r/fuckcars/comments/rxjed0/never%5Flose%5Fhope%5Fchange%5Fis%5Fpossible%5Falso/>
+-   <https://www.reddit.com/r/fuckcars/comments/rxjed0/never_lose_hope_change_is_possible_also/>
 
 > Running 24 miles on existing track from Co-op City in the Bronx to Bay Ridge in Brooklyn, the Triboro would be an above-ground rail line connecting 17 subway lines and 4 commuter lines.
 
@@ -141,9 +141,9 @@ In the referrer link is a video of the NY Governor Kathy Hochul giving a speech 
 
 <https://road.cc/content/news/milan-confirms-new-bike-network-289375>
 
--   <https://www.reddit.com/r/europe/comments/rzzc1x/milan%5Fhas%5Fapproved%5Fa%5F200%5Fmillion%5Fplan%5Fto%5Fcreate%5Fa/>
--   <https://www.reddit.com/r/fuckcars/comments/s08sos/milan%5Fhas%5Fapproved%5Fa%5F200%5Fmillion%5Fplan%5Fto%5Fcreate%5Fa/>
--   <https://www.reddit.com/r/fuckcars/comments/rzvsgt/milan%5Fto%5Fcreate%5Fmassive%5Fbike%5Fnetwork/>
+-   <https://www.reddit.com/r/europe/comments/rzzc1x/milan_has_approved_a_200_million_plan_to_create_a/>
+-   <https://www.reddit.com/r/fuckcars/comments/s08sos/milan_has_approved_a_200_million_plan_to_create_a/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzvsgt/milan_to_create_massive_bike_network/>
 
 They plan to make the bike the most convenient mode of transport for Milan's population. They took inspiration from Paris's plan to make the city '100 percent cycling city' within the next four years.
 
@@ -152,7 +152,7 @@ They plan to make the bike the most convenient mode of transport for Milan's pop
 
 <https://www.theguardian.com/australia-news/2021/jan/09/sydney-cycling-has-the-city-that-hates-bikes-finally-turned-the-corner>
 
--   <https://www.reddit.com/r/fuckcars/comments/s131cw/citizens%5Fof%5Fmy%5Fcity%5Fprove%5Fwhy%5Faustralia%5Fwill/hs5tt4b/>
+-   <https://www.reddit.com/r/fuckcars/comments/s131cw/citizens_of_my_city_prove_why_australia_will/hs5tt4b/>
 
 Only 7km of cycle lanes have been built but the response has been amazing. Ridership has increased.
 
@@ -161,8 +161,8 @@ Only 7km of cycle lanes have been built but the response has been amazing. Rider
 
 <https://www.cbc.ca/news/canada/calgary/town-of-banff-drops-speed-limit-to-30-km-h-1.6310498>
 
--   <https://www.reddit.com/r/urbanplanning/comments/s1jweb/town%5Fof%5Fbanff%5Fdrops%5Fspeed%5Flimit%5Fto%5F30%5Fkmh%5Fon%5Fall/>
--   <https://www.reddit.com/r/fuckcars/comments/s1kx96/town%5Fof%5Fbanff%5Fdrops%5Fspeed%5Flimit%5Fto%5F30%5Fkmh%5Fon%5Fall/>
+-   <https://www.reddit.com/r/urbanplanning/comments/s1jweb/town_of_banff_drops_speed_limit_to_30_kmh_on_all/>
+-   <https://www.reddit.com/r/fuckcars/comments/s1kx96/town_of_banff_drops_speed_limit_to_30_kmh_on_all/>
 
 By reducing the speed, it becomes safer for everyone. Reducing the speed also saw a reduction in emissions and congestion.
 
@@ -178,7 +178,7 @@ A lot of success stories in here.
 
 <https://streets.mn/2022/01/11/hennepin-ave-if-we-cant-implement-the-citys-policies-here-then-where/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s5eo3o/hennepin%5Fave%5Fminneapolis%5Fmn/hsx9gkk/>
+-   <https://www.reddit.com/r/fuckcars/comments/s5eo3o/hennepin_ave_minneapolis_mn/hsx9gkk/>
 
 Some statistics regarding parking in this article. But basically, they're taking away car lanes and parking spaces to make way for buses, pedestrian paths and bike paths.
 
@@ -191,9 +191,9 @@ There's also an image of how the new road system would look like.
 
 <https://www.fastcompany.com/90711961/berlin-is-planning-a-car-free-area-larger-than-manhattan>
 
--   <https://www.reddit.com/r/UpliftingNews/comments/s59ver/berlin%5Fis%5Fplanning%5Fa%5Fcarfree%5Farea%5Flarger%5Fthan/>
--   <https://www.reddit.com/r/fuckcars/comments/s5axoa/berlin%5Fis%5Fplanning%5Fa%5Fcarfree%5Farea%5Flarger%5Fthan/>
--   <https://www.reddit.com/r/fuckcars/comments/s6b8ds/berlin%5Flooks%5Fto%5Fcreate%5Fcarfree%5Fzone%5Flarger%5Fthan/>
+-   <https://www.reddit.com/r/UpliftingNews/comments/s59ver/berlin_is_planning_a_carfree_area_larger_than/>
+-   <https://www.reddit.com/r/fuckcars/comments/s5axoa/berlin_is_planning_a_carfree_area_larger_than/>
+-   <https://www.reddit.com/r/fuckcars/comments/s6b8ds/berlin_looks_to_create_carfree_zone_larger_than/>
 
 It's more like car-less where special vehicles like ambulances and such are still able to enter the city. They are planning to drop the number of usage in private vehicles.
 
@@ -202,9 +202,9 @@ They're planning to remove cars in general, not just converting them to electric
 
 ### The Point, a new Utah community, will be a 15-minute city {#the-point-a-new-utah-community-will-be-a-15-minute-city}
 
-<https://www.fastcompany.com/90713241/theyre-building-a-15-minute-city-from-scratch-in-the-utah-desert?partner=rss&utm%5Fsource=facebook.com&utm%5Fmedium=social&utm%5Fcampaign=rss+fastcompany&utm%5Fcontent=rss>
+<https://www.fastcompany.com/90713241/theyre-building-a-15-minute-city-from-scratch-in-the-utah-desert?partner=rss&utm_source=facebook.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss>
 
--   <https://www.reddit.com/r/fuckcars/comments/s5clp0/theyre%5Fbuilding%5Fa%5F15minute%5Fcity%5Ffrom%5Fscratch%5Fin/>
+-   <https://www.reddit.com/r/fuckcars/comments/s5clp0/theyre_building_a_15minute_city_from_scratch_in/>
 
 Utah is building a first of its kind in the United States, a 15-minute city where it will prioritize space for bike lanes and wide sidewalks over cars called The Point. There's also good public transportation in the plans.
 
@@ -213,20 +213,29 @@ Utah is building a first of its kind in the United States, a 15-minute city wher
 
 <https://www.economist.com/middle-east-and-africa/2022/01/13/why-more-arabs-are-embracing-pedal-power>
 
--   <https://www.reddit.com/r/fuckcars/comments/s5frnd/why%5Fmore%5Farabs%5Fare%5Fembracing%5Fpedal%5Fpower/>
+-   <https://www.reddit.com/r/fuckcars/comments/s5frnd/why_more_arabs_are_embracing_pedal_power/>
 
 
 ### London mayor wants daily driving charge of up to £2 - BBC News {#london-mayor-wants-daily-driving-charge-of-up-to-2-bbc-news}
 
 <https://www.bbc.com/news/uk-england-london-60030127>
 
--   <https://www.reddit.com/r/fuckcars/comments/s6voll/mayor%5Fof%5Flondon%5Fis%5Fconsidering%5Fnew%5Fpolicies%5Fto/>
+-   <https://www.reddit.com/r/fuckcars/comments/s6voll/mayor_of_london_is_considering_new_policies_to/>
 
 
 ### New York City Is Finally Getting Raised Crosswalks {#new-york-city-is-finally-getting-raised-crosswalks}
 
 <https://www.curbed.com/2022/01/new-york-city-finally-getting-raised-crosswalks.html>
 
--   <https://www.reddit.com/r/fuckcars/comments/s8wpca/new%5Fyork%5Fcity%5Fis%5Ffinally%5Fgetting%5Fraised%5Fcrosswalks/>
+-   <https://www.reddit.com/r/fuckcars/comments/s8wpca/new_york_city_is_finally_getting_raised_crosswalks/>
 
 Nearly 80 percent of the city’s traffic injuries happen at intersections.
+
+
+### St. Pete Straza: A Place for All People - Car-Free St. Pete {#st-dot-pete-straza-a-place-for-all-people-car-free-st-dot-pete}
+
+<http://www.carfreestpete.com/stpetestraza>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sqw6u4/carfree_st_pete_a_proposed_three_mile_loop_that/hwo0hef/>
+
+St. Petersburg, Florida is proposing a plan to create a car-free straza where it will be more comfortable for people to walk, stroll, play, and create community.

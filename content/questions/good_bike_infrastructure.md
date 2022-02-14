@@ -15,7 +15,7 @@ Two criterias come to mind: a bike needs to be able to go anywhere and it must b
 
 <https://aviewfromthecyclepath.com/>
 
-<https://www.reddit.com/r/fuckcars/comments/q0gecy/my%5Fthoughts%5Fon%5Fwhat%5Fmakes%5Fa%5Fsuccessful%5Fbike/>
+<https://www.reddit.com/r/fuckcars/comments/q0gecy/my_thoughts_on_what_makes_a_successful_bike/>
 
 This is the site that writes about Dutch cycling paths. Stuff like Assen.
 
@@ -46,7 +46,7 @@ The resource given in the video is [Protected Intersection Design Guide | City o
 
 <https://cities-today.com/uks-first-cyclops-junction-opens-in-manchester-to-boost-bike-safety/>
 
-<https://www.reddit.com/r/fuckcars/comments/rbfkwt/across%5Fthe%5Fpond%5Fa%5Ffew%5Fthings%5Fthe%5Fuk%5Fis%5Fdoing/>
+<https://www.reddit.com/r/fuckcars/comments/rbfkwt/across_the_pond_a_few_things_the_uk_is_doing/>
 
 
 ### Protected Intersections for Bicyclists | A new design for US streets {#protected-intersections-for-bicyclists-a-new-design-for-us-streets}
@@ -57,7 +57,7 @@ The resource given in the video is [Protected Intersection Design Guide | City o
 
 You know how to keep trying to find a way to create a safer intersection? This is how.
 
-From the referrer, it is criticizing the American way of building intersections. This video is the Dutch way [Junction design, the Dutch - cycle-friendly - way {120} - YouTube](https://www.youtube.com/watch?v=FlApbxLz6pA) and [Junction design for safer cycling (Netherlands) {90} - YouTube](https://www.youtube.com/watch?v=rBwMRGxtZ9k) [[referrer] CAR and BIKE conflict on BIKE lane - YouTube](https://www.youtube.com/watch?v=z1lp%5FJnv3L8).
+From the referrer, it is criticizing the American way of building intersections. This video is the Dutch way [Junction design, the Dutch - cycle-friendly - way {120} - YouTube](https://www.youtube.com/watch?v=FlApbxLz6pA) and [Junction design for safer cycling (Netherlands) {90} - YouTube](https://www.youtube.com/watch?v=rBwMRGxtZ9k) [[referrer] CAR and BIKE conflict on BIKE lane - YouTube](https://www.youtube.com/watch?v=z1lp_Jnv3L8).
 
 
 ### Utrecht: Planning for People &amp; Bikes, Not for Cars - YouTube - Streetfilms {#utrecht-planning-for-people-and-bikes-not-for-cars-youtube-streetfilms}
@@ -71,14 +71,14 @@ At 9:55, they're using a special kind of tarmac to make cycling easier.
 
 ### Groningen: The World's Cycling City - YouTube - Streetfilms {#groningen-the-world-s-cycling-city-youtube-streetfilms}
 
-<https://www.youtube.com/watch?v=fv38J7SKH%5Fg>
+<https://www.youtube.com/watch?v=fv38J7SKH_g>
 
 At 2:16, cars have to go around the city center which makes it very safe.
 
 
 ### 5 minutes of traffic on a Dutch roundabout with bi-directional cycling lanes - YouTube {#5-minutes-of-traffic-on-a-dutch-roundabout-with-bi-directional-cycling-lanes-youtube}
 
-<https://www.youtube.com/watch?v=FR5l48%5Fh5Eo>
+<https://www.youtube.com/watch?v=FR5l48_h5Eo>
 
 This is a Dutch roundabout. You can see that it is safe for all parties involved. Cars and buses wait for cycles and pedestrians. This is because need to let the more vulnerable mode of transportation pass through first. Thus, making it safe for them.
 
@@ -110,7 +110,7 @@ At 8:14, if there is a an accident with involving a car, the car is presumed gui
 
 ### The Innovative Way Ghent, Belgium Removed Cars From The City - YouTube - Streetfilms {#the-innovative-way-ghent-belgium-removed-cars-from-the-city-youtube-streetfilms}
 
-<https://www.youtube.com/watch?v=sEOA%5FTcq2XA>
+<https://www.youtube.com/watch?v=sEOA_Tcq2XA>
 
 At 1:06, cars (except for services and taxis [8:15]) are not allowed to go into the city center. They have to go via the ring road. This makes the city center safe for pedestrians and cyclists.
 
@@ -119,7 +119,7 @@ At 1:06, cars (except for services and taxis [8:15]) are not allowed to go into 
 
 <https://www.linkedin.com/pulse/lets-collect-most-powerful-new-mobility-imaginaries-te-br%C3%B6mmelstroet/>
 
-<https://www.reddit.com/r/unitedkingdom/comments/rjsvpk/pity%5Fthe%5Fpoor%5Foppressed%5Fdriver%5Fforced%5Fto%5Fshare/>
+<https://www.reddit.com/r/unitedkingdom/comments/rjsvpk/pity_the_poor_oppressed_driver_forced_to_share/>
 
 Post number 11 showed that if you build the infrastructure, people will use it.
 
@@ -133,7 +133,7 @@ This video is about how different transportation modes have different networks s
 
 ### Segregated infrastructure makes Vauxhall Bridge a much nicer place to ride : londoncycling {#segregated-infrastructure-makes-vauxhall-bridge-a-much-nicer-place-to-ride-londoncycling}
 
-<https://www.reddit.com/r/londoncycling/comments/rue8wy/segregated%5Finfrastructure%5Fmakes%5Fvauxhall%5Fbridge%5Fa/>
+<https://www.reddit.com/r/londoncycling/comments/rue8wy/segregated_infrastructure_makes_vauxhall_bridge_a/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/ruj93a/success/>
 
@@ -144,7 +144,7 @@ A video of before and after a bike infrastructure is implemented at Vauxhall Bri
 
 <https://www.youtube.com/watch?v=xSGx3HSjKDo>
 
-<https://www.reddit.com/r/fuckcars/comments/rvbikr/another%5Faddition%5Fto%5Fthe%5Fableism%5Farguments%5Fin/hr5b9oi/>
+<https://www.reddit.com/r/fuckcars/comments/rvbikr/another_addition_to_the_ableism_arguments_in/hr5b9oi/>
 
 Video of young, old and disabled peopled out and about on the cycling tracks because it's safe.
 
@@ -153,14 +153,14 @@ Video of young, old and disabled peopled out and about on the cycling tracks bec
 
 <https://www.pinterest.com/pin/316800155010757425/>
 
--   <https://www.reddit.com/r/fuckcars/comments/rzvluk/the%5Fwellconnected%5Fbike%5Fnetwork%5Fof%5Fthe%5Fnetherlands/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzvluk/the_wellconnected_bike_network_of_the_netherlands/>
 
 This is a map on how well-connected the bike lanes in the Netherlands are. You need a bike infrastructure that is able to take you anywhere in order for it to be useful.
 
 
 ### before VS after multi-story bike storage lot built in Cambridge, England : fuckcars {#before-vs-after-multi-story-bike-storage-lot-built-in-cambridge-england-fuckcars}
 
-<https://www.reddit.com/r/fuckcars/comments/s3f8al/before%5Fvs%5Fafter%5Fmultistory%5Fbike%5Fstorage%5Flot%5Fbuilt/>
+<https://www.reddit.com/r/fuckcars/comments/s3f8al/before_vs_after_multistory_bike_storage_lot_built/>
 
 A good bike parking garage.
 
@@ -169,15 +169,28 @@ A good bike parking garage.
 
 <https://youtu.be/Bt4c1J3iHAU>
 
--   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is%5Fgroningen%5Fthe%5Fmost%5Fwalkable%5Fcity%5Fin%5Fthe%5Fworld/>
+-   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is_groningen_the_most_walkable_city_in_the_world/>
 
 Gronigen, the leading city for cycling in the world [15:31]. They introduced superblocks back in 1977 [1:44]. The idea is that cars have a ring road that goes around the city but they can never go through the superblocks. Cyclists have a more direct access rather than cars making cycling the better option for transportation.
 
 
 ### 5 minutes of traffic on a Dutch roundabout with bi-directional cycling lanes - YouTube - Frank van Caspel {#5-minutes-of-traffic-on-a-dutch-roundabout-with-bi-directional-cycling-lanes-youtube-frank-van-caspel}
 
-<https://www.youtube.com/watch?v=FR5l48%5Fh5Eo>
+<https://www.youtube.com/watch?v=FR5l48_h5Eo>
 
--   <https://www.reddit.com/r/fuckcars/comments/sqixsg/comment/hwm95tn/?utm%5Fsource=share&utm%5Fmedium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/sqixsg/comment/hwm95tn/?utm_source=share&utm_medium=web2x&context=3>
 
 This is the newer version of the Dutch roundabout where there are bi-directional cycling lanes.
+
+
+### Elevated Bike Paths😃 : fuckcars {#elevated-bike-paths-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/srab3d/elevated_bike_paths/>
+
+{{< figure src="/ox-hugo/2022-02-14_20:19 elevated bike paths.jpg" >}}
+
+Bike paths that are separated from any cars. A redditor wrote a good description of it.
+
+> This is Cykelslangen in Copenhagen. It's a pretty nice piece of infrastructure, connecting a bike/pedestrian bridge across the harbour to another bridge going to the Vesterbro neighbourhood. The Cykelslangen bridge bypasses a nice area by the water which bikes had to cross through before the bridge.
+>
+> Video: <https://www.youtube.com/watch?v=3z11Jfms18Y>
