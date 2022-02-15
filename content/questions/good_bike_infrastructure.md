@@ -194,3 +194,12 @@ Bike paths that are separated from any cars. A redditor wrote a good description
 > This is Cykelslangen in Copenhagen. It's a pretty nice piece of infrastructure, connecting a bike/pedestrian bridge across the harbour to another bridge going to the Vesterbro neighbourhood. The Cykelslangen bridge bypasses a nice area by the water which bikes had to cross through before the bridge.
 >
 > Video: <https://www.youtube.com/watch?v=3z11Jfms18Y>
+
+
+### A Case Study in Bike-Friendly Suburban Planning {#a-case-study-in-bike-friendly-suburban-planning}
+
+<https://www.bloomberg.com/news/articles/2015-06-17/the-dutch-town-of-houten-is-a-case-study-in-bike-friendly-suburban-planning>
+
+-   <https://www.reddit.com/r/fuckcars/comments/st05r0/as_a_counterpoint_to_some_other_posts_in_this_sub/hx21y7g/?context=8&depth=9>
+
+Who said that it's not possible with living with a car in a suburb? Houten, Netherlands proved that it can be done. They have ring roads where it goes around the suburb and have a high speed limit. But the city is divided in a way that cars can't cross into another part of the city. They have to go out back onto the ring road. Bikes are able to cross just fine.
