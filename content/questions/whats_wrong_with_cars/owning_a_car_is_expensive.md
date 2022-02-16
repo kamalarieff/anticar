@@ -128,3 +128,10 @@ Indirect
 -   Costs of free parking
 -   Cost of policing
 -   Cost of sprawl
+
+
+## Running a car costs much more than people think — stalling the uptake of green travel {#running-a-car-costs-much-more-than-people-think-stalling-the-uptake-of-green-travel}
+
+<https://www.nature.com/articles/d41586-020-01118-w>
+
+People overestimate how much their cars cost by half via these 4 factors: fuel, depreciation, repair, and tax and insurance.
