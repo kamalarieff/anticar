@@ -255,3 +255,10 @@ The people of Nottingham, UK have been responded positively to the proposal to m
 <https://www.reddit.com/r/fuckcars/comments/swc8iy/badenw%C3%BCrttemberg_germany_is_building_a_bicyle/>
 
 A huge network of cycle paths that connect cities. A lot of pictures inside.
+
+
+### Car-free zone coming to Paris by 2024 {#car-free-zone-coming-to-paris-by-2024}
+
+<https://thepointsguy.co.uk/news/paris-to-implement-a-ban-on-most-cars-in-the-city-by-2024/>
+
+-   <https://reddit.com/r/fuckcars/comments/t04q6o/pariseans_how_enraged_are_the_motorist_chuds_in/hy81y6a/>

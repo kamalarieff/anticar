@@ -250,3 +250,26 @@ Even when people are driving less, traffic fatalities still increased. People ar
 -   <https://www.reddit.com/r/fuckcars/comments/sxrbnc/corvette_completely_hidden_by_truck_height/hxvo1k7/>
 
 Those dangerous front blind zone on SUVs has contributed to hundreds of deaths and thousands of injuries of children.
+
+
+## Global Road Safety | CDC {#global-road-safety-cdc}
+
+<https://www.cdc.gov/injury/features/global-road-safety/index.html>
+
+-   <https://reddit.com/r/fuckcars/comments/sxa3r8/motor_vehicle_traffic_crashes_are_the_leading/hxqs7a8/>
+
+Death numbers globally.
+
+> Road traffic crashes are a leading cause of death in the United States for people aged 1–54,1 and they are the leading cause of nonnatural death for U.S. citizens residing or traveling abroad.
+
+<!--quoteend-->
+
+> Each year, 1.35 million people are killed on roadways around the world.
+
+<!--quoteend-->
+
+> Every day, almost 3,700 people are killed globally in crashes involving cars, buses, motorcycles, bicycles, trucks, or pedestrians. More than half of those killed are pedestrians, motorcyclists, or cyclists.
+
+<!--quoteend-->
+
+> Crash injuries are estimated to be the eighth leading cause of death globally for all age groups and the leading cause of death for children and young people 5–29 years of age. More people now die in crashes than from HIV/AIDS.

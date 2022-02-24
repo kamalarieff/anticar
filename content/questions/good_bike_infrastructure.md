@@ -212,3 +212,21 @@ Who said that it's not possible with living with a car in a suburb? Houten, Neth
 -   <https://reddit.com/r/fuckcars/comments/svamj1/research_paper/hxg0xuw/>
 
 A good article on why cycling is so popular in the Netherlands. It goes about how they got started, some infrastructure points and their culture around it.
+
+
+### Why Utrecht removed cycle paths to improve a street - YouTube - BicycleDutch {#why-utrecht-removed-cycle-paths-to-improve-a-street-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=bQjY7DiTP_I&ab_channel=BicycleDutch>
+
+-   <https://reddit.com/r/fuckcars/comments/swedke/if_you_dont_know_about_bike_infrastructure_heres/hxoyijt/>
+
+This video shows that you can take away already separated bike lanes and combine them with car lanes given that the car usage is low. It results in a win-win scenario for everybody.
+
+
+### Cycling City 2018: Houten [579] - YouTube - BicycleDutch {#cycling-city-2018-houten-579-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=gFEfr7Amn6U>
+
+-   <https://reddit.com/r/fuckcars/comments/sxtfil/travel_time_consistency_rural_farmer_urban/hxvjngp/>
+
+Houten was awarded Netherlands best place to cycle in 2018. This suburb is built into 4 subdistricts where cars can only enter each district via one entry. In order to go to another subdistrict, the car has to go out the same way it came in and go around the suburb onto the ring road. However, bicycles can go through to all subdistricts directly which make them faster than cars.

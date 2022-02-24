@@ -307,3 +307,20 @@ Before and after pictures in Oradea, Romania.
 <https://www.reddit.com/r/fuckcars/comments/szb59r/this_does_put_a_smile_on_my_face/>
 
 A before and after picture in Fuller St, Miami.
+
+
+### Something fun for once: Serfaus, Austria. 1200 inhabitants, 1 subway line {#something-fun-for-once-serfaus-austria-dot-1200-inhabitants-1-subway-line}
+
+<https://www.reddit.com/r/fuckcars/comments/szlsut/something_fun_for_once_serfaus_austria_1200/>
+
+> Serfaus is a small ski village with about 1200 inhabitants and about 7000 hotel beds. About 50 years ago, they decided their village road can't take all the ski tourists anymore, banned private cars in the village, and build a parking lot outside to serve it by bus.
+>
+> You can probably guess what came next: buses hit their capacity limit and in 1984, they started building a subway line instead. It is
+> 1.3 km (0.81 mi) long, serves 4 stations today and can transport up to 3000 people per hour. It has been under renovation from 2017 to 2019. It is driver-less.
+
+
+### Just a street near my house that went full pedestrian (Paris) {#just-a-street-near-my-house-that-went-full-pedestrian--paris}
+
+<https://www.reddit.com/r/fuckcars/comments/szlstt/just_a_street_near_my_house_that_went_full/>
+
+A before and after image from 2019 and 2022 where car lanes are taken away to make way for people.
