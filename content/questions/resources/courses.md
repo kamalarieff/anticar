@@ -2,7 +2,7 @@
 title = "Courses"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2044
+weight = 2043
 +++
 
 ## Urban Mobility Courses | Tools to Move Europe Forward {#urban-mobility-courses-tools-to-move-europe-forward}
@@ -25,4 +25,4 @@ A three day tour to learn more about the cycling infrastructure. When people des
 
 <https://www.transformative-mobility.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/rw4r80/cost%5Fbenefit%5Fof%5Fcycling%5Fand%5Fdriving/>
+-   <https://www.reddit.com/r/fuckcars/comments/rw4r80/cost_benefit_of_cycling_and_driving/>

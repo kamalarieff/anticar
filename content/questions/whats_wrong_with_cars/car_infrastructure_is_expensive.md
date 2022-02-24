@@ -7,10 +7,10 @@ weight = 2006
 
 ## (PDF) The Social Cost of Automobility, Cycling and Walking in the European Union {#pdf--the-social-cost-of-automobility-cycling-and-walking-in-the-european-union}
 
-<https://www.researchgate.net/publication/330184791%5FThe%5FSocial%5FCost%5Fof%5FAutomobility%5FCycling%5Fand%5FWalking%5Fin%5Fthe%5FEuropean%5FUnion>
+<https://www.researchgate.net/publication/330184791_The_Social_Cost_of_Automobility_Cycling_and_Walking_in_the_European_Union>
 
 -   <https://grist.org/biking/one-mile-on-a-bike-is-a-42-economic-gain-to-society-one-mile-driving-is-a-20-loss/>
--   <https://www.reddit.com/r/cycling/comments/hqgwne/society%5Floses%5F79%5Fcents%5Fper%5Fkm%5Fdriven%5Fand%5Fgains%5F72/>
+-   <https://www.reddit.com/r/cycling/comments/hqgwne/society_loses_79_cents_per_km_driven_and_gains_72/>
 -   [How to Build a City Around Bikes, Fast - YouTube - Bloomberg Quicktake](https://www.youtube.com/watch?v=h-I6HFQXquU)
 
 Society loses 79 cents per kilometer driven. Society gains 72 cents per kilometer cycled. This is because cycling reduces healthcare costs and sick leave.
@@ -31,8 +31,8 @@ Here is a simplified cost break down comparing between driving, taking a bus and
 
 <https://www.strongtowns.org/journal/2017/1/18/highway-spending-is-eating-the-budget>
 
--   <https://www.reddit.com/r/Showerthoughts/comments/rp62f6/taxes%5Fshouldnt%5Ffund%5Fpublic%5Fhighways%5Fthat%5Frequire/hq3e72l/>
--   <https://www.reddit.com/r/fuckcars/comments/rp70cw/taxes%5Fshouldnt%5Ffund%5Fpublic%5Fhighways%5Fthat%5Frequire/>
+-   <https://www.reddit.com/r/Showerthoughts/comments/rp62f6/taxes_shouldnt_fund_public_highways_that_require/hq3e72l/>
+-   <https://www.reddit.com/r/fuckcars/comments/rp70cw/taxes_shouldnt_fund_public_highways_that_require/>
 
 The cost of highways are paid by all taxpayers, not just the one's that use them. Politicians have been avoiding to raise the gas taxes so the cost are shifted to the general taxpayers instead.
 
@@ -45,6 +45,6 @@ Swimming in Debt. We have to pay interest and maintenance for all that highways 
 
 <https://www.vox.com/2015/1/13/7531833/road-salt-environment-alternatives>
 
-<https://www.reddit.com/r/fuckcars/comments/rqlel8/road%5Fsalt%5Fan%5Fundermentioned%5Fshit%5Faspect%5Fof%5Fcar/>
+<https://www.reddit.com/r/fuckcars/comments/rqlel8/road_salt_an_undermentioned_shit_aspect_of_car/>
 
 Salting the road in winter is very expensive. It pollutes the environment. It damages your car.

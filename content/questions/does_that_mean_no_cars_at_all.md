@@ -17,7 +17,7 @@ Even if you do need a car, there is always car sharing programs.
 
 > Don't ban cars for cities, just don't design cities for cars.
 
--   [/u/CitizenFoffie](https://www.reddit.com/r/fuckcars/comments/roqxhq/should%5Fcars%5Fbe%5Fbanned/hq0btfq/)
+-   [/u/CitizenFoffie](https://www.reddit.com/r/fuckcars/comments/roqxhq/should_cars_be_banned/hq0btfq/)
 
 
 ## Resources {#resources}
@@ -25,7 +25,7 @@ Even if you do need a car, there is always car sharing programs.
 
 ### Groningen: The World's Cycling City - YouTube - Streetfilms {#groningen-the-world-s-cycling-city-youtube-streetfilms}
 
-<https://www.youtube.com/watch?v=fv38J7SKH%5Fg>
+<https://www.youtube.com/watch?v=fv38J7SKH_g>
 
 At 4:46, you can even use a bicycle to transport stuff.
 

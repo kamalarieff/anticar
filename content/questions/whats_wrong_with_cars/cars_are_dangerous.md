@@ -2,15 +2,15 @@
 title = "Cars are dangerous"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2017
+weight = 2009
 +++
 
 ## GRIPE SESSION: Departing Council Member Cumbo Gives Parting Gift to Car Owners – Streetsblog New York City {#gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners-streetsblog-new-york-city}
 
 <https://nyc.streetsblog.org/2021/12/07/gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners/>
 
--   <https://www.reddit.com/r/Brooklyn/comments/rb8hru/gripe%5Fsession%5Fdeparting%5Fcouncil%5Fmember%5Fcumbo/>
--   <https://www.reddit.com/r/fuckcars/comments/rbh5bc/even%5Fnyc%5Fhas%5Fwork%5Fto%5Fdo/>
+-   <https://www.reddit.com/r/Brooklyn/comments/rb8hru/gripe_session_departing_council_member_cumbo/>
+-   <https://www.reddit.com/r/fuckcars/comments/rbh5bc/even_nyc_has_work_to_do/>
 
 In this article, there is a crashmapper where you can filter accidents. Only for New York though.
 
@@ -19,14 +19,14 @@ In this article, there is a crashmapper where you can filter accidents. Only for
 
 <https://www.outsideonline.com/outdoor-adventure/biking/driver-hit-run-bike-justice/>
 
-<https://www.reddit.com/r/fuckcars/comments/raobwd/the%5Fdriver%5Fwho%5Fhit%5Fme%5Fgot%5Ftwo%5Fyears%5Fin%5Fprison%5Fbut/>
+<https://www.reddit.com/r/fuckcars/comments/raobwd/the_driver_who_hit_me_got_two_years_in_prison_but/>
 
 Some driver hit and run a cyclist but only got a two-year sentence while the victim has to endure it for the rest of his life. He requested for the driver to take him off the road but didn't get it.
 
 
 ## THEY JUMPED OUT OF NOWHERE IN FRONT OF MY CAR! THEY WEREN’T VISIBLE ENOUGH! : fuckcars {#they-jumped-out-of-nowhere-in-front-of-my-car-they-weren-t-visible-enough-fuckcars}
 
-<https://www.reddit.com/r/fuckcars/comments/rf5nkx/they%5Fjumped%5Fout%5Fof%5Fnowhere%5Fin%5Ffront%5Fof%5Fmy%5Fcar/>
+<https://www.reddit.com/r/fuckcars/comments/rf5nkx/they_jumped_out_of_nowhere_in_front_of_my_car/>
 
 Your vision gets smaller when you drive faster. When drivers drive slower, they yield more for pedestrians.
 
@@ -50,7 +50,7 @@ Cars are dangerous.
 
 <https://www.thestar.com.my/news/nation/2021/12/18/midnight-tragedy-eight-children-and-two-adults-killed-in-pile-up-on-elite-highway>
 
--   <https://www.reddit.com/r/malaysia/comments/rj1xxf/midnight%5Ftragedy%5Feight%5Fchildren%5Fand%5Ftwo%5Fadults/>
+-   <https://www.reddit.com/r/malaysia/comments/rj1xxf/midnight_tragedy_eight_children_and_two_adults/>
 
 Malaysia.
 
@@ -59,8 +59,8 @@ Malaysia.
 
 <https://www.theguardian.com/commentisfree/2021/dec/19/what-price-the-lives-of-cyclists-and-pedestrians-when-motorists-feel-oppressed>
 
--   <https://www.reddit.com/r/fuckcars/comments/rjtnfl/pity%5Fthe%5Fpoor%5Foppressed%5Fdriver%5Fforced%5Fto%5Fshare/>
--   <https://www.reddit.com/r/unitedkingdom/comments/rjsvpk/pity%5Fthe%5Fpoor%5Foppressed%5Fdriver%5Fforced%5Fto%5Fshare/>
+-   <https://www.reddit.com/r/fuckcars/comments/rjtnfl/pity_the_poor_oppressed_driver_forced_to_share/>
+-   <https://www.reddit.com/r/unitedkingdom/comments/rjsvpk/pity_the_poor_oppressed_driver_forced_to_share/>
 
 Cars are dangerous and they hurt people. Even when they get punished, the penalties are not severe enough.
 
@@ -76,7 +76,7 @@ Human beings are emotional creatures. But the difference between an angry cyclis
 
 <https://domz60.wordpress.com/2021/01/05/drunk-driving-and-car-dependent-suburbs/>
 
-<https://www.reddit.com/r/fuckcars/comments/rkdy6m/do%5Fyou%5Fthink%5Fthe%5Fabundance%5Fof%5Fdrunk%5Fdriving%5Fis/>
+<https://www.reddit.com/r/fuckcars/comments/rkdy6m/do_you_think_the_abundance_of_drunk_driving_is/>
 
 This article talks about how there are more drunk driving today. It's not because people drink more, it's because people drive more.
 
@@ -85,7 +85,7 @@ This article talks about how there are more drunk driving today. It's not becaus
 
 <https://www.thestar.com/news/gta/2021/12/21/life-is-filled-with-emptiness-since-dangerous-driver-killed-my-wife-and-kids-brampton-father-tells-court.html>
 
-<https://www.reddit.com/r/fuckcars/comments/rmjkyn/just%5Fheartbreaking/>
+<https://www.reddit.com/r/fuckcars/comments/rmjkyn/just_heartbreaking/>
 
 Cars killing man's wife and three daughters.
 
@@ -94,7 +94,7 @@ Cars killing man's wife and three daughters.
 
 <https://www.nottinghampost.com/news/nottingham-news/driver-illegal-lockdown-party-before-6394770#comments-wrapper>
 
-<https://www.reddit.com/r/fuckcars/comments/rmw6ls/car%5Fbrain%5Fmeans%5Fdriving%5Fdrunk%5Fis%5Ftolerated%5Fwith/>
+<https://www.reddit.com/r/fuckcars/comments/rmw6ls/car_brain_means_driving_drunk_is_tolerated_with/>
 
 A drunk driver killing a 15 year old kid on a bicycle.
 
@@ -103,7 +103,7 @@ A drunk driver killing a 15 year old kid on a bicycle.
 
 <https://gothamist.com/news/prosecutors-traffic-cop-was-drunk-driving-111-mph-at-time-of-fatal-williamsburg-bridge-crash>
 
-<https://www.reddit.com/r/fuckcars/comments/rmj1hw/cars%5Farent%5Fthe%5Fissue%5Fguys/hpmljnk/>
+<https://www.reddit.com/r/fuckcars/comments/rmj1hw/cars_arent_the_issue_guys/hpmljnk/>
 
 A drunk cop killing his passenger girlfriend.
 
@@ -113,7 +113,7 @@ A drunk cop killing his passenger girlfriend.
 -   <https://www.straitstimes.com/singapore/1-dead-4-hurt-in-crash-at-tampines-junction>
 -   <https://youtu.be/SB6wBGlhKmU>
 
--   <https://www.reddit.com/r/fuckcars/comments/rnhzd7/1%5Fdead%5F4%5Fhurt%5Fin%5Fsingapore/>
+-   <https://www.reddit.com/r/fuckcars/comments/rnhzd7/1_dead_4_hurt_in_singapore/>
 
 Cars kill people. Innocent people gets killed at the expense of dangerous drivers. Singapore.
 
@@ -122,7 +122,7 @@ Cars kill people. Innocent people gets killed at the expense of dangerous driver
 
 <https://toronto.ctvnews.ca/mobile/eight-injured-two-critically-after-car-flips-onto-sidewalk-in-downtown-toronto-police-1.5720060>
 
-<https://www.reddit.com/r/fuckcars/comments/rpp8ms/eight%5Finjured%5Ftwo%5Fcritically%5Fafter%5Fcar%5Fflips%5Fonto/>
+<https://www.reddit.com/r/fuckcars/comments/rpp8ms/eight_injured_two_critically_after_car_flips_onto/>
 
 8 innocent pedestrians, two of them are boys, injured after two cars collided.
 
@@ -136,23 +136,23 @@ Cars kill people. Innocent people gets killed at the expense of dangerous driver
 
 <https://www.cbc.ca/news/canada/toronto/teen-dies-toronto-boxing-day-crash-1.6302090>
 
--   <https://www.reddit.com/r/notjustbikes/comments/rueyw2/toronto%5Fteen%5Fkilled%5Fafter%5Fcar%5Fflies%5Foff%5Froad%5Fin/>
--   <https://www.reddit.com/r/fuckcars/comments/rupbmj/toronto%5Fteen%5Fkilled%5Fafter%5Fcar%5Fflies%5Foff%5Froad%5Fin/>
+-   <https://www.reddit.com/r/notjustbikes/comments/rueyw2/toronto_teen_killed_after_car_flies_off_road_in/>
+-   <https://www.reddit.com/r/fuckcars/comments/rupbmj/toronto_teen_killed_after_car_flies_off_road_in/>
 
 
 ## 2021 was the deadliest on Washington roads in 15 years, puzzling experts | The Seattle Times {#2021-was-the-deadliest-on-washington-roads-in-15-years-puzzling-experts-the-seattle-times}
 
 <https://www.seattletimes.com/seattle-news/transportation/2021-was-the-deadliest-on-washington-roads-in-15-years-puzzling-experts/>
 
--   <https://www.reddit.com/r/Seattle/comments/rtpr27/2021%5Fwas%5Fthe%5Fdeadliest%5Fon%5Fwashington%5Froads%5Fin%5F15/>
--   <https://www.reddit.com/r/fuckcars/comments/rtvy9v/2021%5Fwas%5Fthe%5Fdeadliest%5Fon%5Fwashington%5Froads%5Fin%5F15/>
+-   <https://www.reddit.com/r/Seattle/comments/rtpr27/2021_was_the_deadliest_on_washington_roads_in_15/>
+-   <https://www.reddit.com/r/fuckcars/comments/rtvy9v/2021_was_the_deadliest_on_washington_roads_in_15/>
 
 
 ## New 'game-changer' camera caught 15,000 drivers using their phones | Metro News {#new-game-changer-camera-caught-15-000-drivers-using-their-phones-metro-news}
 
 <https://metro.co.uk/2021/12/30/new-game-changer-camera-caught-15000-drivers-using-their-phones-15839654/>
 
-<https://www.reddit.com/r/fuckcars/comments/rv8zeh/one%5Fcamera%5Fcaught%5F15000%5Fdrivers%5Fusing%5Ftheir%5Fphones/>
+<https://www.reddit.com/r/fuckcars/comments/rv8zeh/one_camera_caught_15000_drivers_using_their_phones/>
 
 People using phones in cars making them more dangerous.
 
@@ -161,7 +161,7 @@ People using phones in cars making them more dangerous.
 
 <https://www.theguardian.com/lifeandstyle/2022/jan/05/filming-cyclingmikey-dangerous-drivers-mike-van-erp-motorists-britain-roads-safer>
 
--   <https://www.reddit.com/r/fuckcars/comments/rwkx8t/i%5Ffelt%5Fpowerless%5Fso%5Fi%5Fstarted%5Ffilming/>
+-   <https://www.reddit.com/r/fuckcars/comments/rwkx8t/i_felt_powerless_so_i_started_filming/>
 
 Drivers using phones. It's kinda similar to the link before this.
 
@@ -172,7 +172,7 @@ In the article, he said "There is evidence that phone use is as dangerous as dri
 
 <https://smartgrowthamerica.org/dangerous-by-design/>
 
--   <https://www.reddit.com/r/fuckcars/comments/rwkyhg/a%5Fblood%5Fsacrifice%5Ffor%5Fthe%5Fcar%5Fgods/>
+-   <https://www.reddit.com/r/fuckcars/comments/rwkyhg/a_blood_sacrifice_for_the_car_gods/>
 
 This article showed that pedestrian deaths are on the rise. It's because the infrastructure is focused on speed rather than safety.
 
@@ -181,7 +181,7 @@ This article showed that pedestrian deaths are on the rise. It's because the inf
 
 <https://metro.co.uk/2022/01/08/pakistanat-least-22-die-stranded-in-heavy-snow-in-traffic-jam-15886066/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s6iaqg/car%5Fcompanies%5Fknow%5Fperfectly%5Fwell%5Fthat%5Fdeveloping/ht3rru0/>
+-   <https://www.reddit.com/r/fuckcars/comments/s6iaqg/car_companies_know_perfectly_well_that_developing/ht3rru0/>
 
 Bad car infrastructure can also kill you not just through accidents. These people die when they were stranded in the snow. If you can't maintain safe and proper infrastructure, maybe it's time to invest in cheaper and better infrastructure in the form of public transportation.
 
@@ -190,7 +190,7 @@ Bad car infrastructure can also kill you not just through accidents. These peopl
 
 <https://www.bbc.com/news/world-africa-46486231>
 
--   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably%5Fone%5Fof%5Fthe%5Fworst%5Farguments%5Five%5Fseen/htfmixr/>
+-   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably_one_of_the_worst_arguments_ive_seen/htfmixr/>
 
 From the article,
 
@@ -201,7 +201,7 @@ From the article,
 
 <https://www.bus.com/blog/safest-mode-of-transportation/?amp>
 
--   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably%5Fone%5Fof%5Fthe%5Fworst%5Farguments%5Five%5Fseen/htfmr1m/>
+-   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably_one_of_the_worst_arguments_ive_seen/htfmr1m/>
 
 Cars is the second most dangerous vehicle and motorcycles is the most dangerous vehicle.
 
@@ -210,7 +210,7 @@ Cars is the second most dangerous vehicle and motorcycles is the most dangerous 
 
 <https://people.com/human-interest/florida-toddler-run-over-killed-by-mothers-suv/>
 
--   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm%5Fsource=share&utm%5Fmedium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm_source=share&utm_medium=web2x&context=3>
 
 A mother killed her own son because she couldn't see him. Apparently, this is not her first child that has been involved in an automobile accident.
 
@@ -219,6 +219,34 @@ A mother killed her own son because she couldn't see him. Apparently, this is no
 
 <https://nyc.streetsblog.org/2021/10/30/another-2-year-old-killed-by-suv-driver-who-apparently-didnt-see-her/>
 
--   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm%5Fsource=share&utm%5Fmedium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm_source=share&utm_medium=web2x&context=3>
 
 Another child killed by someone driving a SUV because she couldn't see her.
+
+
+## Why are US drivers killing so many pedestrians? | City Observatory {#why-are-us-drivers-killing-so-many-pedestrians-city-observatory}
+
+<https://cityobservatory.org/why-are-us-drivers-killing-so-many-pedestrians/>
+
+-   <https://reddit.com/r/fuckcars/comments/sumpfl/simply_unacceptable/hxbccdz/>
+
+Pedestrian deaths are on the rise in the US. People thought that it because of phones but it's not. US and Europe have similar number of cars and phones but Europe has far lower pedestrian deaths. This is because of the narrower street design in Europe.
+
+
+## 2020 Fatality Data Show Increased Traffic Fatalities During Pandemic | NHTSA {#2020-fatality-data-show-increased-traffic-fatalities-during-pandemic-nhtsa}
+
+<https://www.nhtsa.gov/press-releases/2020-fatality-data-show-increased-traffic-fatalities-during-pandemic>
+
+-   <https://www.reddit.com/r/fuckcars/comments/subxgl/here_is_laura_ingrahams_entire_rant_last_night/hxawwyh/>
+
+Even when people are driving less, traffic fatalities still increased. People are speeding and not wearing seatbelts.
+
+
+## 13 Investigates: Millions of vehicles have unexpected, dangerous front blind zone | wthr.com {#13-investigates-millions-of-vehicles-have-unexpected-dangerous-front-blind-zone-wthr-dot-com}
+
+<https://www.wthr.com/article/news/investigations/13-investigates/13-investigates-millions-vehicles-have-unexpected-dangerous-front-blind-zone/531-9521c471-3bc1-4b55-b860-3363f0954b3b>
+
+-   <https://reddit.com/r/fuckcars/comments/sxa3r8/motor_vehicle_traffic_crashes_are_the_leading/hxscryk/>
+-   <https://www.reddit.com/r/fuckcars/comments/sxrbnc/corvette_completely_hidden_by_truck_height/hxvo1k7/>
+
+Those dangerous front blind zone on SUVs has contributed to hundreds of deaths and thousands of injuries of children.

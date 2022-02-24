@@ -10,7 +10,7 @@ weight = 5
 
 ### Lol. Elon Musk's Boring company has traffic jams. I was told it was impossible. : fuckcars {#lol-dot-elon-musk-s-boring-company-has-traffic-jams-dot-i-was-told-it-was-impossible-dot-fuckcars}
 
-<https://www.reddit.com/r/fuckcars/comments/rxd3ns/lol%5Felon%5Fmusks%5Fboring%5Fcompany%5Fhas%5Ftraffic%5Fjams%5Fi/>
+<https://www.reddit.com/r/fuckcars/comments/rxd3ns/lol_elon_musks_boring_company_has_traffic_jams_i/>
 
 You mean this tunnel where people are still stuck in traffic jams?
 
@@ -19,7 +19,7 @@ You mean this tunnel where people are still stuck in traffic jams?
 
 <https://www.youtube.com/watch?v=QZaRfNjTPx8>
 
--   <https://www.reddit.com/r/fuckcars/comments/rywftv/he%5Ffixed%5Fit/>
+-   <https://www.reddit.com/r/fuckcars/comments/rywftv/he_fixed_it/>
 
 Some expectation vs reality of the loop. The video progresses from the initial concept to its current implementation.
 
@@ -28,17 +28,17 @@ Some expectation vs reality of the loop. The video progresses from the initial c
 
 <https://www.youtube.com/watch?v=91-qwftOYVc>
 
--   <https://www.reddit.com/r/SubredditDrama/comments/rz68in/elon%5Fmusks%5Fsolution%5Fto%5Ftraffic%5Fthe%5Flas%5Fvegas%5Floop/hrtdjhe/>
--   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating%5Fsilly%5Fmistakes%5Fhow%5Fdid%5Fit%5Fcome%5Fto%5Fthis/>
+-   <https://www.reddit.com/r/SubredditDrama/comments/rz68in/elon_musks_solution_to_traffic_the_las_vegas_loop/hrtdjhe/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating_silly_mistakes_how_did_it_come_to_this/>
 
 This video goes through the initial promises of the loop and the actual reality of it. For example, at 5:11, the proposed Loop speed is 150mph but next, the reporter said it's just 30mph.
 
 
 ### DEBUNKING THE VEGAS LOOP (1080p) - YouTube {#debunking-the-vegas-loop--1080p--youtube}
 
-<https://www.youtube.com/watch?v=-RPMt%5FFS-s8>
+<https://www.youtube.com/watch?v=-RPMt_FS-s8>
 
--   <https://www.reddit.com/r/SubredditDrama/comments/rz68in/elon%5Fmusks%5Fsolution%5Fto%5Ftraffic%5Fthe%5Flas%5Fvegas%5Floop/hrtdjhe/>
--   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating%5Fsilly%5Fmistakes%5Fhow%5Fdid%5Fit%5Fcome%5Fto%5Fthis/>
+-   <https://www.reddit.com/r/SubredditDrama/comments/rz68in/elon_musks_solution_to_traffic_the_las_vegas_loop/hrtdjhe/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating_silly_mistakes_how_did_it_come_to_this/>
 
 A very good video that debunks the Loop just by using common sense. He also went through statistics. For example, how Tesla's rank second to last on reliablity [2:45]. He also went through some maths on the carrying capacity of the Loop [5:10].

@@ -31,6 +31,6 @@ At 1:39, cars are merging into the cycling lane making it very dangerous.
 
 <https://www.youtube.com/watch?v=bzE-IMaegzQ>
 
--   <https://www.reddit.com/r/fuckcars/comments/rxc0v4/another%5Fway%5Fcars%5Fmake%5Fbiking%5Finconvenient%5Fin%5Fthe/>
+-   <https://www.reddit.com/r/fuckcars/comments/rxc0v4/another_way_cars_make_biking_inconvenient_in_the/>
 
 He got fined for not staying in the bike lane even if they're cars are blocking them. So he made this video and purposely run into them.

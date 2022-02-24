@@ -9,35 +9,35 @@ weight = 2042
 
 <https://americawalks.org/local-walking-organizations/>#
 
--   <https://www.reddit.com/r/fuckcars/comments/rh0u4s/is%5Fthere%5Fan%5Forganization%5Fone%5Fcan%5Fsign%5Fup%5Ffor%5Fto/>
+-   <https://www.reddit.com/r/fuckcars/comments/rh0u4s/is_there_an_organization_one_can_sign_up_for_to/>
 
 
 ## Home - Sustrans.org.uk {#home-sustrans-dot-org-dot-uk}
 
 <https://www.sustrans.org.uk/>
 
--   <https://www.reddit.com/r/fuckcars/comments/rh0u4s/is%5Fthere%5Fan%5Forganization%5Fone%5Fcan%5Fsign%5Fup%5Ffor%5Fto/>
+-   <https://www.reddit.com/r/fuckcars/comments/rh0u4s/is_there_an_organization_one_can_sign_up_for_to/>
 
 
 ## People for Bikes {#people-for-bikes}
 
 <https://www.peopleforbikes.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/rh0u4s/is%5Fthere%5Fan%5Forganization%5Fone%5Fcan%5Fsign%5Fup%5Ffor%5Fto/>
+-   <https://www.reddit.com/r/fuckcars/comments/rh0u4s/is_there_an_organization_one_can_sign_up_for_to/>
 
 
 ## What is New Urbanism? | CNU {#what-is-new-urbanism-cnu}
 
 <https://www.cnu.org/resources/what-new-urbanism>
 
--   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new%5Fhere%5Fglad%5Fi%5Ffound%5Fthis%5Fhave%5Ffelt%5Fthe%5Fsame%5Ffor/>
+-   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new_here_glad_i_found_this_have_felt_the_same_for/>
 
 
 ## Resources Archive - Smart Growth America {#resources-archive-smart-growth-america}
 
 <https://smartgrowthamerica.org/resources/>
 
--   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new%5Fhere%5Fglad%5Fi%5Ffound%5Fthis%5Fhave%5Ffelt%5Fthe%5Fsame%5Ffor/>
+-   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new_here_glad_i_found_this_have_felt_the_same_for/>
 
 
 ## Transit Malaysia {#transit-malaysia}
@@ -56,15 +56,15 @@ You can try signing up. These are the tasks that are specified on the page that 
 
 <https://www.londoncyclelink.ca/>
 
--   <https://www.reddit.com/r/londonontario/comments/s0bmma/has%5Fanyone%5Fgone%5Fcar%5Ffree%5Fin%5Flondon%5Fany%5Ftips/hs27ajk/>
--   <https://www.reddit.com/r/fuckcars/comments/s0od38/more%5Ffakelondoners%5Fasking%5Fabout%5Falternatives%5Fto/>
+-   <https://www.reddit.com/r/londonontario/comments/s0bmma/has_anyone_gone_car_free_in_london_any_tips/hs27ajk/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0od38/more_fakelondoners_asking_about_alternatives_to/>
 
 
 ## League of American Bicyclists Home Page | League of American Bicyclists {#league-of-american-bicyclists-home-page-league-of-american-bicyclists}
 
 <https://www.bikeleague.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s6jlej/are%5Fthere%5Fany%5Forganizations%5For%5Fgroups%5Fdedicated/ht4fv1o/>
+-   <https://www.reddit.com/r/fuckcars/comments/s6jlej/are_there_any_organizations_or_groups_dedicated/ht4fv1o/>
 
 Pro-bike is usually anti-car.
 
@@ -73,7 +73,7 @@ Pro-bike is usually anti-car.
 
 <https://www.telegraphforpeople.com/home>
 
--   <https://www.reddit.com/r/fuckcars/comments/sc47q9/telegraph%5Ffor%5Fpeople/>
+-   <https://www.reddit.com/r/fuckcars/comments/sc47q9/telegraph_for_people/>
 
 > Telegraph for People is a student-led coalition that aims to turn Berkeley's Telegraph Avenue into a street for people. Our vision is a car-free Telegraph Avenue that puts pedestrians, cyclists, transit riders, and small businesses first, with a uniting goal of fighting climate change.
 
@@ -82,10 +82,19 @@ Pro-bike is usually anti-car.
 
 <https://www.railpassengers.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/sbt3nh/consider%5Fjoiningsupporting%5Fthe%5Frail%5Fpassengers/>
+-   <https://www.reddit.com/r/fuckcars/comments/sbt3nh/consider_joiningsupporting_the_rail_passengers/>
 
 On the homepage, there is a lot of reasons why cars are bad. Some of them:
 
 1.  $166 billion the annual cost of congestion to Americans
 2.  8.8 billion hours how much time Americans waste each year due to congestion on urban roads
 3.  3.3 billion gallons how much extra fuel is burned annually crawling in traffic
+
+
+## Vision Zero Network | Making our streets safer {#vision-zero-network-making-our-streets-safer}
+
+<https://visionzeronetwork.org/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/syqgbn/but_we_have_a_vision_zero_program/hy0x0qs/>
+
+> Vision Zero is a strategy to eliminate all traffic fatalities and severe injuries, while increasing safe, healthy, equitable mobility for all. First implemented in Sweden in the 1990s, Vision Zero has proved successful across Europe — and now it’s gaining momentum in major American cities.

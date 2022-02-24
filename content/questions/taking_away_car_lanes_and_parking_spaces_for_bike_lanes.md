@@ -9,4 +9,4 @@ In some cases, yes. But the best bike lanes are the one's that are away from any
 
 > "PEOPLE NEED PARKING" ... No, cars need parking.
 
-<https://www.reddit.com/r/fuckcars/comments/rg6vrm/fuck%5Fnimbys/>
+<https://www.reddit.com/r/fuckcars/comments/rg6vrm/fuck_nimbys/>

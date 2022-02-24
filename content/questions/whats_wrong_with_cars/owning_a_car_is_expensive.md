@@ -135,3 +135,12 @@ Indirect
 <https://www.nature.com/articles/d41586-020-01118-w>
 
 People overestimate how much their cars cost by half via these 4 factors: fuel, depreciation, repair, and tax and insurance.
+
+
+## The actual cost of a car can be as high as $1 million — and society pays for much of that | Salon.com {#the-actual-cost-of-a-car-can-be-as-high-as-1-million-and-society-pays-for-much-of-that-salon-dot-com}
+
+<https://www.salon.com/2022/02/18/the-actual-cost-of-a-car-can-be-as-high-as-1-million-and-society-pays-for-much-of-that/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/svsn8f/the_actual_cost_of_a_car_can_be_as_high_as_1/>
+
+Typically, the driver of the car don't bear the costs of driving. Society have to bear the rest.

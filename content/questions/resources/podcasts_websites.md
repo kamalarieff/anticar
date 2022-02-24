@@ -9,7 +9,7 @@ weight = 2040
 
 <https://www.strongtowns.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 If the entire website is too much for you and you don't know where to start, I recommend the [explore by topics](https://actionlab.strongtowns.org/hc/en-us/categories/360004221831-Explore-by-Topic) page.
 
@@ -18,21 +18,21 @@ If the entire website is too much for you and you don't know where to start, I r
 
 <https://thewaroncars.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## Streetsblog USA – Better walking, biking, and transit {#streetsblog-usa-better-walking-biking-and-transit}
 
 <https://usa.streetsblog.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## 99% Invisible {#99-invisible}
 
 <https://99percentinvisible.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 Sort by cities.
 
@@ -46,4 +46,4 @@ Sort by cities.
 
 <http://tacticalurbanismguide.com/guides/>
 
--   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i%5Flove%5Fthis%5Fsub%5Fbut%5Fit%5Fdesperately%5Fneeds%5Fa/>
+-   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i_love_this_sub_but_it_desperately_needs_a/>

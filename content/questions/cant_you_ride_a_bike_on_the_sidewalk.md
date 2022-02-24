@@ -15,7 +15,7 @@ No. In most places, it is illegal. Besides, it is also dangerous.
 
 <https://cyclingsavvy.org/road-cycling>
 
--   <https://www.reddit.com/r/IdiotsInCars/comments/rua59i/just%5Fa%5Fnice%5Fcountryside%5Fdrive%5Fwith%5Fsome%5Fmuppet/hr0wuik/>
--   <https://www.reddit.com/r/fuckcars/comments/rum9dk/car%5Fovertakes%5Fwith%5Fbicycle%5Fin%5Fthe%5Fblind%5Fspot/>
+-   <https://www.reddit.com/r/IdiotsInCars/comments/rua59i/just_a_nice_countryside_drive_with_some_muppet/hr0wuik/>
+-   <https://www.reddit.com/r/fuckcars/comments/rum9dk/car_overtakes_with_bicycle_in_the_blind_spot/>
 
 It has the same style like mine where it answers questions.

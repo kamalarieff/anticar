@@ -15,7 +15,7 @@ This is a myth. Studies have shown that replacing parking spaces to accommodate 
 
 <https://www.bloomberg.com/news/articles/2021-12-04/how-paris-plans-to-make-the-seine-swimmable-by-2024>
 
-<https://www.reddit.com/r/fuckcars/comments/rabxob/battle%5Fover%5Fbike%5Flanes%5Fpits%5Fbusinesses%5Fresidents/>
+<https://www.reddit.com/r/fuckcars/comments/rabxob/battle_over_bike_lanes_pits_businesses_residents/>
 
 A lot of charts to suggest that taking away lanes and parking has no negative impact. Even though they spend less, they take more trips. So I'm not sure if you can use this as a reference when trying to do car free day.
 
@@ -24,7 +24,7 @@ A lot of charts to suggest that taking away lanes and parking has no negative im
 
 <https://theconversation.com/parking-isnt-as-important-for-restaurants-as-the-owners-think-it-is-74750>
 
-<https://www.reddit.com/r/fuckcars/comments/rabxob/battle%5Fover%5Fbike%5Flanes%5Fpits%5Fbusinesses%5Fresidents/>
+<https://www.reddit.com/r/fuckcars/comments/rabxob/battle_over_bike_lanes_pits_businesses_residents/>
 
 A study done on restaurant owners on what is their perception on how many people drives. Spoiler alert: they were wrong. On a side note, most of the revenue comes from non-car people.
 
@@ -33,7 +33,7 @@ A study done on restaurant owners on what is their perception on how many people
 
 <https://www.sustrans.org.uk/our-blog/opinion/2016/december/the-incredible-value-of-cycling-and-walking-goes-beyond-economic-benefits/>
 
-<https://www.reddit.com/r/fuckcars/comments/rabxob/battle%5Fover%5Fbike%5Flanes%5Fpits%5Fbusinesses%5Fresidents/>
+<https://www.reddit.com/r/fuckcars/comments/rabxob/battle_over_bike_lanes_pits_businesses_residents/>
 
 
 ### Why Car-Free Streets May Be Here to Stay - YouTube - Bloomberg Quicktake {#why-car-free-streets-may-be-here-to-stay-youtube-bloomberg-quicktake}
@@ -47,10 +47,10 @@ At 10:12, there is a 10% boost in sales in Madrid.
 
 ### Acland St Traders {#acland-st-traders}
 
-<https://www.victoriawalks.org.au/Acland%5FSt/>
+<https://www.victoriawalks.org.au/Acland_St/>
 
--   <https://www.reddit.com/r/melbourne/comments/rmkuzn/am%5Fi%5Fthe%5Fonly%5Fone%5Fthat%5Fthinks%5Fits%5Finsane%5Fthat%5Fwe/hpnqg2y/>
--   <https://www.reddit.com/r/fuckcars/comments/rn70go/this%5Fentire%5Fthread%5Fis%5Fso%5Fbased%5Fand%5Fgives%5Fme%5Fhope/>
+-   <https://www.reddit.com/r/melbourne/comments/rmkuzn/am_i_the_only_one_that_thinks_its_insane_that_we/hpnqg2y/>
+-   <https://www.reddit.com/r/fuckcars/comments/rn70go/this_entire_thread_is_so_based_and_gives_me_hope/>
 
 The traders overestimate how much of their customers are driving when in fact, most of the their customers come to the shop via walking.
 
@@ -63,8 +63,8 @@ By making their place more walkable, they are able to get brand loyalty from the
 
 <https://theconversation.com/do-the-sums-bicycle-friendly-changes-are-good-business-58213>
 
--   <https://www.reddit.com/r/melbourne/comments/rmkuzn/am%5Fi%5Fthe%5Fonly%5Fone%5Fthat%5Fthinks%5Fits%5Finsane%5Fthat%5Fwe/>
--   <https://www.reddit.com/r/fuckcars/comments/rn70go/this%5Fentire%5Fthread%5Fis%5Fso%5Fbased%5Fand%5Fgives%5Fme%5Fhope/>
+-   <https://www.reddit.com/r/melbourne/comments/rmkuzn/am_i_the_only_one_that_thinks_its_insane_that_we/>
+-   <https://www.reddit.com/r/fuckcars/comments/rn70go/this_entire_thread_is_so_based_and_gives_me_hope/>
 
 > In Valencia Street, San Francisco, traffic lanes were slimmed to slow down cars and accommodate other road users. Nearly 40% of merchants reported increased sales. More than 60% reported an increase in the number of customers who ride bicycles.
 
@@ -81,7 +81,7 @@ People tend to overestimate the number of people who drove to their shops.
 
 ### It gets tiring having to prove that it's possible to live the way so many people around the world already live : fuckcars {#it-gets-tiring-having-to-prove-that-it-s-possible-to-live-the-way-so-many-people-around-the-world-already-live-fuckcars}
 
-<https://www.reddit.com/r/fuckcars/comments/rsgqs1/it%5Fgets%5Ftiring%5Fhaving%5Fto%5Fprove%5Fthat%5Fits%5Fpossible/>
+<https://www.reddit.com/r/fuckcars/comments/rsgqs1/it_gets_tiring_having_to_prove_that_its_possible/>
 
 This is an image of a walkable street where there's arrows pointing out people buying groceries, disabled people in wheelchairs.
 
@@ -105,6 +105,6 @@ This is an article and research on how car-free streets were attracting more cus
 
 <https://youtu.be/Bt4c1J3iHAU>
 
--   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is%5Fgroningen%5Fthe%5Fmost%5Fwalkable%5Fcity%5Fin%5Fthe%5Fworld/>
+-   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is_groningen_the_most_walkable_city_in_the_world/>
 
 In the 70s, business owners were against the idea of making the city center car free [3:48]. But cars don't do the shopping. People do. Now, when the city wanted to remove bicycle parking spaces during COVID but the business owners were against that. It's the total opposite from the 70s. [5:37]

@@ -22,8 +22,8 @@ Above 40km/h, tire noise comes into play.
 
 <https://www.washingtonpost.com/business/2019/10/23/man-died-burning-tesla-because-its-futuristic-doors-wouldnt-open-lawsuit-alleges/>
 
--   <https://www.reddit.com/r/SubredditDrama/comments/rz68in/elon%5Fmusks%5Fsolution%5Fto%5Ftraffic%5Fthe%5Flas%5Fvegas%5Floop/hrunhxl/>
--   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating%5Fsilly%5Fmistakes%5Fhow%5Fdid%5Fit%5Fcome%5Fto%5Fthis/>
+-   <https://www.reddit.com/r/SubredditDrama/comments/rz68in/elon_musks_solution_to_traffic_the_las_vegas_loop/hrunhxl/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating_silly_mistakes_how_did_it_come_to_this/>
 
 Since Tesla falls under electric cars, I'll put this here. They are still a danger to human lives.
 
@@ -41,14 +41,14 @@ At 8:55, electric cars are heavy. This increases the damage done on roads.
 
 <https://www.youtube.com/watch?v=CTV-wwszGw8>
 
--   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i%5Flove%5Fthis%5Fsub%5Fbut%5Fit%5Fdesperately%5Fneeds%5Fa/>
+-   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i_love_this_sub_but_it_desperately_needs_a/>
 
 At 13:24, electric cars are worse at high speeds because tire noise increases with weight. Electric cars weigh more than normal cars.
 
 
 ### A comment that compiles all the dangerous incidents that has happened with Teslas. {#a-comment-that-compiles-all-the-dangerous-incidents-that-has-happened-with-teslas-dot}
 
-<https://www.reddit.com/r/fuckcars/comments/sp4kbh/elon%5Fis%5Fa%5Ffraudster/hwea6qb/>
+<https://www.reddit.com/r/fuckcars/comments/sp4kbh/elon_is_a_fraudster/hwea6qb/>
 
 > Tesla's quality control is truly a sight to behold. Like some seriously messed up stuff;
 >
@@ -63,3 +63,12 @@ At 13:24, electric cars are worse at high speeds because tire noise increases wi
 > I of course have not mentioned Tesla's catching on fire killing its drivers which may be of some concern given that the Model 3 does not have a manual rear door release. Nor have I mentioned that it's Self Driving has caused deaths on the road.
 >
 > All of this is to say that you should avoid Tesla's because they are the car manufacturer with the most problems in America.
+
+
+### Electric Vehicles Won’t Save Us – Streetsblog USA {#electric-vehicles-won-t-save-us-streetsblog-usa}
+
+<https://usa.streetsblog.org/2021/06/18/electric-vehicles-wont-save-us/>
+
+-   <https://reddit.com/r/fuckcars/comments/su3ryg/is_this_sub_just_becoming_propaganda_posted_by/hx7l0m8/>
+
+Electric cars are better than gas powered cars, but they're still cars. Sure it's nice to replace all gas powered cars with electric cars, but that's only part of the fight. The real fight is cars vs the environment and the people. Car focused infrastructure is vehemently opposed to better environment and better lives for people by design.

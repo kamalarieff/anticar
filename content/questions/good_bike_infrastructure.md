@@ -203,3 +203,12 @@ Bike paths that are separated from any cars. A redditor wrote a good description
 -   <https://www.reddit.com/r/fuckcars/comments/st05r0/as_a_counterpoint_to_some_other_posts_in_this_sub/hx21y7g/?context=8&depth=9>
 
 Who said that it's not possible with living with a car in a suburb? Houten, Netherlands proved that it can be done. They have ring roads where it goes around the suburb and have a high speed limit. But the city is divided in a way that cars can't cross into another part of the city. They have to go out back onto the ring road. Bikes are able to cross just fine.
+
+
+### Why is cycling so popular in the Netherlands? - BBC News {#why-is-cycling-so-popular-in-the-netherlands-bbc-news}
+
+<https://www.bbc.com/news/magazine-23587916>
+
+-   <https://reddit.com/r/fuckcars/comments/svamj1/research_paper/hxg0xuw/>
+
+A good article on why cycling is so popular in the Netherlands. It goes about how they got started, some infrastructure points and their culture around it.

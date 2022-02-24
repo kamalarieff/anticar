@@ -9,66 +9,66 @@ weight = 2037
 
 <https://www.reddit.com/r/urbanplanning>
 
--   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new%5Fhere%5Fglad%5Fi%5Ffound%5Fthis%5Fhave%5Ffelt%5Fthe%5Fsame%5Ffor/>
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new_here_glad_i_found_this_have_felt_the_same_for/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## Strong Towns {#strong-towns}
 
 <https://www.reddit.com/r/strongtowns>
 
--   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new%5Fhere%5Fglad%5Fi%5Ffound%5Fthis%5Fhave%5Ffelt%5Fthe%5Fsame%5Ffor/>
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new_here_glad_i_found_this_have_felt_the_same_for/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## notjustbikes {#notjustbikes}
 
 <https://www.reddit.com/r/notjustbikes>
 
--   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new%5Fhere%5Fglad%5Fi%5Ffound%5Fthis%5Fhave%5Ffelt%5Fthe%5Fsame%5Ffor/>
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ryn3t7/new_here_glad_i_found_this_have_felt_the_same_for/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## Low-Car Lifestyle {#low-car-lifestyle}
 
 <https://www.reddit.com/r/lowcar>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## All things Ebikes {#all-things-ebikes}
 
 <https://www.reddit.com/r/ebikes>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## Bike Commuting {#bike-commuting}
 
 <https://www.reddit.com/r/bikecommuting>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## WalkableStreets {#walkablestreets}
 
 <https://www.reddit.com/r/walkablestreets>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
-## left\_urbanism {#left-urbanism}
+## left_urbanism {#left-urbanism}
 
-<https://www.reddit.com/r/left%5Furbanism/>
+<https://www.reddit.com/r/left_urbanism/>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## missingmiddle {#missingmiddle}
 
 <https://www.reddit.com/r/missingmiddle>
 
--   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other%5Fanticar%5Fdependence%5Fsubreddits%5Fpodcasts/>
+-   <https://www.reddit.com/r/fuckcars/comments/ra2efj/other_anticar_dependence_subreddits_podcasts/>
 
 
 ## Arrogance of space {#arrogance-of-space}
@@ -80,49 +80,49 @@ weight = 2037
 
 <https://www.reddit.com/r/walkablecities/>
 
--   <https://www.reddit.com/r/fuckcars/comments/rxyk2o/the%5Fwalkable%5Fcity%5Ffeels%5Flike%5Fthis%5Fvideo%5Fwas%5Fmade/hrlpzl7/>
+-   <https://www.reddit.com/r/fuckcars/comments/rxyk2o/the_walkable_city_feels_like_this_video_was_made/hrlpzl7/>
 
 
 ## The Downsides of Modern Development {#the-downsides-of-modern-development}
 
 <https://www.reddit.com/r/Urbanhell>
 
--   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why%5Fare%5Feven%5Fliberal%5Famericans%5Fconservative%5Fon/hs4lnmz/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why_are_even_liberal_americans_conservative_on/hs4lnmz/>
 
 
 ## Little boxes, on the hillside {#little-boxes-on-the-hillside}
 
 <https://www.reddit.com/r/Suburbanhell>
 
--   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why%5Fare%5Feven%5Fliberal%5Famericans%5Fconservative%5Fon/hs4lnmz/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why_are_even_liberal_americans_conservative_on/hs4lnmz/>
 
 
 ## Urban Planning: The built environment {#urban-planning-the-built-environment}
 
 <https://www.reddit.com/r/Urbanplanning>
 
--   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why%5Fare%5Feven%5Fliberal%5Famericans%5Fconservative%5Fon/hs4lnmz/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why_are_even_liberal_americans_conservative_on/hs4lnmz/>
 
 
 ## transit {#transit}
 
 <https://www.reddit.com/r/Transit>
 
--   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why%5Fare%5Feven%5Fliberal%5Famericans%5Fconservative%5Fon/hs4lnmz/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0s7b0/why_are_even_liberal_americans_conservative_on/hs4lnmz/>
 
 
 ## ArchitecturalRevival {#architecturalrevival}
 
 <https://www.reddit.com/r/ArchitecturalRevival/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s0jcrj/meta%5Fi%5Fwas%5Fjust%5Fcasually%5Flooking%5Fat%5Fsubreddit/hs2760v/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0jcrj/meta_i_was_just_casually_looking_at_subreddit/hs2760v/>
 
 
 ## walkabletowns {#walkabletowns}
 
 <https://www.reddit.com/r/walkabletowns/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s0q8n7/thoughts%5Fon%5Fporticoes%5Fthey%5Fkeep%5Fpedestrians%5Fsafe/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0q8n7/thoughts_on_porticoes_they_keep_pedestrians_safe/>
 
 
 ## AbolishCars {#abolishcars}
@@ -134,6 +134,6 @@ weight = 2037
 
 <https://www.reddit.com/r/CargoBike/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s70p93/rcargobike%5Fhas%5Fan%5Fanswer%5Fto%5Fevery%5Fi%5Fneed%5Fa%5Fcar/>
+-   <https://www.reddit.com/r/fuckcars/comments/s70p93/rcargobike_has_an_answer_to_every_i_need_a_car/>
 
 This is basically the sub to go to when you have questions like "But how do I cycle in ... ?".

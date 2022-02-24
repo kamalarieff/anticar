@@ -7,10 +7,10 @@ weight = 2011
 
 ## (PDF) Tire Abrasion as a Major Source of Microplastics in the Environment {#pdf--tire-abrasion-as-a-major-source-of-microplastics-in-the-environment}
 
-<https://www.researchgate.net/publication/326063101%5FTire%5FAbrasion%5Fas%5Fa%5FMajor%5FSource%5Fof%5FMicroplastics%5Fin%5Fthe%5FEnvironment>
+<https://www.researchgate.net/publication/326063101_Tire_Abrasion_as_a_Major_Source_of_Microplastics_in_the_Environment>
 
--   <https://www.reddit.com/r/urbanplanning/comments/rckfhh/tire%5Fabrasion%5Fas%5Fa%5Fmajor%5Fsource%5Fof%5Fmicroplastics/>
--   <https://www.reddit.com/r/fuckcars/comments/rckzeh/tire%5Fabrasion%5Fas%5Fa%5Fmajor%5Fsource%5Fof%5Fmicroplastics/>
+-   <https://www.reddit.com/r/urbanplanning/comments/rckfhh/tire_abrasion_as_a_major_source_of_microplastics/>
+-   <https://www.reddit.com/r/fuckcars/comments/rckzeh/tire_abrasion_as_a_major_source_of_microplastics/>
 
 > 30 vol% of the microplastic particles that pollute rivers, lakes and oceans consist of tire wear, thus affecting aquatic wildlife.
 
@@ -26,7 +26,7 @@ There is another study in the first referrer link.
 <https://www.sciencedirect.com/science/article/pii/S0967070X21003401?via%3Dihub>
 
 -   <https://www.treehugger.com/politicians-planners-missing-e-bike-revolution-5211965>
--   <https://www.reddit.com/r/urbanplanning/comments/raoli0/politicians%5Fand%5Fplanners%5Fare%5Fmissing%5Fthe%5Febike/>
+-   <https://www.reddit.com/r/urbanplanning/comments/raoli0/politicians_and_planners_are_missing_the_ebike/>
 
 > Transport is responsible for 24% of global direct carbon dioxide (CO2) emissions from fuel combustion
 
@@ -35,7 +35,7 @@ There is another study in the first referrer link.
 
 <https://www.theguardian.com/us-news/2020/sep/01/suv-conquered-america-climate-change-emissions>
 
-<https://www.reddit.com/r/fuckcars/comments/rduyat/how%5Fsuvs%5Fconquered%5Fthe%5Fworld%5Fat%5Fthe%5Fexpense%5Fof/>
+<https://www.reddit.com/r/fuckcars/comments/rduyat/how_suvs_conquered_the_world_at_the_expense_of/>
 
 SUVs are not good for the environment. It is very shocking that just SUVs are second behind an entire industry. They are not aerodynamic, consumes a lot of gas.
 
@@ -46,7 +46,7 @@ SUVs are not good for the environment. It is very shocking that just SUVs are se
 
 <https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-passenger-vehicle>
 
-<https://www.reddit.com/r/fuckcars/comments/rgxwef/the%5Fgigacyclist/>
+<https://www.reddit.com/r/fuckcars/comments/rgxwef/the_gigacyclist/>
 
 > A typical passenger vehicle emits about 4.6 metric tons of carbon dioxide per year
 
@@ -55,7 +55,7 @@ There is just this number. I don't think it is useful to use in an argument. You
 
 ## Cycling across Europe in the pandemic - BBC World Service - YouTube - BBC World Service {#cycling-across-europe-in-the-pandemic-bbc-world-service-youtube-bbc-world-service}
 
-<https://www.youtube.com/watch?v=Cukx%5FBSQ0Ww>
+<https://www.youtube.com/watch?v=Cukx_BSQ0Ww>
 
 At 14:13, cars pollute which in turn makes people sick.
 
@@ -64,7 +64,7 @@ At 14:13, cars pollute which in turn makes people sick.
 
 <https://phys.org/news/2021-12-vehicle-emission-declines-decreased-deaths.html>
 
-<https://www.reddit.com/r/fuckcars/comments/rjonhl/vehicle%5Femission%5Fdeclines%5Fdecreased%5Fdeaths%5Fstudy/>
+<https://www.reddit.com/r/fuckcars/comments/rjonhl/vehicle_emission_declines_decreased_deaths_study/>
 
 They pollute.
 
@@ -75,8 +75,8 @@ They pollute.
 
 <https://ourworldindata.org/co2-emissions-from-transport>
 
--   <https://www.reddit.com/r/ThatLookedExpensive/comments/rlmwg3/huge%5Frepair%5Fcost%5Fcauses%5Ftesla%5Fowner%5Fto%5Fblew%5Fup/hphzor7/>
--   <https://www.reddit.com/r/fuckcars/comments/rlru5l/not%5Ftrying%5Fto%5Fgive%5Fanyone%5Fany%5Fideas/>
+-   <https://www.reddit.com/r/ThatLookedExpensive/comments/rlmwg3/huge_repair_cost_causes_tesla_owner_to_blew_up/hphzor7/>
+-   <https://www.reddit.com/r/fuckcars/comments/rlru5l/not_trying_to_give_anyone_any_ideas/>
 
 Transport emit CO2 emissions. Here are some numbers from the article:
 
@@ -91,7 +91,7 @@ Transport emit CO2 emissions. Here are some numbers from the article:
 
 <https://www.bbc.com/news/science-environment-39042655>
 
-<https://www.reddit.com/r/fuckcars/comments/rmzz9t/turning%5Fa%5Fbeautiful%5Fbeach%5Finto%5Fa%5Ftracked%5Fup/hpqxo1w/>
+<https://www.reddit.com/r/fuckcars/comments/rmzz9t/turning_a_beautiful_beach_into_a_tracked_up/hpqxo1w/>
 
 > Up to 30% of plastic released into the oceans each year comes from primary microplastics, not the disintegration of larger pieces, a report found.
 >
@@ -102,15 +102,15 @@ Transport emit CO2 emissions. Here are some numbers from the article:
 
 <https://www.asahi.com/ajw/articles/14500390>
 
--   <https://www.reddit.com/r/environment/comments/ro3dth/car%5Ftires%5Fabandoned%5Fon%5Fthe%5Fseabed%5Fare%5Fcreating/>
--   <https://www.reddit.com/r/fuckcars/comments/ro5zjf/car%5Ftires%5Fabandoned%5Fon%5Fthe%5Fseabed%5Fare%5Fcreating/>
+-   <https://www.reddit.com/r/environment/comments/ro3dth/car_tires_abandoned_on_the_seabed_are_creating/>
+-   <https://www.reddit.com/r/fuckcars/comments/ro5zjf/car_tires_abandoned_on_the_seabed_are_creating/>
 
 When tires sank to the bottom of the ocean, hermit crabs get stuck in them causing them to die.
 
 
 ## If people understood the health damage caused by cars, they would be saying "fuck cars" too : fuckcars {#if-people-understood-the-health-damage-caused-by-cars-they-would-be-saying-fuck-cars-too-fuckcars}
 
-<https://www.reddit.com/r/fuckcars/comments/rpztaw/if%5Fpeople%5Funderstood%5Fthe%5Fhealth%5Fdamage%5Fcaused%5Fby/>
+<https://www.reddit.com/r/fuckcars/comments/rpztaw/if_people_understood_the_health_damage_caused_by/>
 
 This is an image of how cars emit ultra fine particles.
 
@@ -119,7 +119,7 @@ This is an image of how cars emit ultra fine particles.
 
 <https://www.theguardian.com/environment/2018/dec/13/cyclists-exposed-to-less-air-pollution-than-drivers-on-congested-routes-study>
 
--   <https://www.reddit.com/r/fuckcars/comments/ru9a3u/americans%5Fare%5Fso%5Fblinded%5Fby%5Fconsumerism%5Fand%5Fbig/hqz8s76/>
+-   <https://www.reddit.com/r/fuckcars/comments/ru9a3u/americans_are_so_blinded_by_consumerism_and_big/hqz8s76/>
 
 Even in a car, you are exposed to more pollution than on a bicycle. That is because cyclists spent less time in traffic congestion than people in cars.
 
@@ -128,7 +128,7 @@ Even in a car, you are exposed to more pollution than on a bicycle. That is beca
 
 <https://www.vox.com/future-perfect/22691558/air-pollution-deaths-mortality-pm-25-soot-particulate>
 
-<https://www.reddit.com/r/longevity/comments/rto01z/a%5Fmundane%5Fway%5Fto%5Fincrease%5Flongevity%5F2%5Fyears%5Fcut/>
+<https://www.reddit.com/r/longevity/comments/rto01z/a_mundane_way_to_increase_longevity_2_years_cut/>
 
 > PM 2.5 refers to particles smaller than 2.5 microns
 
@@ -141,9 +141,9 @@ Cars emit these type of particles.
 
 <https://mediarelations.gwu.edu/nearly-2-million-children-worldwide-develop-asthma-result-breathing-traffic-related-pollution>
 
--   <https://www.reddit.com/r/science/comments/rxiudm/nearly%5F2%5Fmillion%5Fchildren%5Fworldwide%5Fdevelop/>
--   <https://www.reddit.com/r/fuckcars/comments/rxryj7/nearly%5F2%5Fmillion%5Fchildren%5Fworldwide%5Fdevelop/>
--   <https://www.reddit.com/r/fuckcars/comments/ry7v5p/cars%5Fkill/>
+-   <https://www.reddit.com/r/science/comments/rxiudm/nearly_2_million_children_worldwide_develop/>
+-   <https://www.reddit.com/r/fuckcars/comments/rxryj7/nearly_2_million_children_worldwide_develop/>
+-   <https://www.reddit.com/r/fuckcars/comments/ry7v5p/cars_kill/>
 
 A good quote from the author:
 
@@ -154,7 +154,7 @@ A good quote from the author:
 
 <https://www.bloomberg.com/news/articles/2021-02-09/fossil-fuel-pollution-kills-millions-more-than-scientists-knew>
 
--   <https://www.reddit.com/r/science/comments/rxiudm/nearly%5F2%5Fmillion%5Fchildren%5Fworldwide%5Fdevelop/>
+-   <https://www.reddit.com/r/science/comments/rxiudm/nearly_2_million_children_worldwide_develop/>
 
 It's caused by fine particles.
 
@@ -164,7 +164,7 @@ It's caused by fine particles.
 <https://pdfs.semanticscholar.org/a9a4/2cb7596ee99b6a74fc7fcdc0e90e354caade.pdf>
 
 -   <https://pubmed.ncbi.nlm.nih.gov/31717834/>
--   <https://www.reddit.com/r/fuckcars/comments/s01dsh/could%5Fcar%5Fdependence%5Fmake%5Fus%5Fmore%5Fanxious%5Fas%5Fa/>
+-   <https://www.reddit.com/r/fuckcars/comments/s01dsh/could_car_dependence_make_us_more_anxious_as_a/>
 
 This study researches on how road traffic noise affects depression/anxiety. They find that increasing exposure to road traffic noise may be associated with depression and anxiety.
 
@@ -173,7 +173,7 @@ This study researches on how road traffic noise affects depression/anxiety. They
 
 <https://www.nasa.gov/topics/earth/features/road-transportation.html>
 
--   <https://www.reddit.com/r/fuckcars/comments/rzirug/i%5Fcant%5Fbelieve%5Fpeople%5Fagree%5Fwith%5Fme/hrvzixm/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzirug/i_cant_believe_people_agree_with_me/hrvzixm/>
 
 From NASA's research, they found that
 
@@ -184,7 +184,7 @@ From NASA's research, they found that
 
 <https://www.youtube.com/watch?v=CTV-wwszGw8>
 
--   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i%5Flove%5Fthis%5Fsub%5Fbut%5Fit%5Fdesperately%5Fneeds%5Fa/>
+-   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i_love_this_sub_but_it_desperately_needs_a/>
 
 Cars are loud, period. In the video, he went from Amsterdam to Delft to record the sound levels and the difference is astounding. Delft made the city quiet by slowing cars down.
 
@@ -193,7 +193,7 @@ Cars are loud, period. In the video, he went from Amsterdam to Delft to record t
 
 <https://phys.org/news/2020-09-asphalt-air-pollution-hot-sunny.html>
 
--   <https://www.reddit.com/r/fuckcars/comments/rywmc5/asphalt%5Fadds%5Fto%5Fair%5Fpollution%5Fespecially%5Fon%5Fhot/>
+-   <https://www.reddit.com/r/fuckcars/comments/rywmc5/asphalt_adds_to_air_pollution_especially_on_hot/>
 
 Asphalt used in roads pollute. It'd be best if we can reduce the amount of roads so that ultimately we reduce the amount of pollution.
 
@@ -204,7 +204,7 @@ Asphalt used in roads pollute. It'd be best if we can reduce the amount of roads
 
 <https://news.yahoo.com/road-salt-works-bad-environment-161912248.html>
 
--   <https://www.reddit.com/r/fuckcars/comments/s0n6mp/as%5Fsnow%5Fand%5Fice%5Fmelt%5Fon%5Froads%5Fthe%5Fsalt%5Fwashes/>
+-   <https://www.reddit.com/r/fuckcars/comments/s0n6mp/as_snow_and_ice_melt_on_roads_the_salt_washes/>
 
 The salt used to de-ice the roads have environmental consequences. The salt used is contaminating the wells and affecting the sodium concentration thereby harming people with low-sodium and moderate-sodium diets.
 
@@ -221,6 +221,8 @@ Besides that,
 
 <https://yourutahyourfuture.org/topics/air-quality/item/44-background-air-quality-in-utah#:%7E:text=Mobile%20sources%E2%80%94cars%20and%20trucks,up%2027%25%20of%20winter%20emissions>
 
--   <https://www.reddit.com/r/fuckcars/comments/s4zgpy/welcome%5Fto%5Fsalt%5Flake%5Fcity%5Futah%5Fover%5Fhalf%5Fof%5Fthe/hsu9vou/>
+-   <https://www.reddit.com/r/fuckcars/comments/s4zgpy/welcome_to_salt_lake_city_utah_over_half_of_the/hsu9vou/>
 
 55% of the air pollution in Utah is caused by vehicles.
+
+

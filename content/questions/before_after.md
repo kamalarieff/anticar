@@ -261,3 +261,49 @@ This is an image gallery of good bike infrastructure, pedestrian walkpaths and p
 <https://www.reddit.com/r/fuckcars/comments/st4hkt/k%C3%B6nigstra%C3%9Fe_stuttgart_germany_in_the_1970s_and_now/>
 
 {{< figure src="/ox-hugo/2022-02-16_03:06 stuttgart before after.png" >}}
+
+
+### Amazing initiative reduces traffic in my neighborhood by 70+%. So much more quality of living and number of bikes increased a lot. Much more details in comment. (Pics taken from newspapers. The before/after pic is not taken in the same spot. But I can assure, that's pretty much the reality. : fuckcars {#amazing-initiative-reduces-traffic-in-my-neighborhood-by-70-plus-dot-so-much-more-quality-of-living-and-number-of-bikes-increased-a-lot-dot-much-more-details-in-comment-dot-pics-taken-from-newspapers-dot-the-before-after-pic-is-not-taken-in-the-same-spot-dot-but-i-can-assure-that-s-pretty-much-the-reality-dot-fuckcars}
+
+<https://reddit.com/r/fuckcars/comments/suwe9o/amazing_initiative_reduces_traffic_in_my/hxce1vj/>
+
+A success story from the a subdistrict in Berlin. There is a short summary from one of the residents. People were really happy about it.
+
+
+### Germany's City of the Future Built to be Green - YouTube - ABC News {#germany-s-city-of-the-future-built-to-be-green-youtube-abc-news}
+
+<https://www.youtube.com/watch?v=6XeMHuO_6-0>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sxtfil/travel_time_consistency_rural_farmer_urban/hxvr0jc/>
+
+The citizens say that it is very quiet. They're able to walk everywhere
+
+
+### Ljubljana Is A Car-Free Haven With 300,000 Residents - Is Malta Up Next? {#ljubljana-is-a-car-free-haven-with-300-000-residents-is-malta-up-next}
+
+<https://lovinmalta.com/lifestyle/environment/ljubljana-is-a-car-free-haven-with-300000-residents-is-malta-up-next/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/syapzh/wish_it_could_be_sooner_but_thats_something_at/hxx74a9/>
+
+Ljubljana Is a city that has been car free for decades. Since the city banned cars in 2007, it became greener, cleaner, and more sustainable. And with that, Ljubljana’s 300,000 residents became both healthier and happier, as the pedestrianisation process received a 95% approval rating.
+
+
+### <span class="org-todo todo DRAFT">DRAFT</span> Vision Zero! Norwegian Capital Completely Quashes Road Deaths – Streetsblog USA {#vision-zero-norwegian-capital-completely-quashes-road-deaths-streetsblog-usa}
+
+<https://usa.streetsblog.org/2020/01/03/vision-zero-norwegian-capital-completely-quashes-road-deaths/>
+
+-   <https://reddit.com/r/fuckcars/comments/syqgbn/but_we_have_a_vision_zero_program/hxz4k08/>
+
+
+### Getting rid of cars and improving livability in Oradea, Romania : fuckcars {#getting-rid-of-cars-and-improving-livability-in-oradea-romania-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/syn0xc/getting_rid_of_cars_and_improving_livability_in/>
+
+Before and after pictures in Oradea, Romania.
+
+
+### This does put a smile on my face : fuckcars {#this-does-put-a-smile-on-my-face-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/szb59r/this_does_put_a_smile_on_my_face/>
+
+A before and after picture in Fuller St, Miami.

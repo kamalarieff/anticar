@@ -29,9 +29,9 @@ At 4:09, the city wasn't always like that. They were car cultured 40 years ago.
 
 <https://bicycledutch.wordpress.com/2020/09/16/utrecht-corrects-a-historic-urban-design-mistake/>
 
--   [Utrecht - 2005 | 2021 : fuckcars](https://www.reddit.com/r/fuckcars/comments/rr5qlt/utrecht%5F2005%5F2021/)
--   [The mistake is not irreversible. Utrecht, 2005 and 2021 (: : fuckcars](https://www.reddit.com/r/fuckcars/comments/rnsmn6/the%5Fmistake%5Fis%5Fnot%5Firreversible%5Futrecht%5F2005%5Fand/)
--   [In Utrecht, Netherland, moat was converted to motorway, now back to moat again. : fuckcars](https://www.reddit.com/r/fuckcars/comments/rqcpal/in%5Futrecht%5Fnetherland%5Fmoat%5Fwas%5Fconverted%5Fto/)
+-   [Utrecht - 2005 | 2021 : fuckcars](https://www.reddit.com/r/fuckcars/comments/rr5qlt/utrecht_2005_2021/)
+-   [The mistake is not irreversible. Utrecht, 2005 and 2021 (: : fuckcars](https://www.reddit.com/r/fuckcars/comments/rnsmn6/the_mistake_is_not_irreversible_utrecht_2005_and/)
+-   [In Utrecht, Netherland, moat was converted to motorway, now back to moat again. : fuckcars](https://www.reddit.com/r/fuckcars/comments/rqcpal/in_utrecht_netherland_moat_was_converted_to/)
 
 There are additional pictures in the reddit thread from Twitter and the post itself.
 
@@ -43,6 +43,6 @@ In the second referrer link, it is a post of a picture of a highway and roads tu
 <https://exploring-and-observing-cities.org/2016/01/11/amsterdam-historic-images-depicting-the-transition-from-cars-to-bikes/>
 
 -   <https://www.reddit.com/r/vancouver/comments/s2otsu/gastown/hsgf7l3/>
--   <https://www.reddit.com/r/fuckcars/comments/s2u37a/lets%5Fgo%5Fpeople%5Fin%5Frvancouver%5Fsupport%5Fbanning%5Fcars/>
+-   <https://www.reddit.com/r/fuckcars/comments/s2u37a/lets_go_people_in_rvancouver_support_banning_cars/>
 
 10 to 15 years ago, Amsterdam was still car-centric. It's never too late to change.

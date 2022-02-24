@@ -15,7 +15,7 @@ A lot of mayors all over the world has been reelected by campaigning for better 
 
 <https://www.theguardian.com/environment/bike-blog/2021/oct/29/the-bikelash-paradox-how-cycle-lanes-enrage-some-but-win-votes>
 
-<https://www.reddit.com/r/fuckcars/comments/raf5s2/the%5Fbikelash%5Fparadox%5Fhow%5Fcycle%5Flanes%5Fenrage%5Fsome/>
+<https://www.reddit.com/r/fuckcars/comments/raf5s2/the_bikelash_paradox_how_cycle_lanes_enrage_some/>
 
 This is an article about politicians getting reelected even being probike. There are some opposition but those don't translate to votes.
 
@@ -29,7 +29,7 @@ Here are the politicians and what they did:
         <https://www.france24.com/en/20200916-paris-to-keep-new-cycling-paths-beyond-pandemic>
 
         -   <https://www.newstatesman.com/politics/transport-politics/2021/12/cycle-lanes-dont-cause-congestion-but-theres-money-to-be-made-in-pretending-they-do>
-        -   <https://www.reddit.com/r/fuckcars/comments/rbo9e6/cycle%5Flanes%5Fdont%5Fcause%5Fcongestion%5Fbut%5Ftheres/>
+        -   <https://www.reddit.com/r/fuckcars/comments/rbo9e6/cycle_lanes_dont_cause_congestion_but_theres/>
     -   How to (Quickly) Build a Cycling City - Paris - YouTube - Not Just Bikes
 
         <https://www.youtube.com/watch?v=sI-1YNAmWlk>
@@ -44,6 +44,6 @@ Here are the politicians and what they did:
 
 ### The Innovative Way Ghent, Belgium Removed Cars From The City - YouTube - Streetfilms {#the-innovative-way-ghent-belgium-removed-cars-from-the-city-youtube-streetfilms}
 
-<https://www.youtube.com/watch?v=sEOA%5FTcq2XA>
+<https://www.youtube.com/watch?v=sEOA_Tcq2XA>
 
 At 8:23, there was push back for the circulation at first. But when it died down, the plan worked tremendously.

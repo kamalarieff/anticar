@@ -13,9 +13,9 @@ People are happier, people are healthier. You get to save money. Stuff are more 
 
 ### Individual and social costs of car travel more than six times those of cycling {#individual-and-social-costs-of-car-travel-more-than-six-times-those-of-cycling}
 
-<https://ec.europa.eu/environment/integration/research/newsalert/pdf/transport%5Ftransitions%5Fin%5Fcopenhagen%5F418na1%5Fen.pdf>
+<https://ec.europa.eu/environment/integration/research/newsalert/pdf/transport_transitions_in_copenhagen_418na1_en.pdf>
 
-<https://www.reddit.com/r/fuckcars/comments/rmoq84/societal%5Fcost%5Fof%5Fdriving%5Fvs%5Fcycling/>
+<https://www.reddit.com/r/fuckcars/comments/rmoq84/societal_cost_of_driving_vs_cycling/>
 
 Here is a study from Copenhagen by the Danish Ministry of Transport. The gist of the article is that we shouldn't think about the cost of a bike infrastructure but rather comparing them with a car infrastructure.
 
@@ -28,7 +28,7 @@ The cost of cars comes from air pollution, climate change, noise, congestion, ro
 
 <https://www.duh.de/presse/pressemitteilungen/pressemitteilung/sensationserfolg-pop-up-radweg-kantstrasse-in-berlin-untersuchung-der-deutschen-umwelthilfe-belegt-v/>
 
-<https://www.reddit.com/r/fuckcars/comments/ra8i0j/sensational%5Fsuccess%5Fof%5Fthe%5Fkantstrasse%5Fpopup/>
+<https://www.reddit.com/r/fuckcars/comments/ra8i0j/sensational_success_of_the_kantstrasse_popup/>
 
 This article is in German. But it is about how air quality has improved and vehicle traffic has dropped.
 
@@ -46,7 +46,7 @@ At 12:28, children are free to go anywhere they like.
 
 ### Groningen: The World's Cycling City - YouTube - Streetfilms {#groningen-the-world-s-cycling-city-youtube-streetfilms}
 
-<https://www.youtube.com/watch?v=fv38J7SKH%5Fg>
+<https://www.youtube.com/watch?v=fv38J7SKH_g>
 
 At 4:20, bicycles are cheaper form of transportation.
 
@@ -57,7 +57,7 @@ At 11:08, it is very quiet.
 
 ### Arriving at school on a bicycle (Netherlands) [298] - YouTube - BicycleDutch {#arriving-at-school-on-a-bicycle--netherlands--298-youtube-bicycledutch}
 
-<https://www.youtube.com/watch?v=8NUgB%5FxkIvU>
+<https://www.youtube.com/watch?v=8NUgB_xkIvU>
 
 Here is a video where kids go to school unsupervised and there is plenty of space for everyone to park their bikes.
 
@@ -71,9 +71,9 @@ A video of kids cycling to school without needing any cars to send them. No traf
 
 ### A normal morning commute in Perth : perth {#a-normal-morning-commute-in-perth-perth}
 
-<https://www.reddit.com/r/perth/comments/rcch74/a%5Fnormal%5Fmorning%5Fcommute%5Fin%5Fperth/>
+<https://www.reddit.com/r/perth/comments/rcch74/a_normal_morning_commute_in_perth/>
 
-<https://www.reddit.com/r/fuckcars/comments/rcg7ac/billiondollar%5Ffreeway%5Fvs%5Ftwolane%5Fbike%5Flane/>
+<https://www.reddit.com/r/fuckcars/comments/rcg7ac/billiondollar_freeway_vs_twolane_bike_lane/>
 
 Here is a video of a couple of people riding on a bike path while cars are stuck in traffic. (Not sure where I want to put this yet)
 
@@ -83,7 +83,7 @@ Here is a video of a couple of people riding on a bike path while cars are stuck
 <https://findingspress.org/article/25633-impacts-of-2020-low-traffic-neighbourhoods-in-london-on-road-traffic-injuries>
 
 -   <https://www.ft.com/content/56929d0a-2375-40a1-872c-b7fb94d9003f>
--   <https://www.reddit.com/r/AbolishCars/comments/rdwlad/car%5Fusers%5Fdont%5Fhave%5Fan%5Finalienable%5Fright%5Fto/>
+-   <https://www.reddit.com/r/AbolishCars/comments/rdwlad/car_users_dont_have_an_inalienable_right_to/>
 
 70% reduction in injury numbers.
 
@@ -94,7 +94,7 @@ Here is a video of a couple of people riding on a bike path while cars are stuck
 
 <https://www.bmj.com/content/bmj/357/bmj.j1456.full.pdf>
 
-[Why Mandating Bicycle Helmets is a Bad Idea - YouTube - tehsiewdai](https://www.youtube.com/watch?v=c%5FS-e9F-U94)
+[Why Mandating Bicycle Helmets is a Bad Idea - YouTube - tehsiewdai](https://www.youtube.com/watch?v=c_S-e9F-U94)
 
 From the conclusion in the paper,
 
@@ -132,7 +132,7 @@ At 3:31, kids are able to be more independent.
 
 <https://www.psychologytoday.com/us/blog/minding-the-body/201505/bicycling-can-sharpen-your-thinking-and-improve-your-mood>
 
--   <https://www.reddit.com/r/fuckcars/comments/s01dsh/could%5Fcar%5Fdependence%5Fmake%5Fus%5Fmore%5Fanxious%5Fas%5Fa/>
+-   <https://www.reddit.com/r/fuckcars/comments/s01dsh/could_car_dependence_make_us_more_anxious_as_a/>
 
 -   Lowering blood pressure, improving cholesterol levels, managing their weight and reducing their risk of developing heart disease and type 2 diabetes.
 -   Brain scans showed that practicing pedaling on a regular basis increased the integrity of white matter fiber tracts in both healthy and schizophrenic brains.
@@ -143,7 +143,7 @@ At 3:31, kids are able to be more independent.
 
 <https://www.smartcitiesdive.com/news/property-values-thrive-near-transit-study-finds/564982/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s62mkm/bussing%5Fis%5Fslower%5Fbut%5Fmuch%5Fcheaper%5Fprices%5Ftaken/ht1p45x/>
+-   <https://www.reddit.com/r/fuckcars/comments/s62mkm/bussing_is_slower_but_much_cheaper_prices_taken/ht1p45x/>
 
 10 years ago, places that are near to amenities were the ones that drive up property value. But now, it's places that are near transit.
 
@@ -152,7 +152,7 @@ At 3:31, kids are able to be more independent.
 
 <https://www.apta.com/news-publications/public-transportation-facts/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s8hkkv/what%5Fcould%5Fpossibly%5Fbe%5Fworse%5Fthan%5Fusing%5Fpublic/htjk6jr/>
+-   <https://www.reddit.com/r/fuckcars/comments/s8hkkv/what_could_possibly_be_worse_than_using_public/htjk6jr/>
 
 Lots of good facts in here that advocates for public transportation. Interesting stuff like:
 

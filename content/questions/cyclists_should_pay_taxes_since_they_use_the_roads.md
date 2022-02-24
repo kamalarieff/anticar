@@ -15,8 +15,8 @@ This is a myth. The damage done by cyclists are so little compared to cars.
 
 <https://streets.mn/2016/07/07/chart-of-the-day-vehicle-weight-vs-road-damage-levels/#:%7E:text=A%20bicyclist%20would%20have%20to,tenth%20of%20a%20ha'penny>
 
--   <https://www.reddit.com/r/BicyclingCirclejerk/comments/ry3kwq/the%5Fenviromental%5Ffriendly%5Ffredster/>
--   <https://www.reddit.com/r/fuckcars/comments/ry8vvf/the%5Fenviromental%5Ffriendly%5Ffredster/>
+-   <https://www.reddit.com/r/BicyclingCirclejerk/comments/ry3kwq/the_enviromental_friendly_fredster/>
+-   <https://www.reddit.com/r/fuckcars/comments/ry8vvf/the_enviromental_friendly_fredster/>
 
 The article itself is very short so there's not much to quote from. There is a chart in this article where it showed how much damage a bicycle does.
 

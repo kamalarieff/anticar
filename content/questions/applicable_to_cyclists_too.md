@@ -24,8 +24,8 @@ In fact, cyclists break laws less than drivers when given a cycle lane.
 
 <https://vancouver.citynews.ca/2017/01/10/safer-cyclists-yield-not-stop-intersections-research/>
 
--   <https://www.reddit.com/r/nova/comments/s1a1ny/thoughts%5Fshould%5Fmore%5Fpeople%5Fon%5Fbikes%5Ffollow%5Fthe/hs8mczg/>
--   <https://www.reddit.com/r/fuckcars/comments/s1elil/car%5Fbrains%5Fwant%5Fto%5Ffine%5Fyou%5Fand%5Ftake%5Fyour%5Fbike%5Fas/>
+-   <https://www.reddit.com/r/nova/comments/s1a1ny/thoughts_should_more_people_on_bikes_follow_the/hs8mczg/>
+-   <https://www.reddit.com/r/fuckcars/comments/s1elil/car_brains_want_to_fine_you_and_take_your_bike_as/>
 
 It's safer for cyclists to yield at intersections due to the stop as yield law.
 
@@ -36,7 +36,7 @@ It's safer for cyclists to yield at intersections due to the stop as yield law.
 
 <https://www.king5.com/article/news/local/bikes-dont-have-to-stop-at-stop-signs-in-washington-anymore-starting-oct-1/281-637db1aa-8d93-439c-8e7b-934d2f5bf36b>
 
--   <https://www.reddit.com/r/fuckcars/comments/s1elil/car%5Fbrains%5Fwant%5Fto%5Ffine%5Fyou%5Fand%5Ftake%5Fyour%5Fbike%5Fas/hs8hu2s/>
+-   <https://www.reddit.com/r/fuckcars/comments/s1elil/car_brains_want_to_fine_you_and_take_your_bike_as/hs8hu2s/>
 
 > The “Safety Stop” law will make it legal for bikers to roll through an intersection if the coast is clear
 
@@ -54,8 +54,8 @@ The rationale behind this are:
 
 ### Idaho Stop for Cyclists? Drivers Already Do It! - YouTube - Oh The Urbanity! {#idaho-stop-for-cyclists-drivers-already-do-it-youtube-oh-the-urbanity}
 
-<https://youtu.be/HT%5FKdFCVEdc>
+<https://youtu.be/HT_KdFCVEdc>
 
--   <https://www.reddit.com/r/nova/comments/s1a1ny/thoughts%5Fshould%5Fmore%5Fpeople%5Fon%5Fbikes%5Ffollow%5Fthe/hs7uv97/>
+-   <https://www.reddit.com/r/nova/comments/s1a1ny/thoughts_should_more_people_on_bikes_follow_the/hs7uv97/>
 
 Here's a video format of the Idaho Law where cyclists don't have to stop at intersections. They have less mass, less acceleration and their vehicles don't obstruct their view.

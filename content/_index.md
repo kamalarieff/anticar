@@ -38,7 +38,7 @@ Cars should be optional, not necessary.
 
     > Road travel accounts for three-quarters of transport emissions. Most of this comes from passenger vehicles – cars and buses.
 
-    Tire wear contributes to the microplastics in the environment. From this [research](https://www.researchgate.net/publication/326063101%5FTire%5FAbrasion%5Fas%5Fa%5FMajor%5FSource%5Fof%5FMicroplastics%5Fin%5Fthe%5FEnvironment) and [article](https://www.bbc.com/news/science-environment-39042655),
+    Tire wear contributes to the microplastics in the environment. From this [research](https://www.researchgate.net/publication/326063101_Tire_Abrasion_as_a_Major_Source_of_Microplastics_in_the_Environment) and [article](https://www.bbc.com/news/science-environment-39042655),
 
     > 30 vol% of the microplastic particles that pollute rivers, lakes and oceans consist of tire wear, thus affecting aquatic wildlife.
 
@@ -48,7 +48,7 @@ Cars should be optional, not necessary.
 
 -  Car infrastructure is expensive to maintain
 
-    From this [paper](https://www.researchgate.net/publication/330184791%5FThe%5FSocial%5FCost%5Fof%5FAutomobility%5FCycling%5Fand%5FWalking%5Fin%5Fthe%5FEuropean%5FUnion), it said
+    From this [paper](https://www.researchgate.net/publication/330184791_The_Social_Cost_of_Automobility_Cycling_and_Walking_in_the_European_Union), it said
 
     > Extrapolated to the total number of passenger kilometers driven, cycled or walked in the European Union, the cost of automobility is about €500 billion per year. Due to positive health effects, cycling is an external benefit worth €24 billion/year and walking €66 billion/year.
 
@@ -89,7 +89,7 @@ Cars should be optional, not necessary.
 
 -  Cars are dangerous
 
-    Human beings make mistakes. But when they make mistakes behind the wheel, people's lives are lost. The recent [accident](https://www.thestar.com.my/news/nation/2021/12/18/midnight-tragedy-eight-children-and-two-adults-killed-in-pile-up-on-elite-highway) that killed 8 children on the ELITE highway proved that. In fact, The [Department of Statistics](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=401&bul%5Fid=R3VrRUhwSXZDN2k4SGN6akRhTStwQT09&menu%5Fid=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09#:~:text=causes%20of%20death-,Ischaemic%20heart%20diseases%20remained%20as%20the%20principal%20causes%20of%20death,bronchus%20and%20lung%20(2.5%25).) reported that 3165 people died last year from traffic accidents alone.
+    Human beings make mistakes. But when they make mistakes behind the wheel, people's lives are lost. The recent [accident](https://www.thestar.com.my/news/nation/2021/12/18/midnight-tragedy-eight-children-and-two-adults-killed-in-pile-up-on-elite-highway) that killed 8 children on the ELITE highway proved that. In fact, The [Department of Statistics](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=401&bul_id=R3VrRUhwSXZDN2k4SGN6akRhTStwQT09&menu_id=L0pheU43NWJwRWVSZklWdzQ4TlhUUT09#:~:text=causes%20of%20death-,Ischaemic%20heart%20diseases%20remained%20as%20the%20principal%20causes%20of%20death,bronchus%20and%20lung%20(2.5%25).) reported that 3165 people died last year from traffic accidents alone.
 
     This does not include the amount of people injured by vehicles.
 
@@ -100,11 +100,11 @@ We should provide better alternatives to cars. This means that we need to improv
 
 Take away car lanes to build better sidewalks, better bike paths and better bus lanes.
 
-This [research](https://www.researchgate.net/publication/330184791%5FThe%5FSocial%5FCost%5Fof%5FAutomobility%5FCycling%5Fand%5FWalking%5Fin%5Fthe%5FEuropean%5FUnion) said,
+This [research](https://www.researchgate.net/publication/330184791_The_Social_Cost_of_Automobility_Cycling_and_Walking_in_the_European_Union) said,
 
 > Society loses 79 cents per kilometer driven. Society gains 72 cents per kilometer cycled. This is because cycling reduces healthcare costs and sick leave.
 
-Another [research](https://ec.europa.eu/environment/integration/research/newsalert/pdf/transport%5Ftransitions%5Fin%5Fcopenhagen%5F418na1%5Fen.pdf) suggested
+Another [research](https://ec.europa.eu/environment/integration/research/newsalert/pdf/transport_transitions_in_copenhagen_418na1_en.pdf) suggested
 
 > Individual and social costs of car travel more than six times those of cycling
 

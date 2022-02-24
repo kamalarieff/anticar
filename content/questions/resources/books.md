@@ -5,11 +5,11 @@ draft = false
 weight = 2041
 +++
 
--   <https://www.reddit.com/r/fuckcars/comments/r17sup/anyone%5Felse%5Fwish%5Fthey%5Ftook%5Fthe%5Fblue%5Fpill/hlzzmvm/>
--   <https://www.reddit.com/r/fuckcars/comments/riw08w/wow%5F50000%5Fusers%5Fwelcome%5Feveryone%5Fread%5Fup/>
--   <https://www.reddit.com/r/fuckcars/comments/rj813o/happy%5F50k%5Fheres%5Fmy%5Fbook%5Fcollection%5Fso%5Ffar/>
--   <https://www.reddit.com/r/fuckcars/comments/rm7egk/the%5Fbook%5Fthat%5Ftaught%5Fme%5Fto%5Fsee%5Fwhat%5Fcars%5Fcost%5Fus/>
--   <https://www.reddit.com/r/fuckcars/comments/s6n740/fuck%5Fcars%5Fread%5Fbooks/>
+-   <https://www.reddit.com/r/fuckcars/comments/r17sup/anyone_else_wish_they_took_the_blue_pill/hlzzmvm/>
+-   <https://www.reddit.com/r/fuckcars/comments/riw08w/wow_50000_users_welcome_everyone_read_up/>
+-   <https://www.reddit.com/r/fuckcars/comments/rj813o/happy_50k_heres_my_book_collection_so_far/>
+-   <https://www.reddit.com/r/fuckcars/comments/rm7egk/the_book_that_taught_me_to_see_what_cars_cost_us/>
+-   <https://www.reddit.com/r/fuckcars/comments/s6n740/fuck_cars_read_books/>
 
 | Author                                            | Title                                                                                                                                           |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|

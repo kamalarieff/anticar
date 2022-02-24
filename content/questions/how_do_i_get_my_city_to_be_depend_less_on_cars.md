@@ -13,8 +13,8 @@ Cycle infrastructure design (LTN 1/20) - GOV.UK
 
 <https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120>
 
--   <https://www.reddit.com/r/fuckcars/comments/rbfkwt/across%5Fthe%5Fpond%5Fa%5Ffew%5Fthings%5Fthe%5Fuk%5Fis%5Fdoing/>
--   <https://www.reddit.com/r/fuckcars/comments/s8r0cb/recent%5Frule%5Fchange%5Ffor%5Fall%5Fnew%5Fcycle/>
+-   <https://www.reddit.com/r/fuckcars/comments/rbfkwt/across_the_pond_a_few_things_the_uk_is_doing/>
+-   <https://www.reddit.com/r/fuckcars/comments/s8r0cb/recent_rule_change_for_all_new_cycle/>
 
 Urban Street Design Guide | National Association of City Transportation Officials
 
@@ -24,9 +24,9 @@ I got this from a video but can't remember which video. Could be useful as well.
 
 I haven't read this yet.
 
-Apply [Market urbanism](https://en.wikipedia.org/wiki/Market%5Furbanism) [[referrer]​](https://www.reddit.com/r/fuckcars/comments/rimad7/why%5Fare%5Fjapanese%5Frailway%5Fcompanies%5Fincredibly/) where you implement congestion pricing like Singapore. One good city that has done this is Japan. Japan's railway companies are making a profit. Here is a good text on why they are profitable [reddit.com/r/neoliberal - why\_are\_japanese\_railway\_companies\_incredibly](https://np.reddit.com/r/neoliberal/comments/pzvayh/why%5Fare%5Fjapanese%5Frailway%5Fcompanies%5Fincredibly/)
+Apply [Market urbanism](https://en.wikipedia.org/wiki/Market_urbanism) [[referrer]​](https://www.reddit.com/r/fuckcars/comments/rimad7/why_are_japanese_railway_companies_incredibly/) where you implement congestion pricing like Singapore. One good city that has done this is Japan. Japan's railway companies are making a profit. Here is a good text on why they are profitable [reddit.com/r/neoliberal - why_are_japanese_railway_companies_incredibly](https://np.reddit.com/r/neoliberal/comments/pzvayh/why_are_japanese_railway_companies_incredibly/)
 
-Some good ideas in here [What can we do? : fuckcars](https://www.reddit.com/r/fuckcars/comments/rmdlcn/what%5Fcan%5Fwe%5Fdo/hplpr29/) like:
+Some good ideas in here [What can we do? : fuckcars](https://www.reddit.com/r/fuckcars/comments/rmdlcn/what_can_we_do/hplpr29/) like:
 
 -   Some people have started community cargo bike scheme which is an amazing idea [Community E-Cargo Bike Hire Scheme - a Community crowdfunding project in Portsmouth by Nicholas Sebley](https://www.crowdfunder.co.uk/p/community-e-cargo-bike-hire-scheme)
 -   I have seen a few countries where a few parents form walking or cycling buses for school children so they all move safely in one large block.
@@ -41,13 +41,13 @@ Implement modal filters like this Photo of the Day: Modal Filters – Cycling in
 
 <http://cyclingchristchurch.co.nz/2021/12/27/photo-of-the-day-modal-filters/>
 
-<https://www.reddit.com/r/fuckcars/comments/rqsu1r/maybe%5Fwe%5Fcould%5Flike%5Ffix%5Fit/hqensxx/>
+<https://www.reddit.com/r/fuckcars/comments/rqsu1r/maybe_we_could_like_fix_it/hqensxx/>
 
 How to Fix Traffic Forever - YouTube - Wendover Productions
 
-<https://www.youtube.com/watch?v=N4PW66%5Fg6XA>
+<https://www.youtube.com/watch?v=N4PW66_g6XA>
 
-<https://www.reddit.com/r/fuckcars/comments/rqecnu/gotta%5Flove%5Fhow%5Fpublic%5Ftransit%5Fwasnt%5Feven/>
+<https://www.reddit.com/r/fuckcars/comments/rqecnu/gotta_love_how_public_transit_wasnt_even/>
 
 This video starts off with induced demand. But his main two solutions are to use roundabouts and diverging diamonds. It means that his solutions are still car centric. Not really liking them.
 
@@ -57,7 +57,7 @@ We’re using our streets all wrong | Hard Reset by Freethink - YouTube - Freeth
 
 <https://youtu.be/hK7agOPye6M>
 
--   <https://www.reddit.com/r/fuckcars/comments/s7sw2n/were%5Fusing%5Four%5Fstreets%5Fall%5Fwrong%5Fhow%5Fwe%5Fgave%5Faway/>
+-   <https://www.reddit.com/r/fuckcars/comments/s7sw2n/were_using_our_streets_all_wrong_how_we_gave_away/>
 
 When they wanted to make Times Square more pedestrian friendly, they implemented temporary solutions e.g. paint, chairs, tables. Things that can be removed in 48 hours or less. They wanted to find out if that is what the people wanted. Turns out, they do. This led to user-generated urbanism where you listen to the people of the city what kind of city they want to live in.
 
@@ -69,7 +69,7 @@ When they wanted to make Times Square more pedestrian friendly, they implemented
 
 <https://chi.streetsblog.org/2021/12/21/after-lobbying-from-advocates-cdot-commits-to-better-protection-for-clark-bike-lanes/>
 
-<https://www.reddit.com/r/fuckcars/comments/rnp7zm/an%5Fidiot%5Fparking%5Fjob%5Fchicago/>
+<https://www.reddit.com/r/fuckcars/comments/rnp7zm/an_idiot_parking_job_chicago/>
 
 There is a lot of good suggestions in here when it comes to install proper bicycle infrastructure. There is also mention of this technology called [Qwick Kurb](http://www.qwickkurb.com/) where you can install temporary curbs. Not sure about the cost though.
 
@@ -78,7 +78,7 @@ There is a lot of good suggestions in here when it comes to install proper bicyc
 
 <https://www.pedestrians-int.org/en/members-2>
 
-<https://www.reddit.com/r/fuckcars/comments/ro43de/you%5Fcould%5Fhelp%5Ffuck%5Fcars%5Fin%5Fyour%5Fcommunity%5Fby/>
+<https://www.reddit.com/r/fuckcars/comments/ro43de/you_could_help_fuck_cars_in_your_community_by/>
 
 Listing directory to cities that have organizations that advocates for more walkable places.
 
@@ -87,7 +87,7 @@ Listing directory to cities that have organizations that advocates for more walk
 
 <https://www.youtube.com/watch?v=Okb63flApDY>
 
-<https://www.reddit.com/r/fuckcars/comments/rtaccr/you%5Fdont%5Fnecessarily%5Fneed%5Fonroad%5Fcycleways%5Fin/>
+<https://www.reddit.com/r/fuckcars/comments/rtaccr/you_dont_necessarily_need_onroad_cycleways_in/>
 
 How bollards help filter traffic. Only certain cars can pass through the bollards like buses and delivery vehicles. Cars can also pass through but you need a special pass. When you don't have a special pass, each car has to wait 45 seconds before it can go through. This would deter cars who want to take a shortcut.
 
@@ -98,17 +98,17 @@ Cars only have a single lane both ways so that it makes it more unattractive for
 
 <https://www.youtube.com/watch?v=YY6PQAI4TZE&t=124s>
 
-<https://www.reddit.com/r/fuckcars/comments/rrwyts/for%5Fthose%5Fwho%5Fsay%5Fi%5Fwant%5Fto%5Fmove%5Fto%5Fnetherlands/>
+<https://www.reddit.com/r/fuckcars/comments/rrwyts/for_those_who_say_i_want_to_move_to_netherlands/>
 
 Kids being politically engaged. They want the safer streets to play. At 4:17, you can see there are still protesters. Very similar to the one that happened in the UK <https://www.express.co.uk/news/uk/1508714/insulate-britain-protestors-video-range-rover-mother-m25-purfleet-essex>.
 
 
 ### Why Traffic Is So Bad In Los Angeles - YouTube {#why-traffic-is-so-bad-in-los-angeles-youtube}
 
-<https://www.youtube.com/watch?v=S76lKWeU%5Fxc>
+<https://www.youtube.com/watch?v=S76lKWeU_xc>
 
--   <https://www.reddit.com/r/fuckcars/comments/rtokuj/why%5Ftraffic%5Fis%5Fso%5Fbad%5Fin%5Flos%5Fangeles/>
--   <https://www.reddit.com/r/fuckcars/comments/ru37p8/ehhh%5Fjust%5Fwatched%5Fthis%5Fvideo%5Fwhat%5Fdo%5Fyou%5Fguys/>
+-   <https://www.reddit.com/r/fuckcars/comments/rtokuj/why_traffic_is_so_bad_in_los_angeles/>
+-   <https://www.reddit.com/r/fuckcars/comments/ru37p8/ehhh_just_watched_this_video_what_do_you_guys/>
 
 He talked about congestion pricing where you have to pay a certain amount when you want to enter part of a city. You can see it at 10:35.
 
@@ -117,7 +117,7 @@ He talked about congestion pricing where you have to pay a certain amount when y
 
 <https://nacto.org/publication/urban-bikeway-design-guide/cycle-tracks/one-way-protected-cycle-tracks/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s1kp6y/moving%5Fcars%5Fis%5Fmore%5Fimportant%5Fthan%5Fhuman%5Flife%5Fand/hsacgp4/>
+-   <https://www.reddit.com/r/fuckcars/comments/s1kp6y/moving_cars_is_more_important_than_human_life_and/hsacgp4/>
 
 NACTO's guide on how to make protected bike lanes. You can use this to recommend to your local council.
 
@@ -126,7 +126,7 @@ NACTO's guide on how to make protected bike lanes. You can use this to recommend
 
 <https://www.bloomberg.com/news/articles/2021-07-14/what-s-wrong-with-free-parking-at-work>
 
--   <https://www.reddit.com/r/fuckcars/comments/s1zdsy/cool%5Fconcept%5Fget%5Fpaid%5Ffor%5Fnot%5Fparking%5Fyour%5Fcar%5Fat/>
+-   <https://www.reddit.com/r/fuckcars/comments/s1zdsy/cool_concept_get_paid_for_not_parking_your_car_at/>
 
 You can ask your employers to offer "parking cash out". It's a scheme where people who don't drive to work gets some sort of cash incentive of similar value to those who gets free parking.
 

@@ -9,7 +9,7 @@ weight = 2010
 
 <https://www.strongtowns.org/journal/2021/9/27/the-hidden-inequity-of-car-based-design>
 
-<https://www.reddit.com/r/fuckcars/comments/rohcyo/cardependent%5Fareas%5Fare%5Fhorrible%5Fenvironments%5Ffor/hpzqvqg/>
+<https://www.reddit.com/r/fuckcars/comments/rohcyo/cardependent_areas_are_horrible_environments_for/hpzqvqg/>
 
 4 groups of people are affected by car-based design:
 
@@ -23,7 +23,7 @@ weight = 2010
 
 <https://www.theguardian.com/weather/2022/jan/20/toronto-struggles-blizzard-dependence-cars>
 
--   <https://www.reddit.com/r/fuckcars/comments/sbtlqd/its%5Fborderline%5Funethical%5Fto%5Fbuild%5Fa%5Fstadium%5Flike/hu218ex/>
+-   <https://www.reddit.com/r/fuckcars/comments/sbtlqd/its_borderline_unethical_to_build_a_stadium_like/hu218ex/>
 
 Once the infrastructure for cars gets bad enough, they're entirely useless. This is what happened in Toronto. Cars getting stuck in snow making the owners abandon them. It would also take a long time to clear these roads.
 

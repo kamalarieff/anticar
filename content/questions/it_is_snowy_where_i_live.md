@@ -17,9 +17,9 @@ At 0:23 and 4:39, as long as the infrastructure is provided and the paths are cl
 
 ### Bicycles in the Snow ? IMPOSSIBLE 😡 - YouTube - War On Cars {#bicycles-in-the-snow-impossible-youtube-war-on-cars}
 
-<https://youtu.be/pa%5Fvgi6REkg>
+<https://youtu.be/pa_vgi6REkg>
 
-<https://www.reddit.com/r/fuckcars/comments/rjgc66/bicycles%5Fin%5Fthe%5Fsnow%5Fimpossible/>
+<https://www.reddit.com/r/fuckcars/comments/rjgc66/bicycles_in_the_snow_impossible/>
 
 People can ride in the snow fine.
 
@@ -28,7 +28,7 @@ People can ride in the snow fine.
 
 <https://youtu.be/Uhx-26GfCBU>
 
--   <https://www.reddit.com/r/fuckcars/comments/ryi2kb/i%5Fneed%5Fmy%5Ftruck%5Fbecause%5Fit%5Fsnows%5Fsometimes1/>
+-   <https://www.reddit.com/r/fuckcars/comments/ryi2kb/i_need_my_truck_because_it_snows_sometimes1/>
 
 He compared two different cities in Finland where one city has good bike infrastructure but the other doesn't. It's all basically in the bike infrastructure.
 
@@ -37,13 +37,57 @@ He compared two different cities in Finland where one city has good bike infrast
 
 <https://www.youtube.com/watch?v=1NLvP2YsVmY>
 
--   <https://www.reddit.com/r/fuckcars/comments/s5nmv7/just%5Fa%5Freminder%5Fabout%5Fsnow%5Fand%5Fbicycles/>
+-   <https://www.reddit.com/r/fuckcars/comments/s5nmv7/just_a_reminder_about_snow_and_bicycles/>
 
 Video showed you can ride in plowed bike paths and snowed bike paths.
 
 
 ### "You guys are delusional if you think people would get their kids to school without a car when it is snowing" Meanwhile in Northern Europe: : fuckcars {#you-guys-are-delusional-if-you-think-people-would-get-their-kids-to-school-without-a-car-when-it-is-snowing-meanwhile-in-northern-europe-fuckcars}
 
-<https://www.reddit.com/r/fuckcars/comments/sbo9gr/you%5Fguys%5Fare%5Fdelusional%5Fif%5Fyou%5Fthink%5Fpeople%5Fwould/>
+<https://www.reddit.com/r/fuckcars/comments/sbo9gr/you_guys_are_delusional_if_you_think_people_would/>
 
 A picture of kids going to school on bikes in the winter.
+
+
+### Why Cycling Critics Are Wrong About Winter - YouTube - OhTheUrbanity {#why-cycling-critics-are-wrong-about-winter-youtube-ohtheurbanity}
+
+<https://www.youtube.com/watch?v=OdtR3T2Pg4s>
+
+People are overexaggerating how much does heavy snowstorm happens every year. This video mentioned that. They also mention that people still jog during the winter so the factor of not doing it is not winter. In the case of cycling, it's because of the lack of infrastructure. At 5:16, there is a bike path free from cars that is open on the weekends. You can see people are still cycling there.
+
+
+### Why Finland leads the field when it comes to winter cycling | Cycling | The Guardian {#why-finland-leads-the-field-when-it-comes-to-winter-cycling-cycling-the-guardian}
+
+<https://www.theguardian.com/environment/bike-blog/2020/feb/08/why-finland-leads-the-field-when-it-comes-to-winter-cycling>
+
+-   <https://reddit.com/r/fuckcars/comments/sv2uk1/intersection_in_amsterdam/hxfstpz/>
+
+People in Finland have no trouble cycling in -16C weather. It's less about the individuals and more on the infrastructure. As long as the cycling paths are safe to use, people will use them.
+
+
+### Winter Cycling in Copenhagen | Momentum Mag {#winter-cycling-in-copenhagen-momentum-mag}
+
+<https://momentummag.com/winter-in-copenhagen/>
+
+-   <https://reddit.com/r/fuckcars/comments/sv2uk1/intersection_in_amsterdam/hxfstpz/>
+
+It's the same thing in Copenhagen as well. The cycling paths need to be plowed to ensure that it's safe to use.
+
+
+### The Life-Sized City Blog: Cycling in Winter in Copenhagen {#the-life-sized-city-blog-cycling-in-winter-in-copenhagen}
+
+<http://www.copenhagenize.com/2011/01/cycling-in-winter-in-copenhagen.html?m=1>
+
+-   <https://reddit.com/r/fuckcars/comments/sv2uk1/intersection_in_amsterdam/hxfstpz/>
+
+A lot of pictures here showing people cycling in the snow.
+
+
+### Bicycle Rush Hour Snow - Utrecht, Netherlands [49] - YouTube - BicycleDutch {#bicycle-rush-hour-snow-utrecht-netherlands-49-youtube-bicycledutch}
+
+<https://youtu.be/ZMv3OB6XHvQ>
+
+-   <https://www.reddit.com/r/fuckcars/comments/svefvk/bicycle_rush_hour_in_the_snow/>
+-   <https://www.reddit.com/r/fuckcars/comments/sv2uk1/intersection_in_amsterdam/hxflebc/>
+
+A video showing people cycling in the snow no problem.

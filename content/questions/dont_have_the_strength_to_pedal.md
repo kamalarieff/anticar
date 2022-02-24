@@ -9,7 +9,7 @@ There is always an option to use ebikes. This gives the benefits of a bicycle wi
 
 In the Netherlands, disabled drivers use these vehicles Canta (vehicle) - Wikipedia
 
-<https://en.wikipedia.org/wiki/Canta%5F(vehicle)>
+<https://en.wikipedia.org/wiki/Canta_(vehicle)>
 
 [Safe Cycling Showdown - Good vs. Bad City Design - Plus 1 Minus 2 - YouTube - Not Just Bikes](https://youtu.be/M8F5hXqS-Ac?t=75)
 
@@ -22,7 +22,7 @@ In the Netherlands, disabled drivers use these vehicles Canta (vehicle) - Wikipe
 <https://www.sciencedirect.com/science/article/pii/S0967070X21003401?via%3Dihub>
 
 -   <https://www.treehugger.com/politicians-planners-missing-e-bike-revolution-5211965>
--   <https://www.reddit.com/r/urbanplanning/comments/raoli0/politicians%5Fand%5Fplanners%5Fare%5Fmissing%5Fthe%5Febike/>
+-   <https://www.reddit.com/r/urbanplanning/comments/raoli0/politicians_and_planners_are_missing_the_ebike/>
 
 > e-bikes require less material and have lower manufacturing emissions than cars, for example an e-bike battery is only 1–2% of the size of an electric car battery meaning less resource use per e-bike
 

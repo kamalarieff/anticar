@@ -239,3 +239,19 @@ Nearly 80 percent of the city’s traffic injuries happen at intersections.
 -   <https://www.reddit.com/r/fuckcars/comments/sqw6u4/carfree_st_pete_a_proposed_three_mile_loop_that/hwo0hef/>
 
 St. Petersburg, Florida is proposing a plan to create a car-free straza where it will be more comfortable for people to walk, stroll, play, and create community.
+
+
+### Active Travel Fund Measures - Transport Nottingham {#active-travel-fund-measures-transport-nottingham}
+
+<https://www.transportnottingham.com/projects/emergency-active-travel-fund-covid-19-measures/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/suozxa/a_couple_of_weeks_ago_we_installed_these_planters/hxb613r/>
+
+The people of Nottingham, UK have been responded positively to the proposal to make permanent the trial closure to through traffic.
+
+
+### Baden-Württemberg, Germany is building a bicyle highway network : fuckcars {#baden-württemberg-germany-is-building-a-bicyle-highway-network-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/swc8iy/badenw%C3%BCrttemberg_germany_is_building_a_bicyle/>
+
+A huge network of cycle paths that connect cities. A lot of pictures inside.

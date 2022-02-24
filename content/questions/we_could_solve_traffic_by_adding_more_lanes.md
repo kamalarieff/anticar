@@ -16,8 +16,8 @@ This is a short term solution. There is a term called induced demand where the b
 <https://www.bloomberg.com/news/articles/2018-09-06/traffic-jam-blame-induced-demand>
 
 -   <https://usa.streetsblog.org/2020/03/11/america-is-spending-billions-just-to-make-traffic-worse/>
--   <https://www.reddit.com/r/chicago/comments/rb2lad/chicago%5Fdrivers%5Flost%5F104%5Fhours%5Fsitting%5Fin%5Ftraffic/>
--   <https://www.reddit.com/r/fuckcars/comments/rbjndz/cars%5Fliterally%5Fwasting%5Fmore%5Fthan%5Fhalf%5Fa%5Fweek%5Fin%5Fa/>
+-   <https://www.reddit.com/r/chicago/comments/rb2lad/chicago_drivers_lost_104_hours_sitting_in_traffic/>
+-   <https://www.reddit.com/r/fuckcars/comments/rbjndz/cars_literally_wasting_more_than_half_a_week_in_a/>
 
 Exact quote?
 
@@ -30,33 +30,33 @@ A lot of numbers in the first referrer article. $500 billion dollars was used to
 
 <https://www.bloomberg.com/news/features/2021-09-28/why-widening-highways-doesn-t-bring-traffic-relief>
 
--   <https://www.reddit.com/r/chicago/comments/rb2lad/chicago%5Fdrivers%5Flost%5F104%5Fhours%5Fsitting%5Fin%5Ftraffic/>
--   <https://www.reddit.com/r/fuckcars/comments/rbjndz/cars%5Fliterally%5Fwasting%5Fmore%5Fthan%5Fhalf%5Fa%5Fweek%5Fin%5Fa/>
+-   <https://www.reddit.com/r/chicago/comments/rb2lad/chicago_drivers_lost_104_hours_sitting_in_traffic/>
+-   <https://www.reddit.com/r/fuckcars/comments/rbjndz/cars_literally_wasting_more_than_half_a_week_in_a/>
 
 
 ### Reducing congestion: Katy didn’t | City Observatory {#reducing-congestion-katy-didn-t-city-observatory}
 
 <https://cityobservatory.org/reducing-congestion-katy-didnt/>
 
-<https://www.reddit.com/r/comics/comments/rgayyc/add%5Fcars%5Fto%5Fthe%5Flist%5Fof%5Fthings%5Fi%5Fcant%5Fdraw%5Flol/honf1bo/>
+<https://www.reddit.com/r/comics/comments/rgayyc/add_cars_to_the_list_of_things_i_cant_draw_lol/honf1bo/>
 
 The Katy Freeway in Houston had gotten worse after adding more lanes.
 
 
 ### Highway 401 in Toronto : UrbanHell {#highway-401-in-toronto-urbanhell}
 
-<https://www.reddit.com/r/UrbanHell/comments/rk1ize/highway%5F401%5Fin%5Ftoronto/>
+<https://www.reddit.com/r/UrbanHell/comments/rk1ize/highway_401_in_toronto/>
 
-<https://www.reddit.com/r/fuckcars/comments/rk3zsy/highway%5F401%5Fin%5Ftoronto/>
+<https://www.reddit.com/r/fuckcars/comments/rk3zsy/highway_401_in_toronto/>
 
 This is a photo of a highway in Toronto. The comments said that this photo is quite old. It's much worse now.
 
 
 ### A Lesson on Induced Demand | Why Your Public Transit Matters - YouTube - Yet Another Urbanist {#a-lesson-on-induced-demand-why-your-public-transit-matters-youtube-yet-another-urbanist}
 
-<https://www.youtube.com/watch?v=%5FrnbgIrf-wE>
+<https://www.youtube.com/watch?v=_rnbgIrf-wE>
 
-<https://www.reddit.com/r/fuckcars/comments/rm6smx/i%5Fstarted%5Fa%5Fchannel%5Fabout%5Furban%5Fplanning%5Fcar/>
+<https://www.reddit.com/r/fuckcars/comments/rm6smx/i_started_a_channel_about_urban_planning_car/>
 
 The title of this YouTube video is about induced demand but he actually acknowledges all the issues. how public transport can solve. You can see it at 12:56.
 
@@ -71,10 +71,10 @@ At 7:17, he explained the Downs-Thomson paradox in Layman's terms which is
 
 ### Why Traffic Is So Bad In Los Angeles - YouTube - CNBC {#why-traffic-is-so-bad-in-los-angeles-youtube-cnbc}
 
-<https://www.youtube.com/watch?v=S76lKWeU%5Fxc>
+<https://www.youtube.com/watch?v=S76lKWeU_xc>
 
--   <https://www.reddit.com/r/fuckcars/comments/rtokuj/why%5Ftraffic%5Fis%5Fso%5Fbad%5Fin%5Flos%5Fangeles/>
--   <https://www.reddit.com/r/fuckcars/comments/ru37p8/ehhh%5Fjust%5Fwatched%5Fthis%5Fvideo%5Fwhat%5Fdo%5Fyou%5Fguys/>
+-   <https://www.reddit.com/r/fuckcars/comments/rtokuj/why_traffic_is_so_bad_in_los_angeles/>
+-   <https://www.reddit.com/r/fuckcars/comments/ru37p8/ehhh_just_watched_this_video_what_do_you_guys/>
 
 He talked about induced demand at 7:53.
 
@@ -83,7 +83,7 @@ He talked about induced demand at 7:53.
 
 <https://www.youtube.com/watch?v=8wlld3Z9wRc>
 
--   <https://www.reddit.com/r/fuckcars/comments/rzu74b/can%5Fanyone%5Flink%5Fan%5Finteresting%5Fvideo%5Fon%5Fwhy%5Fcars/hrxbqfz/>
+-   <https://www.reddit.com/r/fuckcars/comments/rzu74b/can_anyone_link_an_interesting_video_on_why_cars/hrxbqfz/>
 
 Induced demand applies to all modes of transportation. But increasing demand for cars brings a lot more problems than other modes of transportation.
 
@@ -96,7 +96,7 @@ A good quote at the end of the video:
 
 <https://usa.streetsblog.org/2017/06/21/the-science-is-clear-more-highways-equals-more-traffic-why-are-dots-still-ignoring-it/>
 
--   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably%5Fone%5Fof%5Fthe%5Fworst%5Farguments%5Five%5Fseen/hteomzw/>
+-   <https://www.reddit.com/r/fuckcars/comments/s7xra6/probably_one_of_the_worst_arguments_ive_seen/hteomzw/>
 
 From the article,
 

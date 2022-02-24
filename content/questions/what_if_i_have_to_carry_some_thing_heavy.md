@@ -15,7 +15,7 @@ There are plenty types of bikes that you can use to carry these heavy things aro
 
 <http://towardzeroimpact.net/bike-hauling.php>
 
-<https://www.reddit.com/r/fuckcars/comments/s01dsh/could%5Fcar%5Fdependence%5Fmake%5Fus%5Fmore%5Fanxious%5Fas%5Fa/hs3hfgj/>
+<https://www.reddit.com/r/fuckcars/comments/s01dsh/could_car_dependence_make_us_more_anxious_as_a/hs3hfgj/>
 
 -   Long tail bikes
 -   Work bikes
