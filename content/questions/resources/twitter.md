@@ -52,3 +52,10 @@ He writes tweets on urban planning. He's from the Urban Cycling Institute.
 <https://twitter.com/Cycling_Embassy>
 
 -   <https://www.reddit.com/r/fuckcars/comments/rq9mkp/i_love_this_sub_but_it_desperately_needs_a/>
+
+
+## Great Walkway Civil Disobedience Society {#great-walkway-civil-disobedience-society}
+
+<https://twitter.com/safestreetrebel>
+
+-   <https://reddit.com/r/fuckcars/comments/t0mga3/just_a_minute_temporary_safe_paths_are_created_on/hybhdd0/>

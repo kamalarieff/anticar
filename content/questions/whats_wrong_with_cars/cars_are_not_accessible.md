@@ -2,7 +2,7 @@
 title = "Cars are not accessible"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2019
+weight = 2010
 +++
 
 From <a href="#citeproc_bib_item_1">[1]</a>, there are 4 groups of people are affected by car-based design:
@@ -16,6 +16,8 @@ Once the infrastructure for cars gets bad enough, they're entirely useless. This
 
 > The city’s mayor, John Tory, warned on Tuesday that it would take days to get the roads fully cleared, and 600 road plows, 360 sidewalk plows and 200 salt trucks were deployed.
 
+Many people with disablities are unable to drive <a href="#citeproc_bib_item_3">[3]</a>. But they can use their mobility scooters on the pedestrian paths and bike lanes.
+
 ## Bibliography
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
@@ -25,5 +27,8 @@ Once the infrastructure for cars gets bad enough, they're entirely useless. This
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_2"></a>
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">L. Cecco and L. C. Toronto, “Toronto’s struggles with blizzard highlight its dependence on cars,” <i>The guardian</i>, Jan. 2022, <a href="https://www.theguardian.com/weather/2022/jan/20/toronto-struggles-blizzard-dependence-cars">https://www.theguardian.com/weather/2022/jan/20/toronto-struggles-blizzard-dependence-cars</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">“A thought on disability and transportation infrastructure bhtooefr.org.” <a href="https://bhtooefr.org/blog/2022/02/05/a-thought-on-disability-and-transportation-infrastructure/">https://bhtooefr.org/blog/2022/02/05/a-thought-on-disability-and-transportation-infrastructure/</a></div>
   </div>
 </div>

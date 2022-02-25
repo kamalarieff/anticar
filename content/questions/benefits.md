@@ -94,7 +94,8 @@ Here is a video of a couple of people riding on a bike path while cars are stuck
 
 <https://www.bmj.com/content/bmj/357/bmj.j1456.full.pdf>
 
-[Why Mandating Bicycle Helmets is a Bad Idea - YouTube - tehsiewdai](https://www.youtube.com/watch?v=c_S-e9F-U94)
+-   [Why Mandating Bicycle Helmets is a Bad Idea - YouTube - tehsiewdai](https://www.youtube.com/watch?v=c_S-e9F-U94)
+-   <https://reddit.com/r/fuckcars/comments/t0edey/controversial_now_is_the_best_time_than_ever_to/hyc0iql/>
 
 From the conclusion in the paper,
 

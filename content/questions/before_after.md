@@ -324,3 +324,10 @@ A before and after picture in Fuller St, Miami.
 <https://www.reddit.com/r/fuckcars/comments/szlstt/just_a_street_near_my_house_that_went_full/>
 
 A before and after image from 2019 and 2022 where car lanes are taken away to make way for people.
+
+
+### Public space is for children, not cars. {#public-space-is-for-children-not-cars-dot}
+
+<https://www.reddit.com/r/fuckcars/comments/t0d4ma/public_space_is_for_children_not_cars/>
+
+{{< figure src="/ox-hugo/2022-02-25_23:39 public space is for children.jpg" >}}
