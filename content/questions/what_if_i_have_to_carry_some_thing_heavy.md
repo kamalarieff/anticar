@@ -24,3 +24,12 @@ There are plenty types of bikes that you can use to carry these heavy things aro
 -   Bikes with Trailers
 -   Cargo Trikes
 -   E-bikes
+
+
+### Journey to Beaverton - Travelling from inner-SE Portland and across SW Portland by bike - YouTube - Bike Stuff {#journey-to-beaverton-travelling-from-inner-se-portland-and-across-sw-portland-by-bike-youtube-bike-stuff}
+
+<https://www.youtube.com/watch?v=z01_k5OstgM>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t17k1p/rethink_whats_possible/hyelkv5/?context=8&depth=9>
+
+This is a video of how people carry stuff around by hooking up a trailer to their bikes. It's totally doable.

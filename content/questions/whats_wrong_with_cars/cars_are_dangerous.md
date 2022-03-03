@@ -273,3 +273,10 @@ Death numbers globally.
 <!--quoteend-->
 
 > Crash injuries are estimated to be the eighth leading cause of death globally for all age groups and the leading cause of death for children and young people 5–29 years of age. More people now die in crashes than from HIV/AIDS.
+
+
+## 1 adult, 2 children in a stroller struck by car in Montgomery Co. | WTOP News {#1-adult-2-children-in-a-stroller-struck-by-car-in-montgomery-co-dot-wtop-news}
+
+<https://wtop.com/montgomery-county/2022/02/1-adult-2-children-in-a-stroller-struck-by-car-in-montgomery-co/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t3fnr2/the_state_of_local_reporting_when_a_caretaker_and/hytcfb0/?context=8&depth=9>

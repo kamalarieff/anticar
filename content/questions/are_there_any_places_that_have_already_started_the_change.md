@@ -262,3 +262,12 @@ A huge network of cycle paths that connect cities. A lot of pictures inside.
 <https://thepointsguy.co.uk/news/paris-to-implement-a-ban-on-most-cars-in-the-city-by-2024/>
 
 -   <https://reddit.com/r/fuckcars/comments/t04q6o/pariseans_how_enraged_are_the_motorist_chuds_in/hy81y6a/>
+
+
+### A New Transit Plan for Austin - Project Connect by Capital Metro {#a-new-transit-plan-for-austin-project-connect-by-capital-metro}
+
+<https://projectconnect.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/t5159k/downtown_station_austin_texas/hz2bnvk/>
+
+This is a community project to get Austin to build better transit.

@@ -2,7 +2,7 @@
 title = "Cars are not accessible"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2010
+weight = 2011
 +++
 
 From <a href="#citeproc_bib_item_1">[1]</a>, there are 4 groups of people are affected by car-based design:

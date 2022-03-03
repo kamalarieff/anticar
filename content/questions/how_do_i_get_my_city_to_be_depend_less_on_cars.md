@@ -61,6 +61,12 @@ We’re using our streets all wrong | Hard Reset by Freethink - YouTube - Freeth
 
 When they wanted to make Times Square more pedestrian friendly, they implemented temporary solutions e.g. paint, chairs, tables. Things that can be removed in 48 hours or less. They wanted to find out if that is what the people wanted. Turns out, they do. This led to user-generated urbanism where you listen to the people of the city what kind of city they want to live in.
 
+Here's a post from a city council on how to get the changes implemented.
+
+<https://www.reddit.com/r/fuckcars/comments/t208rv/im_on_city_council_heres_how_to_fix_your_city/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t4n2po/how_can_i_help_fuckcars/hyzo99v/>
+
 
 ## Resources {#resources}
 

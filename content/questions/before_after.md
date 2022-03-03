@@ -331,3 +331,15 @@ A before and after image from 2019 and 2022 where car lanes are taken away to ma
 <https://www.reddit.com/r/fuckcars/comments/t0d4ma/public_space_is_for_children_not_cars/>
 
 {{< figure src="/ox-hugo/2022-02-25_23:39 public space is for children.jpg" >}}
+
+
+### What Happened When They Banned Cars - YouTube - City Beautiful {#what-happened-when-they-banned-cars-youtube-city-beautiful}
+
+<https://www.youtube.com/watch?v=JcgGiHZoWBc>
+
+This video analyzed what happened to streets in the United States when they ban cars namely Market Street in San Francisco, 14th Street in New York and State Street in Madison. Business still thriving, public transport gets faster, there's less congestion.
+
+
+### Debrecen, Hungary before and after 2001 {#debrecen-hungary-before-and-after-2001}
+
+<https://www.reddit.com/r/fuckcars/comments/t32t3x/debrecen_hungary_before_and_after_2001/>

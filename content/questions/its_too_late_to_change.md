@@ -46,3 +46,12 @@ In the second referrer link, it is a post of a picture of a highway and roads tu
 -   <https://www.reddit.com/r/fuckcars/comments/s2u37a/lets_go_people_in_rvancouver_support_banning_cars/>
 
 10 to 15 years ago, Amsterdam was still car-centric. It's never too late to change.
+
+
+### Netherlands introduces car-free Sundays - archive, 1973 | Netherlands | The Guardian {#netherlands-introduces-car-free-sundays-archive-1973-netherlands-the-guardian}
+
+<https://www.theguardian.com/world/from-the-archive-blog/2020/nov/04/netherlands-introduces-car-free-sundays-archive-1973>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t1ts23/fight_putin_ride_a_bike/hyi6nmh/>
+
+Take it slowly like The Netherlands did in 1973. They introduced car free Sundays for three months.

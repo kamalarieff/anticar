@@ -226,3 +226,41 @@ Besides that,
 55% of the air pollution in Utah is caused by vehicles.
 
 
+## San Francisco microplastics study shows car tires biggest likely source - Los Angeles Times {#san-francisco-microplastics-study-shows-car-tires-biggest-likely-source-los-angeles-times}
+
+<https://www.latimes.com/environment/story/2019-10-02/california-microplastics-ocean-study>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t3vidm/car_oil_drips/hyvekgw/>
+
+
+## Development of Tire-Wear Particle Emission Measurements for Passenger Vehicles | SpringerLink {#development-of-tire-wear-particle-emission-measurements-for-passenger-vehicles-springerlink}
+
+<https://link.springer.com/article/10.1007/s40825-020-00181-z>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t53vci/car_tire_pollution_also_affects_biodiversity/hz3c4tg/>
+
+
+## Brake and tire particles measured from on-road vehicles: Effects of vehicle mass and braking intensity - ScienceDirect {#brake-and-tire-particles-measured-from-on-road-vehicles-effects-of-vehicle-mass-and-braking-intensity-sciencedirect}
+
+<https://www.sciencedirect.com/science/article/pii/S2590162121000216>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t53vci/car_tire_pollution_also_affects_biodiversity/hz3c4tg/>
+
+
+## The Tyre Collective {#the-tyre-collective}
+
+<https://www.thetyrecollective.com/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t53vci/car_tire_pollution_also_affects_biodiversity/hz4mvn5/>
+
+A movement to reduce tire usage. Electric cars doesn't emit as much carbon as ICE cars, but tire wear still contributes to pollution.
+
+> Tyre wear is the second-largest microplastic pollutant in our ocean after single-use plastic and accounts for up to 50% of air particulate emission (PM) from road transport
+
+
+## America’s obsession with road salt is hurting freshwater ecosystems — and our drinking water {#america-s-obsession-with-road-salt-is-hurting-freshwater-ecosystems-and-our-drinking-water}
+
+<https://www.inverse.com/science/america-road-salt-hurting-ecosystems-drinking-water>
+
+-   <https://www.reddit.com/r/science/comments/t3o15q/study_reveals_road_salt_is_increasing/>
+-   <https://www.reddit.com/r/fuckcars/comments/t3tr7w/cars_dont_just_kill_pedestrians_and_cyclists/>
