@@ -53,6 +53,8 @@ A picture of kids going to school on bikes in the winter.
 
 <https://www.youtube.com/watch?v=OdtR3T2Pg4s>
 
+-   <https://www.reddit.com/r/fuckcars/comments/t6oyu9/comment/hzcnqqm/?utm_source=share&utm_medium=web2x&context=3>
+
 People are overexaggerating how much does heavy snowstorm happens every year. This video mentioned that. They also mention that people still jog during the winter so the factor of not doing it is not winter. In the case of cycling, it's because of the lack of infrastructure. At 5:16, there is a bike path free from cars that is open on the weekends. You can see people are still cycling there.
 
 

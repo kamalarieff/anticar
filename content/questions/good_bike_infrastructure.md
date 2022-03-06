@@ -144,7 +144,8 @@ A video of before and after a bike infrastructure is implemented at Vauxhall Bri
 
 <https://www.youtube.com/watch?v=xSGx3HSjKDo>
 
-<https://www.reddit.com/r/fuckcars/comments/rvbikr/another_addition_to_the_ableism_arguments_in/hr5b9oi/>
+-   <https://www.reddit.com/r/fuckcars/comments/rvbikr/another_addition_to_the_ableism_arguments_in/hr5b9oi/>
+-   <https://www.reddit.com/r/fuckcars/comments/t7061y/assert_your_dominance_and_take_back_the_streets/hzeo783/>
 
 Video of young, old and disabled peopled out and about on the cycling tracks because it's safe.
 

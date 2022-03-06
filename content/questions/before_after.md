@@ -343,3 +343,10 @@ This video analyzed what happened to streets in the United States when they ban 
 ### Debrecen, Hungary before and after 2001 {#debrecen-hungary-before-and-after-2001}
 
 <https://www.reddit.com/r/fuckcars/comments/t32t3x/debrecen_hungary_before_and_after_2001/>
+
+
+### Expansion of pedestrian zones in the last 6 years in Belgrade, Serbia. (old photos are the latest Street View from 2013). {#expansion-of-pedestrian-zones-in-the-last-6-years-in-belgrade-serbia-dot--old-photos-are-the-latest-street-view-from-2013--dot}
+
+<https://www.reddit.com/r/fuckcars/comments/t6cm1h/expansion_of_pedestrian_zones_in_the_last_6_years/>
+
+There are more pictures in the comments.

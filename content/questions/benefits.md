@@ -160,3 +160,10 @@ Lots of good facts in here that advocates for public transportation. Interesting
 1.  ​Every $1 invested in public transportation generates $5 in economic returns.
 2.  Traveling by public transportation is 10 times safer per mile than traveling by automobile.
 3.  ​Communities that invest in public transit reduce the nation’s carbon emissions by 63 million metric tons annually.
+
+
+### Banning cars would lead to a more efficient lifestyle {#banning-cars-would-lead-to-a-more-efficient-lifestyle}
+
+<http://towardzeroimpact.net/CCC/CCC-benefits.php#section-efficiency>
+
+-   <https://reddit.com/r/fuckcars/comments/t6wz6v/i_decided_to_show_you_there_are_nos_disadvantages/hzeht2m/>

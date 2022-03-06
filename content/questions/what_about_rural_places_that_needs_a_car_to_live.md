@@ -26,3 +26,12 @@ There are some success stories. For example, in 2019, Travis County, Texas with 
 <https://www.reddit.com/r/fuckcars/comments/s7eqvr/but_what_about_rural_areas/>
 
 An example of bike lanes in rural Netherlands.
+
+
+### Home - Rural Design Guide {#home-rural-design-guide}
+
+<https://ruraldesignguide.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/t6irv5/who_even_came_up_with_these_disadvantages/hzcdf3z/>
+
+An online design resource and idea book, intended to help small towns and rural communities support safe, comfortable, and active travel for people of all ages and abilities.
