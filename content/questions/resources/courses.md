@@ -2,7 +2,7 @@
 title = "Courses"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2044
+weight = 2045
 +++
 
 ## Urban Mobility Courses | Tools to Move Europe Forward {#urban-mobility-courses-tools-to-move-europe-forward}

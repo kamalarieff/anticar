@@ -67,6 +67,14 @@ Here's a post from a city council on how to get the changes implemented.
 
 -   <https://www.reddit.com/r/fuckcars/comments/t4n2po/how_can_i_help_fuckcars/hyzo99v/>
 
+Here is a list of solutions provided from USA's department of transportation. It highlights the main problems with our current roads and the steps needed to fix them.
+
+<https://highways.dot.gov/sites/fhwa.dot.gov/files/2022-02/2022_CS_Transformations_Doc_508.pdf>
+
+-   <https://reddit.com/r/fuckcars/comments/t6iczg/seriously/hzct31r/>
+-   <https://reddit.com/r/fuckcars/comments/t6iczg/seriously/hzbwht4/>
+-   <https://reddit.com/r/fuckcars/comments/t6iczg/seriously/hzda7e1/>
+
 
 ## Resources {#resources}
 

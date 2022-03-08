@@ -167,3 +167,12 @@ Lots of good facts in here that advocates for public transportation. Interesting
 <http://towardzeroimpact.net/CCC/CCC-benefits.php#section-efficiency>
 
 -   <https://reddit.com/r/fuckcars/comments/t6wz6v/i_decided_to_show_you_there_are_nos_disadvantages/hzeht2m/>
+
+
+### Cycling - the exercise for positive mental health | MensLine Australia {#cycling-the-exercise-for-positive-mental-health-mensline-australia}
+
+<https://mensline.org.au/mens-mental-health/cycling-the-exercise-for-positive-mental-health/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/t84cye/reasons_why_i_bike_585_for_my_mental_health/hzmtqom/?context=8&depth=9>
+
+All exercise is good but cycling is the best because it combines physical activity with being outdoors.

@@ -231,3 +231,10 @@ This video shows that you can take away already separated bike lanes and combine
 -   <https://reddit.com/r/fuckcars/comments/sxtfil/travel_time_consistency_rural_farmer_urban/hxvjngp/>
 
 Houten was awarded Netherlands best place to cycle in 2018. This suburb is built into 4 subdistricts where cars can only enter each district via one entry. In order to go to another subdistrict, the car has to go out the same way it came in and go around the suburb onto the ring road. However, bicycles can go through to all subdistricts directly which make them faster than cars.
+
+
+### Cycling on a protected intersection - YouTube - BicycleDutch {#cycling-on-a-protected-intersection-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=VOpyC5XTTuw>
+
+A video on how a Dutch junction allows you to make three types of turns safely.

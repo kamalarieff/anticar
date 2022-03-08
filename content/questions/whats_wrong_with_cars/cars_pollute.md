@@ -264,3 +264,12 @@ A movement to reduce tire usage. Electric cars doesn't emit as much carbon as IC
 
 -   <https://www.reddit.com/r/science/comments/t3o15q/study_reveals_road_salt_is_increasing/>
 -   <https://www.reddit.com/r/fuckcars/comments/t3tr7w/cars_dont_just_kill_pedestrians_and_cyclists/>
+
+
+## A New Study Links Long-Term Exposure to Loud Traffic Noise and Depression - Bloomberg {#a-new-study-links-long-term-exposure-to-loud-traffic-noise-and-depression-bloomberg}
+
+<https://www.bloomberg.com/news/articles/2015-11-25/a-new-study-links-long-term-exposure-to-loud-traffic-noise-and-depression>
+
+-   <https://reddit.com/r/fuckcars/comments/t6oyu9/why_wont_anyone_think_about_the_cars/hzd1wt9/>
+
+Noise pollution from cars can lead to depression.

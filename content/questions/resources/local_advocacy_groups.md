@@ -2,7 +2,7 @@
 title = "Local advocacy groups"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2042
+weight = 2043
 +++
 
 ## Local Walking Organizations - America Walks {#local-walking-organizations-america-walks}
@@ -98,3 +98,20 @@ On the homepage, there is a lot of reasons why cars are bad. Some of them:
 -   <https://www.reddit.com/r/fuckcars/comments/syqgbn/but_we_have_a_vision_zero_program/hy0x0qs/>
 
 > Vision Zero is a strategy to eliminate all traffic fatalities and severe injuries, while increasing safe, healthy, equitable mobility for all. First implemented in Sweden in the 1990s, Vision Zero has proved successful across Europe — and now it’s gaining momentum in major American cities.
+
+
+## America Walks {#america-walks}
+
+<https://americawalks.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/t8wiki/i_present_to_you_jaywalking_in_a_residential_area/hztxb51/>
+
+
+## Home | Bike Lane Uprising {#home-bike-lane-uprising}
+
+<https://www.bikelaneuprising.com/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/sz79db/a_man_can_dream/hy3re6y/?context=8&depth=9>
+-   <https://reddit.com/r/fuckcars/comments/t913z0/amazon_driver_parked_in_the_protected_bike_lane/hzrgqjp/>
+
+This is an app for people to report other people who abuse bike lanes e.g. People who park in the bike lanes.

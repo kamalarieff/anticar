@@ -55,3 +55,12 @@ In the second referrer link, it is a post of a picture of a highway and roads tu
 -   <https://www.reddit.com/r/fuckcars/comments/t1ts23/fight_putin_ride_a_bike/hyi6nmh/>
 
 Take it slowly like The Netherlands did in 1973. They introduced car free Sundays for three months.
+
+
+### How Amsterdam Became a Bicycle Paradise - YouTube - Bloomberg Quicktake {#how-amsterdam-became-a-bicycle-paradise-youtube-bloomberg-quicktake}
+
+<https://www.youtube.com/watch?v=DKbRL6Opifg>
+
+-   <https://reddit.com/r/fuckcars/comments/t83z4n/i_hate_both_of_them/hzlzt7q/>
+
+Amsterdam planned to be a car-centric city in the 1970s. But the oil crisis and a protest stopped that.
