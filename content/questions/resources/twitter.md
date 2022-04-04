@@ -2,7 +2,7 @@
 title = "Twitter"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2044
+weight = 2055
 +++
 
 ## Cycling Professor {#cycling-professor}
@@ -59,3 +59,19 @@ He writes tweets on urban planning. He's from the Urban Cycling Institute.
 <https://twitter.com/safestreetrebel>
 
 -   <https://reddit.com/r/fuckcars/comments/t0mga3/just_a_minute_temporary_safe_paths_are_created_on/hybhdd0/>
+
+
+## BicycleLobby {#bicyclelobby}
+
+<https://twitter.com/BicycleLobby>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tcllpz/projected_in_oakland_with_east_bay_bike_party/i0e3h0o/>
+
+
+## Dutch Cycling Embassy {#dutch-cycling-embassy}
+
+<https://twitter.com/Cycling_Embassy>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tiin6g/dutch_cycling_embassy_on_twitter/>
+
+This account shows all the good bike infrastructure in the Netherlands.

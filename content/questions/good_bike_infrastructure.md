@@ -238,3 +238,12 @@ Houten was awarded Netherlands best place to cycle in 2018. This suburb is built
 <https://www.youtube.com/watch?v=VOpyC5XTTuw>
 
 A video on how a Dutch junction allows you to make three types of turns safely.
+
+
+### Cycling | Transport Strategy 2030 | Participate Melbourne {#cycling-transport-strategy-2030-participate-melbourne}
+
+<https://participate.melbourne.vic.gov.au/transportstrategy/cycling>
+
+-   <https://reddit.com/r/fuckcars/comments/tjts7o/protected_lanes_make_cycling_a_realistic_option/i1maztn/>
+
+A protected cycling lane makes everyone feel safe.

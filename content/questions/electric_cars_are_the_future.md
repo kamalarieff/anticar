@@ -70,5 +70,6 @@ At 13:24, electric cars are worse at high speeds because tire noise increases wi
 <https://usa.streetsblog.org/2021/06/18/electric-vehicles-wont-save-us/>
 
 -   <https://reddit.com/r/fuckcars/comments/su3ryg/is_this_sub_just_becoming_propaganda_posted_by/hx7l0m8/>
+-   <https://reddit.com/r/fuckcars/comments/teue05/electric_vehicles_wont_save_us/i0sd2qk/>
 
 Electric cars are better than gas powered cars, but they're still cars. Sure it's nice to replace all gas powered cars with electric cars, but that's only part of the fight. The real fight is cars vs the environment and the people. Car focused infrastructure is vehemently opposed to better environment and better lives for people by design.

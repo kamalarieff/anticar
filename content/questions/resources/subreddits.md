@@ -2,7 +2,7 @@
 title = "Subreddits"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2038
+weight = 2047
 +++
 
 ## Urban Planning: The built environment {#urban-planning-the-built-environment}
@@ -137,3 +137,10 @@ weight = 2038
 -   <https://www.reddit.com/r/fuckcars/comments/s70p93/rcargobike_has_an_answer_to_every_i_need_a_car/>
 
 This is basically the sub to go to when you have questions like "But how do I cycle in ... ?".
+
+
+## Places without cars {#places-without-cars}
+
+<https://www.reddit.com/r/carfreeplaces/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tgoeh5/comment/i14p2ix/?utm_source=share&utm_medium=web2x&context=3>

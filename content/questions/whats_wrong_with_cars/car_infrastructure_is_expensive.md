@@ -2,7 +2,7 @@
 title = "Car infrastructure is expensive"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2006
+weight = 2007
 +++
 
 ## (PDF) The Social Cost of Automobility, Cycling and Walking in the European Union {#pdf--the-social-cost-of-automobility-cycling-and-walking-in-the-european-union}
@@ -48,3 +48,13 @@ Swimming in Debt. We have to pay interest and maintenance for all that highways 
 <https://www.reddit.com/r/fuckcars/comments/rqlel8/road_salt_an_undermentioned_shit_aspect_of_car/>
 
 Salting the road in winter is very expensive. It pollutes the environment. It damages your car.
+
+
+## Suburbia is Subsidized: Here's the Math [ST07] - YouTube - Not Just Bikes {#suburbia-is-subsidized-here-s-the-math-st07-youtube-not-just-bikes}
+
+<https://www.youtube.com/watch?v=7Nw6qyyrTeI>
+
+-   <https://reddit.com/r/fuckcars/comments/tcnb52/dense_mixed_use_neighbourhoods_are_the_solution/i0hp17q/>
+-   <https://reddit.com/r/fuckcars/comments/taykkp/but_my_taxes/i05dojf/>
+
+Suburbs are expensive and costly to maintain. This is due to car-centric infrastructure.

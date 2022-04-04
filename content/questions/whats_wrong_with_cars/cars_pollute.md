@@ -2,7 +2,7 @@
 title = "Cars pollute"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2011
+weight = 2013
 +++
 
 ## (PDF) Tire Abrasion as a Major Source of Microplastics in the Environment {#pdf--tire-abrasion-as-a-major-source-of-microplastics-in-the-environment}
@@ -273,3 +273,33 @@ A movement to reduce tire usage. Electric cars doesn't emit as much carbon as IC
 -   <https://reddit.com/r/fuckcars/comments/t6oyu9/why_wont_anyone_think_about_the_cars/hzd1wt9/>
 
 Noise pollution from cars can lead to depression.
+
+
+## Tire residue chemical in rain runoff kills fish in urban streams, research finds | The Star {#tire-residue-chemical-in-rain-runoff-kills-fish-in-urban-streams-research-finds-the-star}
+
+<https://www.thestar.com/news/canada/2022/03/16/tire-residue-chemical-in-rain-runoff-kills-fish-in-urban-streams-research-finds.html>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tin6oz/tire_residue_from_cars_is_suffocating_fish/>
+
+
+## The Other Type of Car Pollution That Harms Us All – Streetsblog USA {#the-other-type-of-car-pollution-that-harms-us-all-streetsblog-usa}
+
+<https://usa.streetsblog.org/2020/09/14/the-other-type-of-car-pollution-that-harms-us-all/>
+
+-   <https://reddit.com/r/fuckcars/comments/ti95af/today_the_peoples_convoy_was_defeated_by_one/i1ekw64/>
+
+This article is referring to noise pollution.
+
+> Urban noise pollution causes a variety of psychological, cardiovascular, and other health disorders
+
+There's also a handy infographic in the article to show the effects of noise pollution.
+
+
+## Long term exposure to air pollution linked to heightened autoimmune disease risk | BMJ {#long-term-exposure-to-air-pollution-linked-to-heightened-autoimmune-disease-risk-bmj}
+
+<https://www.bmj.com/company/newsroom/long-term-exposure-to-air-pollution-linked-to-heightened-autoimmune-disease-risk/>
+
+-   <https://www.reddit.com/r/science/comments/tj89o7/long_term_exposure_to_air_pollution_linked_to/>
+-   <https://www.reddit.com/r/fuckcars/comments/tj8w0o/long_term_exposure_to_air_pollution_linked_to/>
+
+> Overall, long term exposure to traffic and industrial air pollutants was associated with an approximately 40% higher risk of rheumatoid arthritis, a 20% higher risk of inflammatory bowel disease, and a 15% higher risk of connective tissue diseases.

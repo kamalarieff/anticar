@@ -350,3 +350,17 @@ This video analyzed what happened to streets in the United States when they ban 
 <https://www.reddit.com/r/fuckcars/comments/t6cm1h/expansion_of_pedestrian_zones_in_the_last_6_years/>
 
 There are more pictures in the comments.
+
+
+### Cars-free streets can turn neglected areas into bustling centers for any community : fuckcars {#cars-free-streets-can-turn-neglected-areas-into-bustling-centers-for-any-community-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/tadu69/carsfree_streets_can_turn_neglected_areas_into/>
+
+Miami, Florida.
+
+
+### This is what a good town should look like. No cars, just pedestrians : fuckcars {#this-is-what-a-good-town-should-look-like-dot-no-cars-just-pedestrians-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/tg87ox/this_is_what_a_good_town_should_look_like_no_cars/>
+
+Udine, Italy.

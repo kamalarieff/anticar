@@ -11,6 +11,15 @@ People are happier, people are healthier. You get to save money. Stuff are more 
 ## Resources {#resources}
 
 
+### Dutch Cycling - YouTube - BicycleDutch {#dutch-cycling-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=ayPDlDi9Ug4>
+
+-   <https://reddit.com/r/fuckcars/comments/tblclz/reasons_cycle_only_infrastructure_is_good/i07ytl7/>
+
+This video sums up all that is good with cycling in just 5 minutes.
+
+
 ### Individual and social costs of car travel more than six times those of cycling {#individual-and-social-costs-of-car-travel-more-than-six-times-those-of-cycling}
 
 <https://ec.europa.eu/environment/integration/research/newsalert/pdf/transport_transitions_in_copenhagen_418na1_en.pdf>
@@ -176,3 +185,45 @@ Lots of good facts in here that advocates for public transportation. Interesting
 -   <https://www.reddit.com/r/fuckcars/comments/t84cye/reasons_why_i_bike_585_for_my_mental_health/hzmtqom/?context=8&depth=9>
 
 All exercise is good but cycling is the best because it combines physical activity with being outdoors.
+
+
+### How good is cycling for the environment? Co2 emissions of transport ranked - BikeRadar {#how-good-is-cycling-for-the-environment-co2-emissions-of-transport-ranked-bikeradar}
+
+<https://www.bikeradar.com/features/long-reads/cycling-environmental-impact/>
+
+-   <https://reddit.com/r/fuckcars/comments/tg0exa/how_funny_and_ironic_rail_service_has_one_of_the/i0zilp1/>
+
+> Cycling has the lowest carbon footprint of any mode of personal transport, even when compared to walking.
+
+<!--quoteend-->
+
+> If cycling’s popularity in Britain increased six-fold (equivalent to returning to 1940s levels) and all this pedalling replaced driving, this could make a net reduction of 7.7-million tons of CO2 annually, equivalent to 6% of the UK’s transport emissions
+
+
+### People More Likely to Reach 100 If They Live in Walkable Neighborhoods {#people-more-likely-to-reach-100-if-they-live-in-walkable-neighborhoods}
+
+<https://www.insider.com/living-in-walkable-neighborhood-could-help-you-live-100-study-2020-6>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tekxf8/people_are_more_likely_to_live_to_100_if_they/>
+
+You are more likely to live longer if you live in walkable neighborhoods. People can exercise, socialize and amenities are more easily accessible.
+
+
+### What’s More Efficient Than a Person on a Bike? | Bike New York {#what-s-more-efficient-than-a-person-on-a-bike-bike-new-york}
+
+<https://www.bike.nyc/blog/news/how-cyclists-beat-every-other-moving-creature-and-machine/>
+
+-   <https://reddit.com/r/fuckcars/comments/tjep47/the_fugliest_waste_of_space_ive_ever_seen_tesla/i1kqvmc/>
+
+There is nothing more efficient than a human being on a bike.
+
+
+### People with disabilities and use of public transit: The role of neighborhood walkability - ScienceDirect {#people-with-disabilities-and-use-of-public-transit-the-role-of-neighborhood-walkability-sciencedirect}
+
+<https://www.sciencedirect.com/science/article/abs/pii/S0966692322000424>
+
+-   <https://reddit.com/r/fuckcars/comments/tjn276/everyone_benefits_from_walkabilityespecially/i1l2q9u/>
+
+This is a study on how the disabled view public transit. From the study,
+
+> First, disabled individuals tend to have more frequencies of transit use than their non-disabled counterparts. Second, individuals living in walkable neighborhoods are more likely to use transit in general. Third, after controlling for various other factors, non-worker disabled individuals are less likely to use public transit than others. Lastly, higher levels of walkability are positively associated with transit use of disabled individuals than others

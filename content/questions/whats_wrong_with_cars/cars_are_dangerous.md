@@ -2,7 +2,7 @@
 title = "Cars are dangerous"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2009
+weight = 2010
 +++
 
 ## GRIPE SESSION: Departing Council Member Cumbo Gives Parting Gift to Car Owners – Streetsblog New York City {#gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners-streetsblog-new-york-city}
@@ -280,3 +280,10 @@ Death numbers globally.
 <https://wtop.com/montgomery-county/2022/02/1-adult-2-children-in-a-stroller-struck-by-car-in-montgomery-co/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/t3fnr2/the_state_of_local_reporting_when_a_caretaker_and/hytcfb0/?context=8&depth=9>
+
+
+## Belgium carnival deaths: Six killed and 10 seriously injured after car drives into a crowd of carnival revellers - ABC News {#belgium-carnival-deaths-six-killed-and-10-seriously-injured-after-car-drives-into-a-crowd-of-carnival-revellers-abc-news}
+
+<https://www.abc.net.au/news/2022-03-20/six-killed-as-car-runs-into-carnival-revellers-in-belgium/100925606>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tirw76/cars_kill_people/>

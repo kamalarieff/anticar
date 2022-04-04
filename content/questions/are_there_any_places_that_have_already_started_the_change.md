@@ -2,7 +2,7 @@
 title = "Are there any places that have already started the change?"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 25
+weight = 26
 +++
 
 Yes there are.

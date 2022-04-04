@@ -2,12 +2,14 @@
 title = "Cars waste time"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2016
+weight = 2023
 +++
 
 The time wasted in congestion costs $1,622 for the average Chicago driver and $5.8 billion for the city <a href="#citeproc_bib_item_1">[1]</a>. In Japan, when heavy snowfall disrupted the roads, the drivers were trapped for 40 hours <a href="#citeproc_bib_item_2">[2]</a>. A study in Moscow, Russia found that the average driver lost 210 hours of congestion in 2018. Drivers in Bogota lost the most time of anyone in the world: 272 hours <a href="#citeproc_bib_item_3">[3]</a>. These long commutes cause obesity, neck pain, loneliness, divorce, stress, and insomnia <a href="#citeproc_bib_item_4">[4]</a>.
 
 Check out this [GIF](https://twitter.com/metrolosangeles/status/1153807208229957632) on how buses transport more people than cars.
+
+Top Gear made a video on which form of transport is the fastest in London. It's no surprise that cars come dead last <a href="#citeproc_bib_item_5">[5]</a>.
 
 ## Bibliography
 
@@ -24,5 +26,8 @@ Check out this [GIF](https://twitter.com/metrolosangeles/status/1153807208229957
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">A. Lowrey, “Your Commute Is Killing You,” <i>Slate</i>, May 2011, <a href="https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html">https://slate.com/business/2011/05/long-commutes-cause-obesity-neck-pain-loneliness-divorce-stress-and-insomnia.html</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Top Gear, “HIGHLIGHTS: The Stig, Hammond, May and Clarkson Cross-London Race | Top Gear.” Nov. 2008. <a href="https://www.youtube.com/watch?v=CkOzNK4l8KY">https://www.youtube.com/watch?v=CkOzNK4l8KY</a></div>
   </div>
 </div>

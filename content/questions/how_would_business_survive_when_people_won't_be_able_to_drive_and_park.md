@@ -108,3 +108,26 @@ This is an article and research on how car-free streets were attracting more cus
 -   <https://www.reddit.com/r/fuckcars/comments/s7pddi/is_groningen_the_most_walkable_city_in_the_world/>
 
 In the 70s, business owners were against the idea of making the city center car free [3:48]. But cars don't do the shopping. People do. Now, when the city wanted to remove bicycle parking spaces during COVID but the business owners were against that. It's the total opposite from the 70s. [5:37]
+
+
+### Why Walkable Streets are More Economically Productive {#why-walkable-streets-are-more-economically-productive}
+
+<https://www.strongtowns.org/journal/2018/1/16/why-walkable-streets-are-more-economically-productive>
+
+-   <https://reddit.com/r/fuckcars/comments/ta6cuw/can_someone_explain_to_me_the_antipoor_thing/i00c0ef/>
+
+> "In the typical market, an additional one point increase in Walk Score was associated with between a $500 and $3,000 increase in home values."
+
+<!--quoteend-->
+
+> Furthermore, a pivotal report by Elizabeth Bent and Krute Singha of the San Francisco County Transportation Authority uncovered that "travelers using [transit or walking] spend more per month than those traveling by car." Interestingly, while the amount that transit users and walkers spent at area businesses on each trip was less than the average car driver's spending, the transit users and walkers made more trips per month, which added up to higher spending overall.
+
+
+### Suburbia is Subsidized: Here's the Math [ST07] - YouTube - Not Just Bikes {#suburbia-is-subsidized-here-s-the-math-st07-youtube-not-just-bikes}
+
+<https://www.youtube.com/watch?v=7Nw6qyyrTeI>
+
+-   <https://reddit.com/r/fuckcars/comments/tcnb52/dense_mixed_use_neighbourhoods_are_the_solution/i0hp17q/>
+-   <https://reddit.com/r/fuckcars/comments/taykkp/but_my_taxes/i05dojf/>
+
+At 7:52, mixed-use walkable neighborhoods perform better than car-centric neighborhoods.

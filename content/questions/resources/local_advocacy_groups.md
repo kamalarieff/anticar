@@ -2,7 +2,7 @@
 title = "Local advocacy groups"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2043
+weight = 2054
 +++
 
 ## Local Walking Organizations - America Walks {#local-walking-organizations-america-walks}
@@ -65,6 +65,7 @@ You can try signing up. These are the tasks that are specified on the page that 
 <https://www.bikeleague.org/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/s6jlej/are_there_any_organizations_or_groups_dedicated/ht4fv1o/>
+-   <https://reddit.com/r/fuckcars/comments/tgdf3a/lobby/i11wj5t/>
 
 Pro-bike is usually anti-car.
 
@@ -115,3 +116,12 @@ On the homepage, there is a lot of reasons why cars are bad. Some of them:
 -   <https://reddit.com/r/fuckcars/comments/t913z0/amazon_driver_parked_in_the_protected_bike_lane/hzrgqjp/>
 
 This is an app for people to report other people who abuse bike lanes e.g. People who park in the bike lanes.
+
+
+## CalBike - California Bike Coalition {#calbike-california-bike-coalition}
+
+<https://www.calbike.org/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tnnk62/comment/i230xkl/?utm_source=share&utm_medium=web2x&context=3>
+
+California’s statewide bicycle advocacy organization.
