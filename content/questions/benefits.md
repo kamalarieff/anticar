@@ -273,7 +273,7 @@ From the article:
 
 Here is an infographic on why we need cycle lanes.
 
-{{< figure src="/home/kamalarieff/Dropbox/transportation-org/Pictures/2022-04-09_02:23 6 reasons why we need cycle lanes infographic.webp" >}}
+{{< figure src="/ox-hugo/2022-04-09_02:23 6 reasons why we need cycle lanes infographic.webp" >}}
 
 
 ### Who else benefits from the Dutch cycling infrastructure [231] - YouTube - BicycleDutch {#who-else-benefits-from-the-dutch-cycling-infrastructure-231-youtube-bicycledutch}

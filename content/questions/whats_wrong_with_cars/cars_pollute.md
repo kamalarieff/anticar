@@ -333,7 +333,7 @@ There's also a handy infographic in the article to show the effects of noise pol
 
 -   <https://reddit.com/r/fuckcars/comments/tge24w/emissions_and_the_impact_of_transportation_on/i11axcw/>
 
-{{< figure src="/home/kamalarieff/Dropbox/transportation-org/Pictures/2022-04-10_01:39 hidden aspects of driving.webp" >}}
+{{< figure src="/ox-hugo/2022-04-10_01:39 hidden aspects of driving.webp" >}}
 
 
 ## Differences in cyclists and car drivers exposure to air pollution from traffic in the city of Copenhagen - ScienceDirect {#differences-in-cyclists-and-car-drivers-exposure-to-air-pollution-from-traffic-in-the-city-of-copenhagen-sciencedirect}
