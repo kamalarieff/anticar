@@ -2,7 +2,7 @@
 title = "Owning a car is expensive"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2008
+weight = 2007
 +++
 
 ## Car costs - Wikipedia {#car-costs-wikipedia}
@@ -45,6 +45,30 @@ For starters, when there is free parking, there is induced demand for those park
 Those free parking is not exactly free. It is paid by everyone in terms of rent and grocery prices.
 
 The experiment stated in the article is pretty interesting. The meter costs change depends on how many people use it. When more people use it, the cost increases. It found that cruising gets cut in half, amount of driving fell by 30 percent, parking citations and double parking also fell.
+
+
+## How to Reform Your City's Bad Parking Requirements - Bloomberg {#how-to-reform-your-city-s-bad-parking-requirements-bloomberg}
+
+<https://www.bloomberg.com/news/articles/2019-09-20/how-to-reform-your-city-s-bad-parking-requirements>
+
+-   <https://reddit.com/r/fuckcars/comments/tvzhc9/does_anyone_else_hate_this_sentiment_oh_no_you/i3d9q0r/>
+-   <https://reddit.com/r/fuckcars/comments/tvzhc9/does_anyone_else_hate_this_sentiment_oh_no_you/i3d4xym/>
+
+Parking affects a lot more than you think such as affordable housing, climate change, economic development, public transportation, traffic congestion, and urban design. They reduce the supply and increase the price of housing. Parking subsidies lure people into cars from public transportation, bicycles, or their own two feet. Cruising for curb parking congests roads, pollutes the air, and adds greenhouse gases.
+
+Parking increases the price of everything else.
+
+> A study found that the parking spaces required for shopping centers in Los Angeles increase the cost of building a shopping center by 67 percent if the parking is in an aboveground structure and by 93 percent if the parking is underground. Retailers pass this high cost on to all shoppers, regardless of how they travel.
+
+<!--quoteend-->
+
+> Because many cities require the same number of spaces for every apartment regardless of its size or quality, the required parking disproportionately increases the cost of low-income housing. One study found that minimum parking requirements raise housing costs by 13 percent for families without cars.
+
+He recommended three steps to fix them:
+
+1.  Remove off-street parking requirements. Developers and businesses can then decide how many parking spaces to provide for their customers.
+2.  Charge the right prices for on-street parking. The right prices are the lowest prices that will leave one or two open spaces on each block, so there will be no parking shortages. Prices will balance the demand and supply for on-street spaces.
+3.  Spend the parking revenue to improve public services on the metered streets. If everybody sees their meter money at work, the new public services can make demand-based prices for on-street parking politically popular.
 
 
 ## Apartment Blockers - Sightline Institute {#apartment-blockers-sightline-institute}
@@ -144,3 +168,17 @@ People overestimate how much their cars cost by half via these 4 factors: fuel, 
 -   <https://www.reddit.com/r/fuckcars/comments/svsn8f/the_actual_cost_of_a_car_can_be_as_high_as_1/>
 
 Typically, the driver of the car don't bear the costs of driving. Society have to bear the rest.
+
+
+## The All-In Cost of Car Dependency 2022: How Driving Wrecks Your Finances (Without You Noticing) - YouTube - CityNerd {#the-all-in-cost-of-car-dependency-2022-how-driving-wrecks-your-finances--without-you-noticing--youtube-citynerd}
+
+<https://www.youtube.com/watch?v=c2rI-5ZFW1E>
+
+-   <https://reddit.com/r/fuckcars/comments/u0krma/burden/i46i5pq/>
+-   <https://reddit.com/r/fuckcars/comments/tzytzf/i_get_second_hand_suicidality_from_looking_at/i43bmo8/>
+-   <https://reddit.com/r/fuckcars/comments/tzytzf/i_get_second_hand_suicidality_from_looking_at/i43bgcv/>
+-   <https://reddit.com/r/fuckcars/comments/u1fy0m/who_here_is_living_car_free/i4cwtlx/>
+
+This video is a break down on how much owning a car is. He goes into different aspects of owning a car like depreciation, parking, gas, insurance and maintenance.
+
+After 5 years, you lose 37% of your car's value [5:06].

@@ -2,7 +2,7 @@
 title = "Local advocacy groups"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2054
+weight = 2045
 +++
 
 ## Local Walking Organizations - America Walks {#local-walking-organizations-america-walks}
@@ -12,7 +12,7 @@ weight = 2054
 -   <https://www.reddit.com/r/fuckcars/comments/rh0u4s/is_there_an_organization_one_can_sign_up_for_to/>
 
 
-## Home - Sustrans.org.uk {#home-sustrans-dot-org-dot-uk}
+## Sustrans.org.uk {#sustrans-dot-org-dot-uk}
 
 <https://www.sustrans.org.uk/>
 
@@ -108,7 +108,7 @@ On the homepage, there is a lot of reasons why cars are bad. Some of them:
 -   <https://reddit.com/r/fuckcars/comments/t8wiki/i_present_to_you_jaywalking_in_a_residential_area/hztxb51/>
 
 
-## Home | Bike Lane Uprising {#home-bike-lane-uprising}
+## Bike Lane Uprising {#bike-lane-uprising}
 
 <https://www.bikelaneuprising.com/>
 
@@ -122,6 +122,29 @@ This is an app for people to report other people who abuse bike lanes e.g. Peopl
 
 <https://www.calbike.org/>
 
--   <https://www.reddit.com/r/fuckcars/comments/tnnk62/comment/i230xkl/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/tnnk62/comment/i230xkl>
 
 California’s statewide bicycle advocacy organization.
+
+
+## Bicycle Colorado {#bicycle-colorado}
+
+<https://www.bicyclecolorado.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/tnnk62/are_you_a_part_of_big_bike/i25badp/>
+
+
+## clturbanists | Linktree {#clturbanists-linktree}
+
+<https://linktr.ee/clturbanists>
+
+-   <https://reddit.com/r/fuckcars/comments/tx7gnv/there_is_clearly_so_much_pent_up_demand_for_fuck/i3mj5ls/>
+
+A link of links for the people in Charlotte NC.
+
+
+## Albany Bicycle Coalition | If you are interested in improving bicycling in New York's Capital District, come join us! {#albany-bicycle-coalition-if-you-are-interested-in-improving-bicycling-in-new-york-s-capital-district-come-join-us}
+
+<https://albanybicyclecoalition.com/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/u1fe5n/i_want_to_talk_to_my_city_council_about_public/i4c3k29/>

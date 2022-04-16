@@ -2,7 +2,7 @@
 title = "Cars take up a lot of space"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2009
+weight = 2008
 +++
 
 ## Let's collect the most powerful new mobility imaginaries to unlock our thinking! {#let-s-collect-the-most-powerful-new-mobility-imaginaries-to-unlock-our-thinking}
@@ -93,8 +93,17 @@ Cars take up space by not doing anything at all.
 
 ## Opinion | Why cars and cities are a bad match. - The Washington Post {#opinion-why-cars-and-cities-are-a-bad-match-dot-the-washington-post}
 
-<https://www.washingtonpost.com/news/in-theory/wp/2016/03/02/buses-and-trains-thats-what-will-solve-congestion/?utm_source=reddit.com>
+<https://www.washingtonpost.com/news/in-theory/wp/2016/03/02/buses-and-trains-thats-what-will-solve-congestion>
 
 -   <https://www.reddit.com/r/fuckcars/comments/s9xzsq/why_cars_and_cities_are_a_bad_match/>
 
 An opinion piece by author of Human Transit, Jarrett Walker. His facts are really simple, it's just basic geometry. Cars need huge amount of space but cities want to be denser so that it's more livable. These two don't fit together. Big things can't fit in small spaces.
+
+
+## Pictures of comparison of people in different modes of transport {#pictures-of-comparison-of-people-in-different-modes-of-transport}
+
+-   <https://reddit.com/r/fuckcars/comments/tfuos6/the_arrogance_of_space/i0zxx09/>
+
+{{< figure src="/ox-hugo/2022-04-10_01:44 5 modes of transport with 200 people each.jpg" >}}
+
+{{< figure src="/ox-hugo/2022-04-10_01:45 50 people in 4 different modes of transport.png" >}}

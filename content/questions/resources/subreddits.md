@@ -2,7 +2,7 @@
 title = "Subreddits"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2047
+weight = 2040
 +++
 
 ## Urban Planning: The built environment {#urban-planning-the-built-environment}
@@ -125,6 +125,13 @@ weight = 2047
 -   <https://www.reddit.com/r/fuckcars/comments/s0q8n7/thoughts_on_porticoes_they_keep_pedestrians_safe/>
 
 
+## BanCars {#bancars}
+
+<https://www.reddit.com/r/BanCars/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tyilj0/comment/i3tgmex>
+
+
 ## AbolishCars {#abolishcars}
 
 <https://www.reddit.com/r/AbolishCars/>
@@ -143,4 +150,52 @@ This is basically the sub to go to when you have questions like "But how do I cy
 
 <https://www.reddit.com/r/carfreeplaces/>
 
--   <https://www.reddit.com/r/fuckcars/comments/tgoeh5/comment/i14p2ix/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/tgoeh5/comment/i14p2ix>
+
+
+## fuckcarsRomania {#fuckcarsromania}
+
+<https://www.reddit.com/r/fuckcarsRomania/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x/?utm_source=share&utm_medium=web2x&context=3>
+
+Romania's version of fuck cars.
+
+
+## EnculerLesVoitures {#enculerlesvoitures}
+
+<https://www.reddit.com/r/EnculerLesVoitures/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x/?utm_source=share&utm_medium=web2x&context=3>
+
+France's version of fuck cars.
+
+
+## AutoBLÖD {#autoblöd}
+
+<https://www.reddit.com/r/autobloed/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x/?utm_source=share&utm_medium=web2x&context=3>
+
+Germany's version of fuck cars.
+
+
+## CarIndependentLA {#carindependentla}
+
+<https://www.reddit.com/r/CarIndependentLA/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/txta1f/just_started_a_fuckcars_advocacy_group_for_los/>
+
+
+## I Hate Cars {#i-hate-cars}
+
+<https://www.reddit.com/r/ihatecars/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/tyiyg9/comment/i3uz8ho>
+
+
+## People have a right to change their space {#people-have-a-right-to-change-their-space}
+
+<https://www.reddit.com/r/OurRightToTheCity/>
+
+-   <https://reddit.com/r/fuckcars/comments/tx4cvp/every_time_i_hear_about_a_walkable_city_a_single/i3lgr45/>

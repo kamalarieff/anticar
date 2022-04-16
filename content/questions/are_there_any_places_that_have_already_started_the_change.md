@@ -202,7 +202,7 @@ They're planning to remove cars in general, not just converting them to electric
 
 ### The Point, a new Utah community, will be a 15-minute city {#the-point-a-new-utah-community-will-be-a-15-minute-city}
 
-<https://www.fastcompany.com/90713241/theyre-building-a-15-minute-city-from-scratch-in-the-utah-desert?partner=rss&utm_source=facebook.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss>
+<https://www.fastcompany.com/90713241/theyre-building-a-15-minute-city-from-scratch-in-the-utah-desert>
 
 -   <https://www.reddit.com/r/fuckcars/comments/s5clp0/theyre_building_a_15minute_city_from_scratch_in/>
 
@@ -271,3 +271,30 @@ A huge network of cycle paths that connect cities. A lot of pictures inside.
 -   <https://reddit.com/r/fuckcars/comments/t5159k/downtown_station_austin_texas/hz2bnvk/>
 
 This is a community project to get Austin to build better transit.
+
+
+### Clontarf to City Centre Project | Dublin City Council {#clontarf-to-city-centre-project-dublin-city-council}
+
+<https://www.dublincity.ie/residential/transportation/clontarf-city-centre-project>
+
+-   <https://reddit.com/r/fuckcars/comments/u39plz/im_usually_pretty_grim_about_dublin_and_its_car/i4nxwo7/>
+
+Dublin will provide segregated cycling facilities and bus priority infrastructure along a 2.7km route that extends from Clontarf Road at the junction with Alfie Byrne Road, to Amiens Street at the junction with Talbot Street.
+
+
+### Belfast, UK {#belfast-uk}
+
+<https://www.infrastructure-ni.gov.uk/sites/default/files/publications/infrastructure/belfast-cycling-network-delivery-plan-2022-2031.pdf>
+
+-   <https://reddit.com/r/fuckcars/comments/u2t29f/new_proposal_in_my_city_to_add_150km_and_improve/i4ksolm/>
+
+Proposal to add 150km and improve 43km of cycle paths around the city over the next 10 years with the focus being traffic-separated infrastructure.
+
+
+### Atlanta BeltLine {#atlanta-beltline}
+
+<https://beltline.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/u05w77/atlanta_in_1919_vs_2019_ouch/i45popi/>
+
+Atlanta Is building a 33 mile multi-use trails offering a pedestrian-friendly environment which promotes walking, jogging, biking, and affordable housing.

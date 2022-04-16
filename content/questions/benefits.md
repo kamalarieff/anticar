@@ -192,6 +192,7 @@ All exercise is good but cycling is the best because it combines physical activi
 <https://www.bikeradar.com/features/long-reads/cycling-environmental-impact/>
 
 -   <https://reddit.com/r/fuckcars/comments/tg0exa/how_funny_and_ironic_rail_service_has_one_of_the/i0zilp1/>
+-   <https://reddit.com/r/fuckcars/comments/tywdou/8_min_by_car_or_98_by_public_transit_i_want_to/i3w9blg/>
 
 > Cycling has the lowest carbon footprint of any mode of personal transport, even when compared to walking.
 
@@ -227,3 +228,59 @@ There is nothing more efficient than a human being on a bike.
 This is a study on how the disabled view public transit. From the study,
 
 > First, disabled individuals tend to have more frequencies of transit use than their non-disabled counterparts. Second, individuals living in walkable neighborhoods are more likely to use transit in general. Third, after controlling for various other factors, non-worker disabled individuals are less likely to use public transit than others. Lastly, higher levels of walkability are positively associated with transit use of disabled individuals than others
+
+
+### Greenpeace Belgium Twitter {#greenpeace-belgium-twitter}
+
+<https://mobile.twitter.com/greenpeace_be/status/1027490895359340545>
+
+-   <https://reddit.com/r/fuckcars/comments/ts3r61/this_man_carried_his_dog_to_the_car_because_the/i2prri8/>
+
+{{< figure src="/ox-hugo/2022-04-04_22:54 car infrastructure hot.jpeg" >}}
+
+Building infrastructure for cars results in a higher temperature. When you can replace those infrastructure with trees, things cool down.
+
+
+### Separated Bike Lanes Means Safer Streets, Study Says – Streetsblog USA {#separated-bike-lanes-means-safer-streets-study-says-streetsblog-usa}
+
+<https://usa.streetsblog.org/2019/05/29/protect-yourself-separated-bike-lanes-means-safer-streets-study-says/>
+
+-   <https://reddit.com/r/fuckcars/comments/thuy7r/protected_bike_lanes_make_streets_safer_for/i1a3wpm/>
+
+> After analyzing traffic crash data over a 13-year period in areas with separated bike lanes on city streets, researches estimated that having a protected bike facility in a city would result in 44 percent fewer deaths and 50 percent fewer serous injuries than an average city.
+
+
+### Superblocks: Barcelona's car-free zones could extend lives and boost mental health {#superblocks-barcelona-s-car-free-zones-could-extend-lives-and-boost-mental-health}
+
+<https://theconversation.com/superblocks-barcelonas-car-free-zones-could-extend-lives-and-boost-mental-health-123295>
+
+-   <https://reddit.com/r/fuckcars/comments/tw0zm2/lifestyle_and_society/i3cw43p/>
+
+From the article:
+
+> The research suggests this would significantly improve air quality and noise levels on the car-free streets: ambient levels of nitrogen dioxide (NO₂) would be reduced by a quarter, bringing levels in line with recommendations from the World Health Organisation (WHO).
+>
+> The plan is also expected to generate significant health benefits for residents. The study estimates that as many as 667 premature deaths from air pollution, noise and heat could be prevented each year. More green spaces will encourage people to get outdoors and lead a more active lifestyle.
+>
+> This, in turn, helps to reduce obesity and diabetes and ease pressure on health services. The researchers claim that residents of Barcelona could expect to live an extra 200 days thanks to the cumulative health benefits, if the idea is rolled out across the city.
+
+
+### Six reasons to build cycle lanes | Cycling UK {#six-reasons-to-build-cycle-lanes-cycling-uk}
+
+<https://www.cyclinguk.org/article/six-reasons-build-cycle-lanes>
+
+-   <https://www.reddit.com/r/fuckcars/comments/txsxo4/6_reasons_why_we_need_cycle_lanes_uk/>
+
+Here is an infographic on why we need cycle lanes.
+
+{{< figure src="/home/kamalarieff/Dropbox/transportation-org/Pictures/2022-04-09_02:23 6 reasons why we need cycle lanes infographic.webp" >}}
+
+
+### Who else benefits from the Dutch cycling infrastructure [231] - YouTube - BicycleDutch {#who-else-benefits-from-the-dutch-cycling-infrastructure-231-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=xSGx3HSjKDo>
+
+-   <https://bicycledutch.wordpress.com/2012/12/06/who-else-benefits-from-the-dutch-cycling-infrastructure/>
+-   <https://reddit.com/r/fuckcars/comments/tzzt33/not_cars_but_still_these_barriers_designed_to/i4655ex/>
+
+Able bodied people, senior citizens, children, disabled people are all able to use the great cycling infrastructure in the Netherlands. These cycling paths also allow mobility scooters to use them. It's very safe because they're protected from the car lanes.

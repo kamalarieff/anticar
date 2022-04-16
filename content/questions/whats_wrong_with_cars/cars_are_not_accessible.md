@@ -2,7 +2,7 @@
 title = "Cars are not accessible"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2019
+weight = 2010
 +++
 
 From <a href="#citeproc_bib_item_1">[1]</a>, there are 4 groups of people are affected by car-based design:
@@ -20,6 +20,10 @@ Many people with disablities are unable to drive <a href="#citeproc_bib_item_3">
 
 Car infrastructure is not equitable for everyone. It hurts the poor more than the rich. Everyone pays for roads even if they don't drive <a href="#citeproc_bib_item_4">[4]</a>.
 
+Even when cities try to accommodate for pedestrians by building pedestrian bridges, they are still inaccessible because these bridges are typically built with steep stairs or steep sloped ramps which are particularly challenging for people with disabilities, children, the elderly, and anyone carrying goods <a href="#citeproc_bib_item_5">[5]</a>. Not too mention that they are costly to build and maintain <a href="#citeproc_bib_item_5">[5]</a>. And when you lay them flat, they're actually longer than a pedestrian crossing.
+
+{{< figure src="/ox-hugo/2022-04-10_02:07 pedestrian crossing length.jpg" >}}
+
 ## Bibliography
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
@@ -35,5 +39,8 @@ Car infrastructure is not equitable for everyone. It hurts the poor more than th
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">“Toll roads hurt the poor?,” <i>Strong towns</i>. <a href="https://www.strongtowns.org/journal/2017/3/7/toll-roads-hurt-the-poor">https://www.strongtowns.org/journal/2017/3/7/toll-roads-hurt-the-poor</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">“Pedestrian Bridges Make Cities Less Walkable. Why Do Cities Keep Building Them?,” <i>Institute for transportation and development policy</i>. Oct. 2019. <a href="https://www.itdp.org/2019/10/01/pedestrian-bridges-make-cities-less-walkable-why-do-cities-keep-building-them/">https://www.itdp.org/2019/10/01/pedestrian-bridges-make-cities-less-walkable-why-do-cities-keep-building-them/</a></div>
   </div>
 </div>

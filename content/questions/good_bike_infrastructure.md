@@ -179,7 +179,7 @@ Gronigen, the leading city for cycling in the world [15:31]. They introduced sup
 
 <https://www.youtube.com/watch?v=FR5l48_h5Eo>
 
--   <https://www.reddit.com/r/fuckcars/comments/sqixsg/comment/hwm95tn/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/sqixsg/comment/hwm95tn>
 
 This is the newer version of the Dutch roundabout where there are bi-directional cycling lanes.
 
@@ -247,3 +247,10 @@ A video on how a Dutch junction allows you to make three types of turns safely.
 -   <https://reddit.com/r/fuckcars/comments/tjts7o/protected_lanes_make_cycling_a_realistic_option/i1maztn/>
 
 A protected cycling lane makes everyone feel safe.
+
+
+### Let's not forget why we're all here for a good urbanism and pedestrian-friendly cities! : fuckcars {#let-s-not-forget-why-we-re-all-here-for-a-good-urbanism-and-pedestrian-friendly-cities-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/tv50ki/lets_not_forget_why_were_all_here_for_a_good/>
+
+A gallery of images showing good bike infrastructure.

@@ -2,8 +2,23 @@
 title = "Cars are dangerous"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2010
+weight = 2009
 +++
+
+## Here’s How Much Safer Transit Is Compared to Driving – Streetsblog USA {#here-s-how-much-safer-transit-is-compared-to-driving-streetsblog-usa}
+
+<https://usa.streetsblog.org/2014/12/19/heres-how-much-safer-transit-is-compared-to-driving/>
+
+-   <https://reddit.com/r/fuckcars/comments/tsqlfs/unsafe_public_transportation/i2t1qxd/>
+
+People always has this perception that public transit is unsafe but that's further from the truth.
+
+> Looking at traffic fatalities per mile traveled in the U.S., analyst Todd Litman found that riding commuter or intercity rail is about 20 times safer than driving; riding metro or light rail is about 30 times safer; and riding the bus is about 60 times safer.
+
+<!--quoteend-->
+
+> In media coverage and in transit agencies’ own public messaging campaigns, transit is often linked to the threat of terrorism, but internationally, Litman notes, about 360 times more people are killed in auto collisions than in incidents of terrorism.
+
 
 ## GRIPE SESSION: Departing Council Member Cumbo Gives Parting Gift to Car Owners – Streetsblog New York City {#gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners-streetsblog-new-york-city}
 
@@ -210,7 +225,7 @@ Cars is the second most dangerous vehicle and motorcycles is the most dangerous 
 
 <https://people.com/human-interest/florida-toddler-run-over-killed-by-mothers-suv/>
 
--   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw>
 
 A mother killed her own son because she couldn't see him. Apparently, this is not her first child that has been involved in an automobile accident.
 
@@ -219,7 +234,7 @@ A mother killed her own son because she couldn't see him. Apparently, this is no
 
 <https://nyc.streetsblog.org/2021/10/30/another-2-year-old-killed-by-suv-driver-who-apparently-didnt-see-her/>
 
--   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/spjcrp/comment/hwg01sw>
 
 Another child killed by someone driving a SUV because she couldn't see her.
 

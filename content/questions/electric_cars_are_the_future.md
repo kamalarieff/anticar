@@ -32,6 +32,8 @@ Since Tesla falls under electric cars, I'll put this here. They are still a dang
 
 <https://www.youtube.com/watch?v=WiI1AcsJlYU>
 
+-   <https://reddit.com/r/fuckcars/comments/u2c3mr/you_will_never_be_apart_of_the_solution_elon_f_off/i4i81vv/>
+
 At 2:24, electric cars have more rare materials in them and these materials require a lot of CO2 to mine them. They will only become more environmentally friendly around three or five years of ownership.
 
 At 8:55, electric cars are heavy. This increases the damage done on roads.
@@ -73,3 +75,12 @@ At 13:24, electric cars are worse at high speeds because tire noise increases wi
 -   <https://reddit.com/r/fuckcars/comments/teue05/electric_vehicles_wont_save_us/i0sd2qk/>
 
 Electric cars are better than gas powered cars, but they're still cars. Sure it's nice to replace all gas powered cars with electric cars, but that's only part of the fight. The real fight is cars vs the environment and the people. Car focused infrastructure is vehemently opposed to better environment and better lives for people by design.
+
+
+### Tesla recalls almost half a million electric cars over safety issues | Reuters {#tesla-recalls-almost-half-a-million-electric-cars-over-safety-issues-reuters}
+
+<https://www.reuters.com/business/autos-transportation/tesla-recalls-over-475000-electric-vehicles-2021-12-30/>
+
+-   <https://reddit.com/r/fuckcars/comments/tggxee/of_all_the_vehicle_manufactures_to_hate_why_elon/i11zztz/>
+
+Tesla recalled more than 475,000 of its Model 3 and Model S electric cars to address rearview camera and trunk issues that increase the risk of crashing.

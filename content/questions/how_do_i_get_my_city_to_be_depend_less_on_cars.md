@@ -75,6 +75,45 @@ Here is a list of solutions provided from USA's department of transportation. It
 -   <https://reddit.com/r/fuckcars/comments/t6iczg/seriously/hzbwht4/>
 -   <https://reddit.com/r/fuckcars/comments/t6iczg/seriously/hzda7e1/>
 
+Here's some steps from a reddit comment
+
+<https://www.reddit.com/r/fuckcars/comments/tk5b1r/how_can_we_make_actual_change_happen/i1p38lg/>
+
+Here is another reddit post that goes really in depth on how to affect change for your local neighborhoods.
+How to go Car-Free or Reduce Car Reliance in the U.S. - Resource Sharing and Examples! : fuckcars
+
+<https://www.reddit.com/r/fuckcars/comments/tc5ogx/how_to_go_carfree_or_reduce_car_reliance_in_the/>
+
+-   <https://reddit.com/r/fuckcars/comments/tskw7n/the_necessity_of_having_a_personal_car_is_one_of/i2sjzx2/>
+-   <https://reddit.com/r/fuckcars/comments/tskw7n/the_necessity_of_having_a_personal_car_is_one_of/i2sx33w/>
+-   <https://reddit.com/r/fuckcars/comments/tskw7n/the_necessity_of_having_a_personal_car_is_one_of/i2t4orh/>
+
+12 steps to introduce traffic calming from this traffic calming toolbox
+Traffic Calming 101
+
+<https://www.pps.org/article/livememtraffic>
+
+-   <https://reddit.com/r/fuckcars/comments/tj0ycy/cars_are_the_biggest_reasons_folks_dont_bike_and/i1ke3jq/>
+
+Cycle infrastructure design by UK's department of transport (This is less for you to read but more to discuss with your local council regarding on how to build good bike infrastructure. the referrer has some comments regarding the safety criterias of a bike infrastructure from page 97)
+
+<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/951074/cycle-infrastructure-design-ltn-1-20.pdf>
+
+-   <https://reddit.com/r/fuckcars/comments/txi5e7/residents_are_complaining_about_a_new_cycle_lane/i3m4vc7/>
+
+So You Want To Fuck Cars: How to lobby local politicians to reduce vehicle impact (text post) : fuckcars
+
+<https://www.reddit.com/r/fuckcars/comments/twzxjj/so_you_want_to_fuck_cars_how_to_lobby_local/>
+
+-   <https://reddit.com/r/fuckcars/comments/twzxjj/so_you_want_to_fuck_cars_how_to_lobby_local/i3ipr9n/>
+
+Car free days are also a valid way to get cities to go car free. In this article, majority of the public supports car free days on a weekly basis. You can show this article to your local council as well.
+Public support car-free days in towns and cities | Latest news
+
+<https://www.smarttransport.org.uk/news/latest-news/public-support-car-free-days-in-towns-and-cities>
+
+-   <https://reddit.com/r/fuckcars/comments/tzwb9c/100_nyc_streets_will_go_carfree_for_earth_day/i41sq98/>
+
 
 ## Resources {#resources}
 

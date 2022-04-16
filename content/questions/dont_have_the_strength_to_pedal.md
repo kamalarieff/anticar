@@ -32,3 +32,13 @@ In the Netherlands, disabled drivers use these vehicles Canta (vehicle) - Wikipe
 <https://electrek.co/2021/06/29/the-affordable-electric-vehicles-outselling-electric-cars-around-the-world/>
 
 Lots of good links to promote cycling.
+
+
+### The Miniature Microcars of Amsterdam - YouTube - Not Just Bikes {#the-miniature-microcars-of-amsterdam-youtube-not-just-bikes}
+
+<https://www.youtube.com/watch?v=B9ly7JjqEb0>
+
+-   <https://reddit.com/r/fuckcars/comments/u18d2n/fuckcars/i4bn54q/>
+-   <https://reddit.com/r/fuckcars/comments/tzzt33/not_cars_but_still_these_barriers_designed_to/i44bn5o/>
+
+Netherlands has microcars which are suitable for senior citizens and disabled people. There's even one modified so that you can fit an entire wheelchair inside.

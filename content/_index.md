@@ -13,8 +13,6 @@ However, if you want an overview what anti-car dependency is about, you can read
 
 ### Build cities for people, not cars. {#build-cities-for-people-not-cars-dot}
 
-Climate change is upon us. We have to change now or the world will soon be inhabitable.
-
 We don't actually need cars for everything in our daily lives. We should build our city around people not cars. This means better walkability, better bike infrastructure, better public transport.
 
 Cars should be optional, not necessary.
@@ -51,6 +49,12 @@ Cars should be optional, not necessary.
     From this [paper](https://www.researchgate.net/publication/330184791_The_Social_Cost_of_Automobility_Cycling_and_Walking_in_the_European_Union), it said
 
     > Extrapolated to the total number of passenger kilometers driven, cycled or walked in the European Union, the cost of automobility is about €500 billion per year. Due to positive health effects, cycling is an external benefit worth €24 billion/year and walking €66 billion/year.
+
+<!--list-separator-->
+
+-  Car infrastructure makes everything else expensive
+
+    Cars need parking and those "free" parking spaces doesn't actually come free. Those costs are actually being passed over to us in the form of rent, higher shopping prices, etc [[source]​](https://www.bloomberg.com/news/articles/2019-09-20/how-to-reform-your-city-s-bad-parking-requirements).
 
 <!--list-separator-->
 
@@ -100,14 +104,4 @@ We should provide better alternatives to cars. This means that we need to improv
 
 Take away car lanes to build better sidewalks, better bike paths and better bus lanes.
 
-This [research](https://www.researchgate.net/publication/330184791_The_Social_Cost_of_Automobility_Cycling_and_Walking_in_the_European_Union) said,
-
-> Society loses 79 cents per kilometer driven. Society gains 72 cents per kilometer cycled. This is because cycling reduces healthcare costs and sick leave.
-
-Another [research](https://ec.europa.eu/environment/integration/research/newsalert/pdf/transport_transitions_in_copenhagen_418na1_en.pdf) suggested
-
-> Individual and social costs of car travel more than six times those of cycling
-
-Since cars are just heavy metal boxes that are capable of murder, they should yield and make way for pedestrians and cyclists. Give priority to pedestrians and cyclists since they are the most vulnerable users of the road.
-
-Roads belong to all people, not just people with cars.
+There are more of us that subscribe to this idea. Check out the [welcome post](https://www.reddit.com/r/fuckcars/collection/0951e369-a6e5-458c-8b21-55bf57de6b1b) on the [/r/fuckcars](https://www.reddit.com/r/fuckcars) subreddit.

@@ -30,3 +30,12 @@ There are plenty of ways you can bring your groceries around. This is one of the
 <https://www.youtube.com/watch?v=fBK4RSZN1Do>
 
 An excellent video on how people get around the city carrying their kids by using cargo bikes. They get to interact with their kids on the bike. Kids have fun on the bike as well.
+
+
+### Cycling with babies and toddlers in The Netherlands [393] - YouTube - BicycleDutch {#cycling-with-babies-and-toddlers-in-the-netherlands-393-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=SfLJ876lXsQ>
+
+-   <https://reddit.com/r/fuckcars/comments/u2c2s0/looking_for_a_variety_of_resources_i_found_this/i4in270/>
+
+Check out this video of people carrying their babies on their bicycles.

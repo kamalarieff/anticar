@@ -2,7 +2,7 @@
 title = "Cars pollute"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2013
+weight = 2011
 +++
 
 ## (PDF) Tire Abrasion as a Major Source of Microplastics in the Environment {#pdf--tire-abrasion-as-a-major-source-of-microplastics-in-the-environment}
@@ -303,3 +303,49 @@ There's also a handy infographic in the article to show the effects of noise pol
 -   <https://www.reddit.com/r/fuckcars/comments/tj8w0o/long_term_exposure_to_air_pollution_linked_to/>
 
 > Overall, long term exposure to traffic and industrial air pollutants was associated with an approximately 40% higher risk of rheumatoid arthritis, a 20% higher risk of inflammatory bowel disease, and a 15% higher risk of connective tissue diseases.
+
+
+## Pollution warning over car tyre and brake dust - BBC News {#pollution-warning-over-car-tyre-and-brake-dust-bbc-news}
+
+<https://www.bbc.com/news/business-48944561>
+
+-   <https://reddit.com/r/fuckcars/comments/tw000u/i_just_want_some_joy_pls/i3dky8x/>
+
+> The government’s Air Quality Expert Group said particles from brake wear, tyre wear and road surface wear directly contribute to well over half of particle pollution from road transport.
+
+
+## Press Release: Pollution From Tyre Wear 1,000 Times Worse Than Exhaust Emissions — Emissions Analytics {#press-release-pollution-from-tyre-wear-1-000-times-worse-than-exhaust-emissions-emissions-analytics}
+
+<https://www.emissionsanalytics.com/news/pollution-tyre-wear-worse-exhaust-emissions>
+
+-   <https://reddit.com/r/fuckcars/comments/tx4cvp/every_time_i_hear_about_a_walkable_city_a_single/i3kitp2/>
+
+> Pollution from tyre wear can be 1,000 times worse than what comes out of a car’s exhaust, Emissions Analytics has found
+
+<!--quoteend-->
+
+> Harmful particle matter from tyres – and also brakes – is a very serious and growing environmental problem, one that is being exacerbated by the increasing popularity of large, heavy vehicles such as SUVs, and growing demand for electric vehicles, which are heavier than standard cars because of their batteries.
+
+
+## The Hidden Environmental Aspects of Driving {#the-hidden-environmental-aspects-of-driving}
+
+<https://t4america.org/wp-content/uploads/2020/10/Driving-Down-Emissions.pdf#page=9>
+
+-   <https://reddit.com/r/fuckcars/comments/tge24w/emissions_and_the_impact_of_transportation_on/i11axcw/>
+
+{{< figure src="/home/kamalarieff/Dropbox/transportation-org/Pictures/2022-04-10_01:39 hidden aspects of driving.webp" >}}
+
+
+## Differences in cyclists and car drivers exposure to air pollution from traffic in the city of Copenhagen - ScienceDirect {#differences-in-cyclists-and-car-drivers-exposure-to-air-pollution-from-traffic-in-the-city-of-copenhagen-sciencedirect}
+
+<https://www.sciencedirect.com/science/article/abs/pii/S0048969701007586>
+
+-   <https://reddit.com/r/fuckcars/comments/tyvay5/car_drivers_dont_be_insane_challenge_impossible/i3vrulu/>
+
+This is study comparing the exposure of air pollution between cyclists and car drivers. The study found that:
+
+> Even after taking the increased respiration rate of cyclists into consideration, car drivers seem to be more exposed to airborne pollution than cyclists.
+
+<!--quoteend-->
+
+> The concentrations of particles and BTEX in the cabin of the cars were 2–4 times greater than in the cyclists’ breathing zone, the greatest difference being for BTEX.

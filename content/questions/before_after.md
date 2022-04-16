@@ -163,6 +163,13 @@ This is the tweet in Barcelona where it showed the before and after where the af
 <https://www.reddit.com/r/fuckcars/comments/rykncc/oradea_romania_before_and_after/>
 
 
+### Getting rid of cars and improving livability in Oradea, Romania : fuckcars {#getting-rid-of-cars-and-improving-livability-in-oradea-romania-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/syn0xc/getting_rid_of_cars_and_improving_livability_in/>
+
+Before and after pictures in Oradea, Romania.
+
+
 ### City centre of Lisbon: how to convert a car-centric street into a walkable space : fuckcars {#city-centre-of-lisbon-how-to-convert-a-car-centric-street-into-a-walkable-space-fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/s0gjif/city_centre_of_lisbon_how_to_convert_a_carcentric/>
@@ -295,13 +302,6 @@ Ljubljana Is a city that has been car free for decades. Since the city banned ca
 -   <https://reddit.com/r/fuckcars/comments/syqgbn/but_we_have_a_vision_zero_program/hxz4k08/>
 
 
-### Getting rid of cars and improving livability in Oradea, Romania : fuckcars {#getting-rid-of-cars-and-improving-livability-in-oradea-romania-fuckcars}
-
-<https://www.reddit.com/r/fuckcars/comments/syn0xc/getting_rid_of_cars_and_improving_livability_in/>
-
-Before and after pictures in Oradea, Romania.
-
-
 ### This does put a smile on my face : fuckcars {#this-does-put-a-smile-on-my-face-fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/szb59r/this_does_put_a_smile_on_my_face/>
@@ -364,3 +364,45 @@ Miami, Florida.
 <https://www.reddit.com/r/fuckcars/comments/tg87ox/this_is_what_a_good_town_should_look_like_no_cars/>
 
 Udine, Italy.
+
+
+### The Only\* Car-Free Neighbourhood in Canada (and why you can't live there) - YouTube - Not Just Bikes {#the-only-car-free-neighbourhood-in-canada--and-why-you-can-t-live-there--youtube-not-just-bikes}
+
+<https://www.youtube.com/watch?v=VWDFgzAjr1k>
+
+This video has an example of a car free town in Canada. Further in the video, he explored the concept of Autoluw, which means less cars.
+
+
+### Liverpool bold street before and after, you tell me what's better for the people. : fuckcars {#liverpool-bold-street-before-and-after-you-tell-me-what-s-better-for-the-people-dot-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/tyb7pm/liverpool_bold_street_before_and_after_you_tell/>
+
+A picture of a street in Liverpool showing before and after removing cars.
+
+
+### Vredenburg, Utrecht. Busiest cycle path in the Netherlands [545] - YouTube - BicycleDutch {#vredenburg-utrecht-dot-busiest-cycle-path-in-the-netherlands-545-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=2RQrKP9a0XE>
+
+-   <https://reddit.com/r/fuckcars/comments/tw830u/but_muh_car/i3eiqtb/>
+
+See how the busiest cycle path in the Netherlands operates. If everyone here was in a car, you would have traffic jams for miles.
+
+
+### UC Davis Rush Hour Biking Timelapse - YouTube {#uc-davis-rush-hour-biking-timelapse-youtube}
+
+<https://www.youtube.com/watch?v=VIozaQehIVs>
+
+-   <https://reddit.com/r/fuckcars/comments/t2lkdu/its_not_my_responsibility_as_a_truck_driver_to/hyn6o8m/>
+
+Look what happens when there's no cars around. People can freely and safely ride bikes.
+
+
+### Amsterdam, Museumplein : fuckcars {#amsterdam-museumplein-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/u24xf4/amsterdam_museumplein/>
+
+
+### Went to Freiburg, DE for the first time. No cars allowed in the city center, just the tram and people walking in the streets. Cars aren’t allowed to drive more than 30 km/h. So peaceful, so serene, so much life. Exactly how a a city with 200,000+ ppl should be : fuckcars {#went-to-freiburg-de-for-the-first-time-dot-no-cars-allowed-in-the-city-center-just-the-tram-and-people-walking-in-the-streets-dot-cars-aren-t-allowed-to-drive-more-than-30-km-h-dot-so-peaceful-so-serene-so-much-life-dot-exactly-how-a-a-city-with-200-000-plus-ppl-should-be-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/u28edj/went_to_freiburg_de_for_the_first_time_no_cars/>

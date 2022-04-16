@@ -55,7 +55,7 @@ A lot of good points about why cars are bad. But the point of the article is to 
 
 ### The Pandemic Might Have Redesigned Cities Forever | WIRED {#the-pandemic-might-have-redesigned-cities-forever-wired}
 
-<https://www.wired.com/story/the-pandemic-might-have-redesigned-cities-forever/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits>
+<https://www.wired.com/story/the-pandemic-might-have-redesigned-cities-forever>
 
 This is also an article that lists out what's wrong with cars. It also included a section about how other cities are moving away from car-centric infrastructure. A lot of links in this article. I'm sure all of them are good. I just haven't had the time to review them.
 
@@ -73,7 +73,7 @@ This is a good one. It goes through the 5 stages of grief. The first part is the
 
 <https://t4america.org/2021/10/20/say-hello-to-induced-demand/?eType=EmailBlastContent&eId=f9575ab2-a2d1-4ec8-ae29-039b89c9baca>
 
--   <https://www.curbed.com/2021/12/colorado-department-transportation-highways-funding-emissions-climate.html?utm_source=facebook&utm_medium=social&utm_campaign=curbed.socialflow&utm_content=curbed>
+-   <https://www.curbed.com/2021/12/colorado-department-transportation-highways-funding-emissions-climate.html>
 -   <https://www.reddit.com/r/fuckcars/comments/rw8uxs/one_state_is_showing_us_how_to_end_americas/>
 -   <https://www.reddit.com/r/fuckcars/comments/rwhld3/bravo_colorado_ending_addiction_to_highways/>
 

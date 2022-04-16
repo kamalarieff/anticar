@@ -2,7 +2,7 @@
 title = "Books"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2052
+weight = 2044
 +++
 
 -   <https://www.reddit.com/r/fuckcars/comments/r17sup/anyone_else_wish_they_took_the_blue_pill/hlzzmvm/>
@@ -10,6 +10,7 @@ weight = 2052
 -   <https://www.reddit.com/r/fuckcars/comments/rj813o/happy_50k_heres_my_book_collection_so_far/>
 -   <https://www.reddit.com/r/fuckcars/comments/rm7egk/the_book_that_taught_me_to_see_what_cars_cost_us/>
 -   <https://www.reddit.com/r/fuckcars/comments/s6n740/fuck_cars_read_books/>
+-   <https://reddit.com/r/fuckcars/comments/u445xm/car_equipped_with_safety_scoop_1930s/i4tz532/>
 
 | Author                                            | Title                                                                                                                                           |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -62,3 +63,4 @@ weight = 2052
 | Robert Davis                                      | Death on the streets: Cars and the mythology of road safety                                                                                     |
 | Darren McGarvey                                   | Poverty Safari: Understanding the Anger of Britain's Underclass                                                                                 |
 | Ken Greenberg                                     | Walking Home: The Life and Lessons of a City Builder                                                                                            |
+| Jesse Singer                                      | There Are No Accidents: The Deadly Rise of Injury and Disaster―Who Profits and Who Pays the Price                                               |

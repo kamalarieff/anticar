@@ -103,3 +103,27 @@ From the article,
 > They found that for every 1 percent increase in highway capacity, traffic increases 0.29 to 1.1 percent in the long term (about five years out), and up to 0.68 percent in the short term (one or two years). One recent study found a one-to-one relationship between new highway lane capacity and traffic increases.
 
 Hence, adding new lanes is never a good long term solution.
+
+
+### How highways make traffic worse - YouTube - Vox {#how-highways-make-traffic-worse-youtube-vox}
+
+<https://www.youtube.com/watch?v=2z7o3sRxA5g>
+
+-   <https://reddit.com/r/fuckcars/comments/u0l458/road_widening_makes_it_worse/i46onye/>
+
+When Houston added more lanes to their Katy Freeway, traffic got worse.
+
+
+### What's Up With That: Building Bigger Roads Actually Makes Traffic Worse | WIRED {#what-s-up-with-that-building-bigger-roads-actually-makes-traffic-worse-wired}
+
+<https://www.wired.com/2014/06/wuwt-traffic-induced-demand/>
+
+-   <https://reddit.com/r/fuckcars/comments/u0l458/road_widening_makes_it_worse/i47878n/>
+
+They found that:
+
+> If a city had increased its road capacity by 10 percent between 1980 and 1990, then the amount of driving in that city went up by 10 percent. If the amount of roads in the same city then went up by 11 percent between 1990 and 2000, the total number of miles driven also went up by 11 percent. It’s like the two figures were moving in perfect lockstep, changing at the same exact rate.
+
+it is a one-to-one relationship.
+
+Other ways to reduce traffic is to introduce congestion pricing and reducing free parking.

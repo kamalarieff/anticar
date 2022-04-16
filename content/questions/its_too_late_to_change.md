@@ -5,7 +5,13 @@ draft = false
 weight = 18
 +++
 
-No it's not. Netherlands was heavily car cultured 30 years ago. Look where they are now.
+No it's not. Netherlands was heavily car cultured 30 years ago.
+
+This was Amsterdam in the 70s.
+
+{{< figure src="/ox-hugo/2022-04-06_00:48 amsterdam 70s.jpg" >}}
+
+Look where they are now.
 
 
 ## Resources {#resources}
@@ -64,3 +70,13 @@ Take it slowly like The Netherlands did in 1973. They introduced car free Sunday
 -   <https://reddit.com/r/fuckcars/comments/t83z4n/i_hate_both_of_them/hzlzt7q/>
 
 Amsterdam planned to be a car-centric city in the 1970s. But the oil crisis and a protest stopped that.
+
+
+### How did the Dutch get their cycle paths? - YouTube - BicycleDutch {#how-did-the-dutch-get-their-cycle-paths-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=SYHz93HXJFQ>
+
+-   <https://reddit.com/r/fuckcars/comments/u27yaz/how_the_dutch_got_their_cycle_paths/i4h14u8/>
+-   <https://reddit.com/r/fuckcars/comments/tzqp0e/a_city_designed_around_driving_doesnt_work_for/i421ij5/>
+
+A short summary of how the Dutch got their cycle paths starting with a little bit of history. It wasn't always that way in the Netherlands but they protested for safer streets. And look where they are now.

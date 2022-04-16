@@ -26,6 +26,7 @@ It has the same style like mine where it answers questions.
 <https://www.npr.org/2016/10/16/496865680/6-things-you-need-to-know-about-cycling-on-the-sidewalk>
 
 -   <https://reddit.com/r/fuckcars/comments/t0g8ca/why_cant_bicylists_ride_on_the_sidewalk/hy9lz2k/>
+-   <https://reddit.com/r/fuckcars/comments/tvyy0l/make_a_space_for_bicycles/i3dk5ql/>
 
 > Bicyclists feel safer, but pedestrians feel endangered.
 
