@@ -282,5 +282,19 @@ Here is an infographic on why we need cycle lanes.
 
 -   <https://bicycledutch.wordpress.com/2012/12/06/who-else-benefits-from-the-dutch-cycling-infrastructure/>
 -   <https://reddit.com/r/fuckcars/comments/tzzt33/not_cars_but_still_these_barriers_designed_to/i4655ex/>
+-   <https://www.reddit.com/r/fuckcars/comments/u5dg2k/serious_i_am_disabled_what_are_some_ways_i_could/i5328qp/>
 
 Able bodied people, senior citizens, children, disabled people are all able to use the great cycling infrastructure in the Netherlands. These cycling paths also allow mobility scooters to use them. It's very safe because they're protected from the car lanes.
+
+
+### Why cities with high bicycling rates are safer for all road users - ScienceDirect {#why-cities-with-high-bicycling-rates-are-safer-for-all-road-users-sciencedirect}
+
+<https://www.sciencedirect.com/science/article/abs/pii/S2214140518301488?via%3Dihub>
+
+-   <https://reddit.com/r/fuckcars/comments/u10u3f/studies/i4alit0/>
+
+> Despite bicycling being considered ten times more dangerous than driving, the evidence suggests that high-bicycling-mode-share cities are not only safer for bicyclists but for all road users.
+
+This is because:
+
+> Better safety outcomes are instead associated with a greater prevalence of bike facilities – particularly protected and separated bike facilities – at the block group level and, more strongly so, across the overall city. Higher intersection density, which typically corresponds to more compact and lower-speed built environments, was strongly associated with better road safety outcomes for all road users

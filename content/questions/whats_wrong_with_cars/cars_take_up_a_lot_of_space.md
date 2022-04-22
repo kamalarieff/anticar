@@ -107,3 +107,14 @@ An opinion piece by author of Human Transit, Jarrett Walker. His facts are reall
 {{< figure src="/ox-hugo/2022-04-10_01:44 5 modes of transport with 200 people each.jpg" >}}
 
 {{< figure src="/ox-hugo/2022-04-10_01:45 50 people in 4 different modes of transport.png" >}}
+
+
+## The Arrogance of Space in Urbanism - YouTube - The Life-Sized City {#the-arrogance-of-space-in-urbanism-youtube-the-life-sized-city}
+
+<https://www.youtube.com/watch?v=CfXP6KOVBOY>
+
+-   <https://reddit.com/r/fuckcars/comments/tfuos6/the_arrogance_of_space/i10ctvw/>
+
+When he looked down from the Eiffel Tower, he saw how much space cars take. Lanes are wider than they have to be [4:26], wide enough that you can fit a bike lane in there if you do some road diet. Unused space when cars take a corner [6:09].
+
+He shared a tool where you can highlight how much space cars take <https://cyklokoalicia.sk/arrogance/>.

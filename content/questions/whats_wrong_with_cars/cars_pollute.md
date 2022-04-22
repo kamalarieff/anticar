@@ -349,3 +349,23 @@ This is study comparing the exposure of air pollution between cyclists and car d
 <!--quoteend-->
 
 > The concentrations of particles and BTEX in the cabin of the cars were 2–4 times greater than in the cyclists’ breathing zone, the greatest difference being for BTEX.
+
+
+## Good to Go? Assessing the Environmental Performance of New Mobility | ITF {#good-to-go-assessing-the-environmental-performance-of-new-mobility-itf}
+
+<https://www.itf-oecd.org/good-go-assessing-environmental-performance-new-mobility>
+
+-   <https://www.reddit.com/r/fuckcars/comments/u90qa0/good_to_go_assessing_the_environmental/>
+
+Look how much energy cars uses compared to bikes, trains, buses and e-scooters.
+
+{{< figure src="/ox-hugo/2022-04-23_04:58 environmental impacts of various mode of transport.webp" >}}
+
+
+## Transport noise linked to increased risk of dementia, study finds | Dementia | The Guardian {#transport-noise-linked-to-increased-risk-of-dementia-study-finds-dementia-the-guardian}
+
+<https://www.theguardian.com/society/2021/sep/09/transport-noise-linked-to-increased-risk-of-dementia-study-finds>
+
+-   <https://reddit.com/r/fuckcars/comments/u8m74f/health_impacts_of_automobility/i5makbe/>
+
+A study involving two million adults, conducted over more than a decade, has concluded that people living in areas with transport noise face a higher risk of dementia, especially Alzheimer’s disease.

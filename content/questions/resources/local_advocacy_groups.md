@@ -148,3 +148,19 @@ A link of links for the people in Charlotte NC.
 <https://albanybicyclecoalition.com/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/u1fe5n/i_want_to_talk_to_my_city_council_about_public/i4c3k29/>
+
+
+## Better Streets Chicago {#better-streets-chicago}
+
+<https://www.betterstreetschicago.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/u5nsqt/yup/i5366kc/>
+
+Better Streets Chicago is a transit advocacy organization made up of Chicagoans looking to the streets to make Chicago more livable, equitable and safe. We believe that providing safe and efficient mobility options to all Chicagoans is within the city’s reach — and we’re here to help make it happen.
+
+
+## Asheville on Bikes | Bicycle &amp; Multimodal Advocacy, Events &amp; Education {#asheville-on-bikes-bicycle-and-multimodal-advocacy-events-and-education}
+
+<https://ashevilleonbikes.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/u7802e/change_is_possible_even_in_the_most_carcentric/i5dn14y/>

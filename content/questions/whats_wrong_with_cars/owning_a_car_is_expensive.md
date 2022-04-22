@@ -125,10 +125,16 @@ Other cities are mentioned in the article too.
 <https://www.sciencedirect.com/science/article/pii/S0921800921003943>
 
 -   <https://www.reddit.com/r/fuckcars/comments/sh0mvi/save_money/hv03tf7/>
+-   <https://www.forbes.com/sites/carltonreid/2022/02/04/lifetime-cost-of-small-car-689000-society-subsidises-this-ownership-with-275000/?sh=5c6ed5366398>
+-   <https://reddit.com/r/fuckcars/comments/u7uei1/i_dont_want_my_tax_dollars_subsidizing_cars/i5igaj0/>
 
 > For the typical German travel distance of 15,000 car kilometers per year, the total lifetime cost of car ownership (50 years) ranges between €599,082 for an Opel Corsa to €956,798 for a Mercedes GLC.
 
 This is unfair to those who cannot afford private vehicles.
+
+> Lifetime Cost Of Small Car $689,000; Society Subsidizes This Ownership With $275,000
+
+Not only the car is expensive, but you're not even paying for it. Society pays some of it for you.
 
 
 ## What Is the True Cost of Car Ownership? {#what-is-the-true-cost-of-car-ownership}

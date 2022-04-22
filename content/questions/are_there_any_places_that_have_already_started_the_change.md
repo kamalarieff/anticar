@@ -108,6 +108,15 @@ Hagastaden planning to build one of Stockholm’s largest urban development area
 This is a video of Brussels turning a stroad into a people focused space. Notice how quiet it is.
 
 
+### 30 km/h everywhere - Brussels {#30-km-h-everywhere-brussels}
+
+<https://city30.brussels/>
+
+-   <https://reddit.com/r/fuckcars/comments/u6gtln/dont_let_speed_transform_you_into_a_monster/i583qum/>
+
+Slower streets mean safer streets.
+
+
 ### Streets in Mumbai's #BKC are being redesigned to encourage walking &amp; cycling. {#streets-in-mumbai-s-bkc-are-being-redesigned-to-encourage-walking-and-cycling-dot}
 
 <https://twitter.com/nihart1024/status/1474954279584616448>

@@ -158,3 +158,16 @@ In this study, they found that:
 3.  Visitors to the Danforth would prefer to see widened sidewalks, bike lanes, less onstreet parking and an increase in off-street parking. Merchants, however, generally preferred no changes to the current street allocation, or an increase in parking.
 
 They also found that the majority (81%) of the visitors to Danforth Avenue use public transit, walk, cycle or take taxicabs.
+
+
+### Pedestrianised Streets &amp; Urban Wellbeing: the Case of Church Street, Bengaluru | BYCS {#pedestrianised-streets-and-urban-wellbeing-the-case-of-church-street-bengaluru-bycs}
+
+<https://bycs.org/church-street-bengaluru/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/u6gu5m/til_when_bangalore_in_india_decided_to_make_one>
+
+Church Street in Bengaluru is closed for vehicular traffic every Saturday and Sunday from 10:00 AM to midnight between November 2020 and April 2021.
+
+Here are the results from this project:
+
+> 70% of shop owners stated that pedestrianisation was a good idea. More than 50% of restaurant and shop owners noted an increase in customer footfall.

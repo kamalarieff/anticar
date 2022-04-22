@@ -9,7 +9,7 @@ The time wasted in congestion costs $1,622 for the average Chicago driver and $5
 
 Check out this [GIF](https://twitter.com/metrolosangeles/status/1153807208229957632) on how buses transport more people than cars.
 
-Top Gear made a video on which form of transport is the fastest in London. It's no surprise that cars come dead last <a href="#citeproc_bib_item_5">[5]</a>.
+Top Gear made a video on which form of transport is the fastest in London. It's no surprise that cars come dead last <a href="#citeproc_bib_item_5">[5]</a>. Here's another video where it's a race between cars, bike and public transport where the car comes last <a href="#citeproc_bib_item_6">[6]</a>.
 
 ## Bibliography
 
@@ -29,5 +29,8 @@ Top Gear made a video on which form of transport is the fastest in London. It's 
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_5"></a>
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Top Gear, “HIGHLIGHTS: The Stig, Hammond, May and Clarkson Cross-London Race | Top Gear.” Nov. 2008. <a href="https://www.youtube.com/watch?v=CkOzNK4l8KY">https://www.youtube.com/watch?v=CkOzNK4l8KY</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">Electroheads, “What’s the FASTEST way across London? Car v.s. Bike v.s. Tube.” Jul. 2021. <a href="https://www.youtube.com/watch?v=C8a7Tnd28F8">https://www.youtube.com/watch?v=C8a7Tnd28F8</a></div>
   </div>
 </div>

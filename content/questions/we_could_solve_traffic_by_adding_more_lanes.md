@@ -38,7 +38,8 @@ A lot of numbers in the first referrer article. $500 billion dollars was used to
 
 <https://cityobservatory.org/reducing-congestion-katy-didnt/>
 
-<https://www.reddit.com/r/comics/comments/rgayyc/add_cars_to_the_list_of_things_i_cant_draw_lol/honf1bo/>
+-   <https://www.reddit.com/r/comics/comments/rgayyc/add_cars_to_the_list_of_things_i_cant_draw_lol/honf1bo/>
+-   <https://reddit.com/r/fuckcars/comments/u9hks1/american_tax_money_will_be_going_to_cars_and/i5rppgp/>
 
 The Katy Freeway in Houston had gotten worse after adding more lanes.
 
@@ -127,3 +128,12 @@ They found that:
 it is a one-to-one relationship.
 
 Other ways to reduce traffic is to introduce congestion pricing and reducing free parking.
+
+
+### The World’s Widest Highway Spans a Whopping 26 Lanes | Condé Nast Traveler {#the-world-s-widest-highway-spans-a-whopping-26-lanes-condé-nast-traveler}
+
+<https://www.cntraveler.com/story/the-worlds-widest-highway-spans-a-whopping-26-lanes>
+
+-   <https://reddit.com/r/fuckcars/comments/tzqp0e/a_city_designed_around_driving_doesnt_work_for/i41gere/>
+
+> After the widening of the Katy Freeway, morning and evening travel times along the route actually increased by 30 and 55 percent, respectively.

@@ -39,3 +39,12 @@ An excellent video on how people get around the city carrying their kids by usin
 -   <https://reddit.com/r/fuckcars/comments/u2c2s0/looking_for_a_variety_of_resources_i_found_this/i4in270/>
 
 Check out this video of people carrying their babies on their bicycles.
+
+
+### 3 kids, 2 wheels, 1 supermum in Amsterdam - YouTube - kurtigabor {#3-kids-2-wheels-1-supermum-in-amsterdam-youtube-kurtigabor}
+
+<https://youtu.be/FLRrA-rKY-Q>
+
+-   <https://reddit.com/r/fuckcars/comments/u5xgsg/another_typical_dutch_garage/i56h3og/>
+
+This mum takes her three kids around on a bike.

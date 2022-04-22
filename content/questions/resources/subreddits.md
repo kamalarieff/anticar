@@ -157,7 +157,7 @@ This is basically the sub to go to when you have questions like "But how do I cy
 
 <https://www.reddit.com/r/fuckcarsRomania/>
 
--   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x>
 
 Romania's version of fuck cars.
 
@@ -166,7 +166,7 @@ Romania's version of fuck cars.
 
 <https://www.reddit.com/r/EnculerLesVoitures/>
 
--   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x>
 
 France's version of fuck cars.
 
@@ -175,7 +175,7 @@ France's version of fuck cars.
 
 <https://www.reddit.com/r/autobloed/>
 
--   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x/?utm_source=share&utm_medium=web2x&context=3>
+-   <https://www.reddit.com/r/fuckcars/comments/tx7gnv/comment/i3jyr2x>
 
 Germany's version of fuck cars.
 

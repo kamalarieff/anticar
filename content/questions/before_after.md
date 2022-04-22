@@ -389,7 +389,7 @@ A picture of a street in Liverpool showing before and after removing cars.
 See how the busiest cycle path in the Netherlands operates. If everyone here was in a car, you would have traffic jams for miles.
 
 
-### UC Davis Rush Hour Biking Timelapse - YouTube {#uc-davis-rush-hour-biking-timelapse-youtube}
+### UC Davis Rush Hour Biking Timelapse - YouTube - Wignall Enterprises {#uc-davis-rush-hour-biking-timelapse-youtube-wignall-enterprises}
 
 <https://www.youtube.com/watch?v=VIozaQehIVs>
 
@@ -406,3 +406,10 @@ Look what happens when there's no cars around. People can freely and safely ride
 ### Went to Freiburg, DE for the first time. No cars allowed in the city center, just the tram and people walking in the streets. Cars aren’t allowed to drive more than 30 km/h. So peaceful, so serene, so much life. Exactly how a a city with 200,000+ ppl should be : fuckcars {#went-to-freiburg-de-for-the-first-time-dot-no-cars-allowed-in-the-city-center-just-the-tram-and-people-walking-in-the-streets-dot-cars-aren-t-allowed-to-drive-more-than-30-km-h-dot-so-peaceful-so-serene-so-much-life-dot-exactly-how-a-a-city-with-200-000-plus-ppl-should-be-fuckcars}
 
 <https://www.reddit.com/r/fuckcars/comments/u28edj/went_to_freiburg_de_for_the_first_time_no_cars/>
+
+
+### Transformation of a freeway in Seoul in 2003. Ahead of its time. : fuckcars {#transformation-of-a-freeway-in-seoul-in-2003-dot-ahead-of-its-time-dot-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/u5h4hy/transformation_of_a_freeway_in_seoul_in_2003/>
+
+Removing a road to make way for a canal. Even after removing those lanes, there is still a lot of people [visiting the place](https://youtu.be/4-YN26TDAhY?t=59).

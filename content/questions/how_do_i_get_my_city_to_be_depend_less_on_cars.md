@@ -114,6 +114,12 @@ Public support car-free days in towns and cities | Latest news
 
 -   <https://reddit.com/r/fuckcars/comments/tzwb9c/100_nyc_streets_will_go_carfree_for_earth_day/i41sq98/>
 
+You can also join Strong Town's local conversations. You can find one nearest to you in this map.
+
+<https://actionlab.strongtowns.org/hc/en-us/articles/360054839451-Local-Conversations-Map>
+
+-   <https://www.reddit.com/r/fuckcars/comments/u514i5/cardependent_zoning_go_brrrr/i50nyrb/>
+
 
 ## Resources {#resources}
 

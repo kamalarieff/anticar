@@ -84,3 +84,25 @@ Electric cars are better than gas powered cars, but they're still cars. Sure it'
 -   <https://reddit.com/r/fuckcars/comments/tggxee/of_all_the_vehicle_manufactures_to_hate_why_elon/i11zztz/>
 
 Tesla recalled more than 475,000 of its Model 3 and Model S electric cars to address rearview camera and trunk issues that increase the risk of crashing.
+
+
+### Electric Vehicles' Battery Problem - YouTube - Wendover Productions {#electric-vehicles-battery-problem-youtube-wendover-productions}
+
+<https://youtu.be/9dnN82DsQ2k>
+
+-   <https://reddit.com/r/fuckcars/comments/taqogz/please_god_let_it_happen/i045u4v/>
+-   <https://reddit.com/r/fuckcars/comments/tk4ptp/fuck_electric_cars_too/i1pbi89/>
+
+Electric vehicles require lithium. But there's no green way to mine lithium. Someone somewhere will pay the effects of these mining [4:45]. You also need cobalt to build the battery tech and these are mined unethically in the Republic of Congo.
+
+The only way to not require these type of minerals is to not have electric vehicles be our solution. We need to shift our focus to public transportation, walkability and bikability.
+
+
+### Why Electric Cars Won't Save Us - YouTube - Our Changing Climate {#why-electric-cars-won-t-save-us-youtube-our-changing-climate}
+
+<https://www.youtube.com/watch?v=vn9Vl0G53lA>
+
+-   <https://reddit.com/r/fuckcars/comments/u2q2hf/how_do_you_do_fellow_gen_z_and_angry_anarchists/i4l1toy/>
+-   <https://www.reddit.com/r/fuckcars/comments/u5taov/electric_cars_are_not_the_way_spread_the_word/>
+
+If every internal combustion engine car is converted to electric cars, you would need to mine a lot more lithium, cobalt and copper. These mining introduces a lot of environmental problems as well. The better way to solve the climate crisis is to move towards public transportation, walkability and bikability. These public transportation needs to be affordable and extensive.

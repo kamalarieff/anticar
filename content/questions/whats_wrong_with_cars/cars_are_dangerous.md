@@ -5,6 +5,45 @@ draft = false
 weight = 2009
 +++
 
+## Global Road Safety | CDC {#global-road-safety-cdc}
+
+<https://www.cdc.gov/injury/features/global-road-safety/index.html>
+
+-   <https://reddit.com/r/fuckcars/comments/sxa3r8/motor_vehicle_traffic_crashes_are_the_leading/hxqs7a8/>
+
+Death numbers globally.
+
+> Road traffic crashes are a leading cause of death in the United States for people aged 1–54,1 and they are the leading cause of nonnatural death for U.S. citizens residing or traveling abroad.
+
+<!--quoteend-->
+
+> Each year, 1.35 million people are killed on roadways around the world.
+
+<!--quoteend-->
+
+> Every day, almost 3,700 people are killed globally in crashes involving cars, buses, motorcycles, bicycles, trucks, or pedestrians. More than half of those killed are pedestrians, motorcyclists, or cyclists.
+
+<!--quoteend-->
+
+> Crash injuries are estimated to be the eighth leading cause of death globally for all age groups and the leading cause of death for children and young people 5–29 years of age. More people now die in crashes than from HIV/AIDS.
+
+This is supported by <a href="#citeproc_bib_item_1">[1]</a> <a href="#citeproc_bib_item_2">[2]</a>.
+
+### Bibliography
+
+<style>.csl-left-margin{float: left; padding-right: 0em;}
+ .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">WHO, “Road traffic injuries,” <i>Road traffic injuries</i>. <a href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries">https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">United Nations, “With 1.3 million annual road deaths, UN wants to halve number by 2030,” <i>Un news</i>. Dec. 2021. <a href="https://news.un.org/en/story/2021/12/1107152">https://news.un.org/en/story/2021/12/1107152</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Injury Facts by NSC, “Deaths by Transportation Mode,” <i>Injury facts</i>. <a href="https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/">https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/</a></div>
+  </div>
+</div>
+
 ## Here’s How Much Safer Transit Is Compared to Driving – Streetsblog USA {#here-s-how-much-safer-transit-is-compared-to-driving-streetsblog-usa}
 
 <https://usa.streetsblog.org/2014/12/19/heres-how-much-safer-transit-is-compared-to-driving/>
@@ -18,6 +57,23 @@ People always has this perception that public transit is unsafe but that's furth
 <!--quoteend-->
 
 > In media coverage and in transit agencies’ own public messaging campaigns, transit is often linked to the threat of terrorism, but internationally, Litman notes, about 360 times more people are killed in auto collisions than in incidents of terrorism.
+
+This is further supported in <a href="#citeproc_bib_item_3">[3]</a> where over the last 10 years, passenger vehicle death rate per 100,000,000 passenger miles was over 9 times higher than for buses, 17 times higher than for passenger trains, and 1,606 times higher than for scheduled airlines.
+
+### Bibliography
+
+<style>.csl-left-margin{float: left; padding-right: 0em;}
+ .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">WHO, “Road traffic injuries,” <i>Road traffic injuries</i>. <a href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries">https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">United Nations, “With 1.3 million annual road deaths, UN wants to halve number by 2030,” <i>Un news</i>. Dec. 2021. <a href="https://news.un.org/en/story/2021/12/1107152">https://news.un.org/en/story/2021/12/1107152</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Injury Facts by NSC, “Deaths by Transportation Mode,” <i>Injury facts</i>. <a href="https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/">https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/</a></div>
+  </div>
+</div>
 
 
 ## GRIPE SESSION: Departing Council Member Cumbo Gives Parting Gift to Car Owners – Streetsblog New York City {#gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners-streetsblog-new-york-city}
@@ -267,29 +323,6 @@ Even when people are driving less, traffic fatalities still increased. People ar
 Those dangerous front blind zone on SUVs has contributed to hundreds of deaths and thousands of injuries of children.
 
 
-## Global Road Safety | CDC {#global-road-safety-cdc}
-
-<https://www.cdc.gov/injury/features/global-road-safety/index.html>
-
--   <https://reddit.com/r/fuckcars/comments/sxa3r8/motor_vehicle_traffic_crashes_are_the_leading/hxqs7a8/>
-
-Death numbers globally.
-
-> Road traffic crashes are a leading cause of death in the United States for people aged 1–54,1 and they are the leading cause of nonnatural death for U.S. citizens residing or traveling abroad.
-
-<!--quoteend-->
-
-> Each year, 1.35 million people are killed on roadways around the world.
-
-<!--quoteend-->
-
-> Every day, almost 3,700 people are killed globally in crashes involving cars, buses, motorcycles, bicycles, trucks, or pedestrians. More than half of those killed are pedestrians, motorcyclists, or cyclists.
-
-<!--quoteend-->
-
-> Crash injuries are estimated to be the eighth leading cause of death globally for all age groups and the leading cause of death for children and young people 5–29 years of age. More people now die in crashes than from HIV/AIDS.
-
-
 ## 1 adult, 2 children in a stroller struck by car in Montgomery Co. | WTOP News {#1-adult-2-children-in-a-stroller-struck-by-car-in-montgomery-co-dot-wtop-news}
 
 <https://wtop.com/montgomery-county/2022/02/1-adult-2-children-in-a-stroller-struck-by-car-in-montgomery-co/>
@@ -302,3 +335,10 @@ Death numbers globally.
 <https://www.abc.net.au/news/2022-03-20/six-killed-as-car-runs-into-carnival-revellers-in-belgium/100925606>
 
 -   <https://www.reddit.com/r/fuckcars/comments/tirw76/cars_kill_people/>
+
+
+## ‘Not at peace’: Single mother of 3 killed by alleged drunk driver | WGN-TV {#not-at-peace-single-mother-of-3-killed-by-alleged-drunk-driver-wgn-tv}
+
+<https://wgntv.com/news/chicagocrime/not-at-peace-single-mother-of-3-killed-by-alleged-drunk-driver/>
+
+-   <https://reddit.com/r/fuckcars/comments/u9aaol/horrifying_reminder_cars_are_death_machines/i5q7n5g/>

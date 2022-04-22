@@ -16,11 +16,11 @@ Once the infrastructure for cars gets bad enough, they're entirely useless. This
 
 > The city’s mayor, John Tory, warned on Tuesday that it would take days to get the roads fully cleared, and 600 road plows, 360 sidewalk plows and 200 salt trucks were deployed.
 
-Many people with disablities are unable to drive <a href="#citeproc_bib_item_3">[3]</a>. But they can use their mobility scooters on the pedestrian paths and bike lanes.
+Many people with disablities are unable to drive <a href="#citeproc_bib_item_3">[3]</a>. In fact, 26% of adults in the United States have some type of disability <a href="#citeproc_bib_item_4">[4]</a>. But they can use their mobility scooters on the pedestrian paths and bike lanes as shown in this video <a href="#citeproc_bib_item_5">[5]</a>.
 
-Car infrastructure is not equitable for everyone. It hurts the poor more than the rich. Everyone pays for roads even if they don't drive <a href="#citeproc_bib_item_4">[4]</a>.
+Car infrastructure is not equitable for everyone. It hurts the poor more than the rich. Everyone pays for roads even if they don't drive <a href="#citeproc_bib_item_6">[6]</a>.
 
-Even when cities try to accommodate for pedestrians by building pedestrian bridges, they are still inaccessible because these bridges are typically built with steep stairs or steep sloped ramps which are particularly challenging for people with disabilities, children, the elderly, and anyone carrying goods <a href="#citeproc_bib_item_5">[5]</a>. Not too mention that they are costly to build and maintain <a href="#citeproc_bib_item_5">[5]</a>. And when you lay them flat, they're actually longer than a pedestrian crossing.
+Even when cities try to accommodate for pedestrians by building pedestrian bridges, they are still inaccessible because these bridges are typically built with steep stairs or steep sloped ramps which are particularly challenging for people with disabilities, children, the elderly, and anyone carrying goods <a href="#citeproc_bib_item_7">[7]</a>. Not too mention that they are costly to build and maintain <a href="#citeproc_bib_item_7">[7]</a>. And when you lay them flat, they're actually longer than a pedestrian crossing.
 
 {{< figure src="/ox-hugo/2022-04-10_02:07 pedestrian crossing length.jpg" >}}
 
@@ -38,9 +38,15 @@ Even when cities try to accommodate for pedestrians by building pedestrian bridg
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">“A thought on disability and transportation infrastructure bhtooefr.org.” <a href="https://bhtooefr.org/blog/2022/02/05/a-thought-on-disability-and-transportation-infrastructure/">https://bhtooefr.org/blog/2022/02/05/a-thought-on-disability-and-transportation-infrastructure/</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>
-    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">“Toll roads hurt the poor?,” <i>Strong towns</i>. <a href="https://www.strongtowns.org/journal/2017/3/7/toll-roads-hurt-the-poor">https://www.strongtowns.org/journal/2017/3/7/toll-roads-hurt-the-poor</a></div>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">CDC, “Disability Impacts All of Us Infographic | CDC,” <i>Centers for disease control and prevention</i>. Mar. 2019. <a href="https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html">https://www.cdc.gov/ncbddd/disabilityandhealth/infographic-disability-impacts-all.html</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_5"></a>
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">“Pedestrian Bridges Make Cities Less Walkable. Why Do Cities Keep Building Them?,” <i>Institute for transportation and development policy</i>. Oct. 2019. <a href="https://www.itdp.org/2019/10/01/pedestrian-bridges-make-cities-less-walkable-why-do-cities-keep-building-them/">https://www.itdp.org/2019/10/01/pedestrian-bridges-make-cities-less-walkable-why-do-cities-keep-building-them/</a></div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">BicycleDutch, “Who else benefits from the Dutch cycling infrastructure [231].” Dec. 2012. <a href="https://www.youtube.com/watch?v=xSGx3HSjKDo">https://www.youtube.com/watch?v=xSGx3HSjKDo</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">“Toll roads hurt the poor?,” <i>Strong towns</i>. <a href="https://www.strongtowns.org/journal/2017/3/7/toll-roads-hurt-the-poor">https://www.strongtowns.org/journal/2017/3/7/toll-roads-hurt-the-poor</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>
+    <div class="csl-left-margin">[7]</div><div class="csl-right-inline">“Pedestrian Bridges Make Cities Less Walkable. Why Do Cities Keep Building Them?,” <i>Institute for transportation and development policy</i>. Oct. 2019. <a href="https://www.itdp.org/2019/10/01/pedestrian-bridges-make-cities-less-walkable-why-do-cities-keep-building-them/">https://www.itdp.org/2019/10/01/pedestrian-bridges-make-cities-less-walkable-why-do-cities-keep-building-them/</a></div>
   </div>
 </div>
