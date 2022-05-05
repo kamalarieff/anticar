@@ -273,7 +273,7 @@ From the article:
 
 Here is an infographic on why we need cycle lanes.
 
-{{< figure src="/ox-hugo/2022-04-09_02:23 6 reasons why we need cycle lanes infographic.webp" >}}
+{{< figure src="/ox-hugo/2022-04-09_02:23 6 reasons why we need cycle lanes infographic.jpg" >}}
 
 
 ### Who else benefits from the Dutch cycling infrastructure [231] - YouTube - BicycleDutch {#who-else-benefits-from-the-dutch-cycling-infrastructure-231-youtube-bicycledutch}
@@ -298,3 +298,12 @@ Able bodied people, senior citizens, children, disabled people are all able to u
 This is because:
 
 > Better safety outcomes are instead associated with a greater prevalence of bike facilities – particularly protected and separated bike facilities – at the block group level and, more strongly so, across the overall city. Higher intersection density, which typically corresponds to more compact and lower-speed built environments, was strongly associated with better road safety outcomes for all road users
+
+
+### Benefits of cycling to work outweigh risks | Cycling Weekly {#benefits-of-cycling-to-work-outweigh-risks-cycling-weekly}
+
+<https://www.cyclingweekly.com/news/latest-news/benefits-of-cycling-to-work-outweigh-risks-451480>
+
+-   <https://reddit.com/r/fuckcars/comments/ufuh8u/seen_in_central_london/i6wne04/>
+
+Despite the added risks when cycling to work, it is safer in terms of health wise. What this means is that if we can lower these risks by providing safe cycling infrastructure, it's a win-win for everyone.

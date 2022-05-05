@@ -58,3 +58,19 @@ Salting the road in winter is very expensive. It pollutes the environment. It da
 -   <https://reddit.com/r/fuckcars/comments/taykkp/but_my_taxes/i05dojf/>
 
 Suburbs are expensive and costly to maintain. This is due to car-centric infrastructure.
+
+
+## Gas Tax Isn’t Cutting It, So Lawmakers Say Utah Needs To Change How It Pays For Roads And Highways | KUER {#gas-tax-isn-t-cutting-it-so-lawmakers-say-utah-needs-to-change-how-it-pays-for-roads-and-highways-kuer}
+
+<https://www.kuer.org/politics-government/2021-08-11/gas-tax-isnt-cutting-it-so-lawmakers-say-utah-needs-to-change-how-it-pays-for-roads-and-highways>
+
+-   <https://reddit.com/r/fuckcars/comments/u9shgu/they_got_us_into_this_mess/i5tp5lb/>
+
+The gas tax is not enough to fund Utah's road infrastructure.
+
+
+## Road traffic injuries {#road-traffic-injuries}
+
+<https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>
+
+> Road traffic crashes cost most countries 3% of their gross domestic product.

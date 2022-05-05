@@ -13,7 +13,7 @@ Plenty of disabled people riding bikes.
 
 If you don't have enough balance, you can always ride a trike <a href="#citeproc_bib_item_2">[2]</a>.
 
-## Bibliography
+## References
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">

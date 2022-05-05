@@ -11,7 +11,7 @@ Besides, they don't even work in all conditions <a href="#citeproc_bib_item_2">[
 
 This video essay <a href="#citeproc_bib_item_3">[3]</a> showed a Tesla almost drove into a cyclist. More in the video are stats on how crashes are caused by Tesla.
 
-## Bibliography
+## References
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">

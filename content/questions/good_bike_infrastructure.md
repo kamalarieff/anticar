@@ -255,3 +255,19 @@ A protected cycling lane makes everyone feel safe.
 <https://www.reddit.com/r/fuckcars/comments/tv50ki/lets_not_forget_why_were_all_here_for_a_good/>
 
 A gallery of images showing good bike infrastructure.
+### The Best Dutch Cycling Infrastructure - YouTube - Not Just Bikes {#the-best-dutch-cycling-infrastructure-youtube-not-just-bikes}
+
+<https://www.youtube.com/watch?v=bMJaMy-0ChA>
+
+-   <https://reddit.com/r/fuckcars/comments/u9jc6k/ah_yes_suburban_sprawl_full_of_parking_is_better/i5ruyw4/>
+
+He talks about how bicycle roads are very enjoyable and safe to use.
+
+
+### Worlds Largest Bicycle Parking Garage, Utrecht - 🇳🇱 Netherlands - 4K Cycling Tour - YouTube - Wanderlust Travel Videos {#worlds-largest-bicycle-parking-garage-utrecht-netherlands-4k-cycling-tour-youtube-wanderlust-travel-videos}
+
+<https://www.youtube.com/watch?v=aVuUX32PYEI>
+
+-   <https://reddit.com/r/fuckcars/comments/uapfgd/11k_free_parking_spaces_for_bicycles_in_one_garage/i616lvc/>
+
+Good bike infrastructure includes a safe place to store your bicycles.

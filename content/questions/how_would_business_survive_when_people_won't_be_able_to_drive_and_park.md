@@ -101,6 +101,15 @@ This is an article and research on how car-free streets were attracting more cus
 > Restaurants on car-free Vanderbilt Avenue in Brooklyn’s Prospect Heights neighborhood reported an average of 54% more customer visits after the first month of the program
 
 
+### Every Study Ever Conducted on the Impact Converting Street Parking Into Bike Lanes Has on Businesses - Bloomberg {#every-study-ever-conducted-on-the-impact-converting-street-parking-into-bike-lanes-has-on-businesses-bloomberg}
+
+<https://www.bloomberg.com/news/articles/2015-03-13/every-study-ever-conducted-on-the-impact-converting-street-parking-into-bike-lanes-has-on-businesses>
+
+-   <https://reddit.com/r/fuckcars/comments/ucg80w/carbrain_spotted_in_the_wilds_of_cambridge_ma/i6bw3r0/>
+
+Numerous studies were done to find the impact of removing street parking in favor of bike lanes in multiple cities. They found that replacing on-street parking with a bike lane has little to no impact on local business, and in some cases might even increase business.
+
+
 ### Is Groningen the most walkable city in the world? - YouTube - cities4people {#is-groningen-the-most-walkable-city-in-the-world-youtube-cities4people}
 
 <https://youtu.be/Bt4c1J3iHAU>
@@ -171,3 +180,14 @@ Church Street in Bengaluru is closed for vehicular traffic every Saturday and Su
 Here are the results from this project:
 
 > 70% of shop owners stated that pedestrianisation was a good idea. More than 50% of restaurant and shop owners noted an increase in customer footfall.
+
+
+### Full article: Measuring the Local Economic Impacts of Replacing On-Street Parking With Bike Lanes {#full-article-measuring-the-local-economic-impacts-of-replacing-on-street-parking-with-bike-lanes}
+
+<https://www.tandfonline.com/doi/full/10.1080/01944363.2019.1638816?journalCode=rjpa20>&amp;
+
+-   <https://reddit.com/r/fuckcars/comments/uaf8cf/how_can_we_get_local_business_on_board/i5xxam4/>
+
+A study was done in Toronto, Canada to remove 136 on-street parking on Bloor Street. They found that there is no negative economic impacts associated with the bike lanes: Monthly customer spending and number of customers served by merchants both increased on Bloor Street during the pilot.
+
+Due to this, bike lanes on Bloor Street were made permanent in November 2017.

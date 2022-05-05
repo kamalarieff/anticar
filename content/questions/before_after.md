@@ -413,3 +413,18 @@ Look what happens when there's no cars around. People can freely and safely ride
 <https://www.reddit.com/r/fuckcars/comments/u5h4hy/transformation_of_a_freeway_in_seoul_in_2003/>
 
 Removing a road to make way for a canal. Even after removing those lanes, there is still a lot of people [visiting the place](https://youtu.be/4-YN26TDAhY?t=59).
+
+
+### #fuckcars Washington Square before - Washington Square Park now : fuckcars {#fuckcars-washington-square-before-washington-square-park-now-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/ucl5lr/fuckcars_washington_square_before_washington>
+
+
+### The transformation of a large road in my hometown of Mainz. credits to Merkurist : fuckcars {#the-transformation-of-a-large-road-in-my-hometown-of-mainz-dot-credits-to-merkurist-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/ucxpsd/the_transformation_of_a_large_road_in_my_hometown>
+
+
+### C'est tellement mieux ! : EnculerLesVoitures {#c-est-tellement-mieux-enculerlesvoitures}
+
+<https://www.reddit.com/r/EnculerLesVoitures/comments/s1sze7/cest_tellement_mieux>

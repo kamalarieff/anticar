@@ -226,6 +226,15 @@ Besides that,
 55% of the air pollution in Utah is caused by vehicles.
 
 
+## Air pollution more harmful to children in cars than outside, warns top scientist | Pollution | The Guardian {#air-pollution-more-harmful-to-children-in-cars-than-outside-warns-top-scientist-pollution-the-guardian}
+
+<https://www.theguardian.com/environment/2017/jun/12/children-risk-air-pollution-cars-former-uk-chief-scientist-warns>
+
+-   <https://reddit.com/r/fuckcars/comments/srr6ao/i_have_one_life_and_i_have_to_spend_every_minute/hwttgt2/>
+-   <https://www.iqair.com/us/blog/air-quality/in-car-pollution>
+-   <https://reddit.com/r/fuckcars/comments/ub62u4/what_about_being_outside_of_any_idling_car/i628je7/>
+
+
 ## San Francisco microplastics study shows car tires biggest likely source - Los Angeles Times {#san-francisco-microplastics-study-shows-car-tires-biggest-likely-source-los-angeles-times}
 
 <https://www.latimes.com/environment/story/2019-10-02/california-microplastics-ocean-study>
@@ -333,7 +342,7 @@ There's also a handy infographic in the article to show the effects of noise pol
 
 -   <https://reddit.com/r/fuckcars/comments/tge24w/emissions_and_the_impact_of_transportation_on/i11axcw/>
 
-{{< figure src="/ox-hugo/2022-04-10_01:39 hidden aspects of driving.webp" >}}
+{{< figure src="/ox-hugo/2022-04-10_01:39 hidden aspects of driving.jpg" >}}
 
 
 ## Differences in cyclists and car drivers exposure to air pollution from traffic in the city of Copenhagen - ScienceDirect {#differences-in-cyclists-and-car-drivers-exposure-to-air-pollution-from-traffic-in-the-city-of-copenhagen-sciencedirect}
@@ -359,7 +368,7 @@ This is study comparing the exposure of air pollution between cyclists and car d
 
 Look how much energy cars uses compared to bikes, trains, buses and e-scooters.
 
-{{< figure src="/ox-hugo/2022-04-23_04:58 environmental impacts of various mode of transport.webp" >}}
+{{< figure src="/ox-hugo/2022-04-23_04:58 environmental impacts of various mode of transport.jpg" >}}
 
 
 ## Transport noise linked to increased risk of dementia, study finds | Dementia | The Guardian {#transport-noise-linked-to-increased-risk-of-dementia-study-finds-dementia-the-guardian}
@@ -369,3 +378,24 @@ Look how much energy cars uses compared to bikes, trains, buses and e-scooters.
 -   <https://reddit.com/r/fuckcars/comments/u8m74f/health_impacts_of_automobility/i5makbe/>
 
 A study involving two million adults, conducted over more than a decade, has concluded that people living in areas with transport noise face a higher risk of dementia, especially Alzheimer’s disease.
+
+Levels of some pollutants and toxic compounds can be as much as nine to twelve times higher inside vehicles than alongside the road
+
+
+## Ambient Air Pollution and Autism in Los Angeles County, California | Environmental Health Perspectives | Vol. 121, No. 3 {#ambient-air-pollution-and-autism-in-los-angeles-county-california-environmental-health-perspectives-vol-dot-121-no-dot-3}
+
+<https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.1205827>
+
+-   <https://reddit.com/r/fuckcars/comments/u9cikw/cars_kill_over_1300000_people/i5rmk3e/>
+
+Measured and estimated exposures from ambient pollutant monitors and LUR model suggest associations between autism and prenatal air pollution exposure, mostly related to traffic sources.
+
+
+## Kuwait: Fire ripped through 25,000 square meters of Al Sulabiya tire site | Kuwait – Gulf News {#kuwait-fire-ripped-through-25-000-square-meters-of-al-sulabiya-tire-site-kuwait-gulf-news}
+
+<https://gulfnews.com/world/gulf/kuwait/kuwait-fire-ripped-through-25000-square-meters-of-al-sulabiya-tire-site-1.74769506>
+
+-   <https://reddit.com/r/fuckcars/comments/udw3bq/how_could_we_do_this_to_our_planet/i6k5enh/>
+-   <https://reddit.com/r/fuckcars/comments/udhs9o/can_i_just_talk_about_how_much_i_fucking_hate_car/i6gzpb6/>
+
+Apparently there is a tire graveyard in Kuwait and now they're on fire.

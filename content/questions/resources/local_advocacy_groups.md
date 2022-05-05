@@ -164,3 +164,19 @@ Better Streets Chicago is a transit advocacy organization made up of Chicagoans 
 <https://ashevilleonbikes.com/>
 
 -   <https://reddit.com/r/fuckcars/comments/u7802e/change_is_possible_even_in_the_most_carcentric/i5dn14y/>
+
+
+## Walk San Francisco - Your advocate for safe streets for all. {#walk-san-francisco-your-advocate-for-safe-streets-for-all-dot}
+
+<https://walksf.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/ud7j2n/san_francisco_supervisors_just_voted_to_make_the/i6fyodx/>
+-   <https://reddit.com/r/fuckcars/comments/ud7j2n/san_francisco_supervisors_just_voted_to_make_the/i6fzg9o/>
+
+
+## San Francisco Bicycle Coalition - Promoting the Bicycle for Everyday Transportation {#san-francisco-bicycle-coalition-promoting-the-bicycle-for-everyday-transportation}
+
+<https://sfbike.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/ud7j2n/san_francisco_supervisors_just_voted_to_make_the/i6fyodx/>
+-   <https://reddit.com/r/fuckcars/comments/ud7j2n/san_francisco_supervisors_just_voted_to_make_the/i6fzg9o/>

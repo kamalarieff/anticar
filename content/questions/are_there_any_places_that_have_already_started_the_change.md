@@ -307,3 +307,12 @@ Proposal to add 150km and improve 43km of cycle paths around the city over the n
 -   <https://reddit.com/r/fuckcars/comments/u05w77/atlanta_in_1919_vs_2019_ouch/i45popi/>
 
 Atlanta Is building a 33 mile multi-use trails offering a pedestrian-friendly environment which promotes walking, jogging, biking, and affordable housing.
+
+
+### Cities For People Not Cars | Culdesac {#cities-for-people-not-cars-culdesac}
+
+<https://culdesac.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/ugdd79/car_free_development_in_arizona/i6yyalb/>
+
+The first car-free neighborhood built from scratch in the US! It will be built in Arizona.

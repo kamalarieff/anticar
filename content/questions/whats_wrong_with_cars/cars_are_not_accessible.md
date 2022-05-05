@@ -2,7 +2,7 @@
 title = "Cars are not accessible"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2010
+weight = 2013
 +++
 
 From <a href="#citeproc_bib_item_1">[1]</a>, there are 4 groups of people are affected by car-based design:
@@ -24,7 +24,7 @@ Even when cities try to accommodate for pedestrians by building pedestrian bridg
 
 {{< figure src="/ox-hugo/2022-04-10_02:07 pedestrian crossing length.jpg" >}}
 
-## Bibliography
+## References
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">

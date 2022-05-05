@@ -2,7 +2,7 @@
 title = "Cars waste time"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2012
+weight = 2015
 +++
 
 The time wasted in congestion costs $1,622 for the average Chicago driver and $5.8 billion for the city <a href="#citeproc_bib_item_1">[1]</a>. In Japan, when heavy snowfall disrupted the roads, the drivers were trapped for 40 hours <a href="#citeproc_bib_item_2">[2]</a>. A study in Moscow, Russia found that the average driver lost 210 hours of congestion in 2018. Drivers in Bogota lost the most time of anyone in the world: 272 hours <a href="#citeproc_bib_item_3">[3]</a>. These long commutes cause obesity, neck pain, loneliness, divorce, stress, and insomnia <a href="#citeproc_bib_item_4">[4]</a>.
@@ -11,7 +11,7 @@ Check out this [GIF](https://twitter.com/metrolosangeles/status/1153807208229957
 
 Top Gear made a video on which form of transport is the fastest in London. It's no surprise that cars come dead last <a href="#citeproc_bib_item_5">[5]</a>. Here's another video where it's a race between cars, bike and public transport where the car comes last <a href="#citeproc_bib_item_6">[6]</a>.
 
-## Bibliography
+## References
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">

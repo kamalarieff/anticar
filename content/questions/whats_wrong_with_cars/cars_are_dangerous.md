@@ -342,3 +342,21 @@ Those dangerous front blind zone on SUVs has contributed to hundreds of deaths a
 <https://wgntv.com/news/chicagocrime/not-at-peace-single-mother-of-3-killed-by-alleged-drunk-driver/>
 
 -   <https://reddit.com/r/fuckcars/comments/u9aaol/horrifying_reminder_cars_are_death_machines/i5q7n5g/>
+
+
+## 9 people killed in Las Vegas crash involving 6 vehicles and 15 people {#9-people-killed-in-las-vegas-crash-involving-6-vehicles-and-15-people}
+
+<https://news.yahoo.com/9-people-killed-las-vegas-183700318.html>
+
+-   <https://reddit.com/r/fuckcars/comments/uesptr/far_too_many_dimwitted_people_have_driver/i6pvxvg/>
+
+A driver blew through a red light and killed 9 people.
+
+
+## More Americans have died in car crashes since 2000 than in both World Wars - The Washington Post {#more-americans-have-died-in-car-crashes-since-2000-than-in-both-world-wars-the-washington-post}
+
+<https://www.washingtonpost.com/local/trafficandcommuting/more-people-died-in-car-crashes-this-century-than-in-both-world-wars/2019/07/21/0ecc0006-3f54-11e9-9361-301ffb5bd5e6_story.html>
+
+-   <https://reddit.com/r/fuckcars/comments/udqhle/currently_on_a_25km_hike_saw_this_at_a_random/i6im83t/>
+
+> Since January 2000, more Americans have died in car crashes than did in both World Wars, and the overwhelming majority of the wrecks were caused by speeding, drunk or distracted drivers, according to government data.

@@ -2,7 +2,7 @@
 title = "Cars are inefficient at moving people"
 author = ["Kamal Arieff Ahmad Faizel"]
 draft = false
-weight = 2013
+weight = 2016
 +++
 
 From this picture <a href="#citeproc_bib_item_1">[1]</a>, you can see how cars move people the least.
@@ -11,7 +11,7 @@ From this picture <a href="#citeproc_bib_item_1">[1]</a>, you can see how cars m
 
 This is further exacerbated by people not filling up cars to it's full capacity. In the United States, average car occupancy was 1.5 persons per vehicle <a href="#citeproc_bib_item_2">[2]</a> while the most recent data for the average number of passengers per car (including the driver) for the countries sampled is approximately 1.45 passengers per vehicle (in the UK - 1.58; Germany - 1.42 and Netherlands - 1.38 passengers accordingly) <a href="#citeproc_bib_item_3">[3]</a>.
 
-## Bibliography
+## References
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">

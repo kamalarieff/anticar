@@ -94,3 +94,12 @@ A lot of pictures here showing people cycling in the snow.
 -   <https://www.reddit.com/r/fuckcars/comments/sv2uk1/intersection_in_amsterdam/hxflebc/>
 
 A video showing people cycling in the snow no problem.
+
+
+### The Arctic City Where Everyone Cycles - YouTube - Tomorrow's Build {#the-arctic-city-where-everyone-cycles-youtube-tomorrow-s-build}
+
+<https://www.youtube.com/watch?v=TpnYkiqUmj0>
+
+-   <https://reddit.com/r/fuckcars/comments/ubl49j/i_just_want_to_be_able_to_walk_places/i66tshr/>
+
+Here is how the city in Oulu, Finland built their infrastructure around bicycles. They make sure that the there is proper lighting and the bike paths are plowed so that it's safe to use.
