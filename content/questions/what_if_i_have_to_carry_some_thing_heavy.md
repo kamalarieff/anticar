@@ -33,3 +33,12 @@ There are plenty types of bikes that you can use to carry these heavy things aro
 -   <https://www.reddit.com/r/fuckcars/comments/t17k1p/rethink_whats_possible/hyelkv5/?context=8&depth=9>
 
 This is a video of how people carry stuff around by hooking up a trailer to their bikes. It's totally doable.
+
+
+### Groningen: The World's Cycling City - YouTube - Streetfilms {#groningen-the-world-s-cycling-city-youtube-streetfilms}
+
+<https://www.youtube.com/watch?v=fv38J7SKH_g>
+
+At 4:46, you can even use a bicycle to transport stuff.
+
+At 10:16, you can hire a tow from Ikea to transport stuff.

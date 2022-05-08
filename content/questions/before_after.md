@@ -428,3 +428,17 @@ Removing a road to make way for a canal. Even after removing those lanes, there 
 ### C'est tellement mieux ! : EnculerLesVoitures {#c-est-tellement-mieux-enculerlesvoitures}
 
 <https://www.reddit.com/r/EnculerLesVoitures/comments/s1sze7/cest_tellement_mieux>
+
+
+### I thought this belonged here : fuckcars {#i-thought-this-belonged-here-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/uiwbxa/i_thought_this_belonged_here>
+
+Coconut Grove, Miami.
+
+
+### Yes please! More green spaces : fuckcars {#yes-please-more-green-spaces-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/uimb81/yes_please_more_green_spaces>
+
+Blankenstraat, Amsterdam.

@@ -360,3 +360,12 @@ A driver blew through a red light and killed 9 people.
 -   <https://reddit.com/r/fuckcars/comments/udqhle/currently_on_a_25km_hike_saw_this_at_a_random/i6im83t/>
 
 > Since January 2000, more Americans have died in car crashes than did in both World Wars, and the overwhelming majority of the wrecks were caused by speeding, drunk or distracted drivers, according to government data.
+
+
+## 8 New Yorkers dead from traffic accidents in 4 days {#8-new-yorkers-dead-from-traffic-accidents-in-4-days}
+
+<https://www.ny1.com/nyc/all-boroughs/news/2022/05/07/8-new-yorkers-dead-from-traffic-accidents-in-4-days>
+
+-   <https://reddit.com/r/fuckcars/comments/ukhxqz/8_dead_in_4_days_from_cars_in_nyc/i7p5j8z/>
+
+A van took an illegal left turn and killed someone.

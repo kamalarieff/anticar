@@ -200,6 +200,15 @@ Asphalt used in roads pollute. It'd be best if we can reduce the amount of roads
 > A main finding is that asphalt-related products emit substantial and diverse mixtures of organic compounds into the air, with a strong dependence on temperature and other environmental conditions
 
 
+## Asphalt on roads may soon be greater source of air pollution than cars | New Scientist {#asphalt-on-roads-may-soon-be-greater-source-of-air-pollution-than-cars-new-scientist}
+
+<https://www.newscientist.com/article/2253470-asphalt-on-roads-may-soon-be-greater-source-of-air-pollution-than-cars/amp/>
+
+-   <https://reddit.com/r/fuckcars/comments/ugwy1b/does_anyone_have_any_costbenefit_numbers_for/i75uv20/>
+
+> Climate change is causing higher temperatures, which will trigger more emissions from asphalt.
+
+
 ## Road Salt Works. But It's Also Bad for the Environment. {#road-salt-works-dot-but-it-s-also-bad-for-the-environment-dot}
 
 <https://news.yahoo.com/road-salt-works-bad-environment-161912248.html>
