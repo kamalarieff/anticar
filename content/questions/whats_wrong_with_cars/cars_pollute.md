@@ -204,8 +204,6 @@ Asphalt used in roads pollute. It'd be best if we can reduce the amount of roads
 
 <https://www.newscientist.com/article/2253470-asphalt-on-roads-may-soon-be-greater-source-of-air-pollution-than-cars/amp/>
 
--   <https://reddit.com/r/fuckcars/comments/ugwy1b/does_anyone_have_any_costbenefit_numbers_for/i75uv20/>
-
 > Climate change is causing higher temperatures, which will trigger more emissions from asphalt.
 
 
