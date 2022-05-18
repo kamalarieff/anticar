@@ -42,19 +42,6 @@ This is supported by <a href="#citeproc_bib_item_1">[1]</a> <a href="#citeproc_b
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
     <div class="csl-left-margin">[3]</div><div class="csl-right-inline">ASIRT, “Road Safety Facts,” <i>Association for safe international road travel</i>. <a href="https://www.asirt.org/safe-travel/road-safety-facts/">https://www.asirt.org/safe-travel/road-safety-facts/</a></div>
   </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_4"></a
-#+BEGIN_EXPORT html
-<style>.csl-left-margin{float: left; padding-right: 0em;}
- .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">WHO, “Road traffic injuries,” <i>Road traffic injuries</i>. <a href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries">https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries</a></div>
-  </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">United Nations, “With 1.3 million annual road deaths, UN wants to halve number by 2030,” <i>Un news</i>. Dec. 2021. <a href="https://news.un.org/en/story/2021/12/1107152">https://news.un.org/en/story/2021/12/1107152</a></div>
-  </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">ASIRT, “Road Safety Facts,” <i>Association for safe international road travel</i>. <a href="https://www.asirt.org/safe-travel/road-safety-facts/">https://www.asirt.org/safe-travel/road-safety-facts/</a></div>
-  </div>
   <div class="csl-entry"><a id="citeproc_bib_item_4"></a>
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">“How Many People Die in Car Accidents? | Policy Advice.” <a href="https://policyadvice.net/insurance/insights/car-accidents/">https://policyadvice.net/insurance/insights/car-accidents/</a></div>
   </div>
@@ -62,15 +49,7 @@ This is supported by <a href="#citeproc_bib_item_1">[1]</a> <a href="#citeproc_b
     <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Injury Facts by NSC, “Deaths by Transportation Mode,” <i>Injury facts</i>. <a href="https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/">https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/</a></div>
   </div>
 </div>
-
-margin"&gt;[4]&lt;/div&gt;&lt;div class="csl-right-inline"&gt;“How Many People Die in Car Accidents? | Policy Advice.” &lt;a href="<https://policyadvice.net/insurance/insights/car-accidents/>"&gt;<https://policyadvice.net/insurance/insights/car-accidents/>&lt;/a&gt;&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="csl-entry"&gt;&lt;a id="citeproc_bib_item_5"&gt;&lt;/a&gt;
-    &lt;div class="csl-left-margin"&gt;[5]&lt;/div&gt;&lt;div class="csl-right-inline"&gt;Injury Facts by NSC, “Deaths by Transportation Mode,” &lt;i&gt;Injury facts&lt;/i&gt;. &lt;a href="<https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/>"&gt;<https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/>&lt;/a&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-\#+END_EXPORT
-
+</style>
 
 ## Here’s How Much Safer Transit Is Compared to Driving – Streetsblog USA {#here-s-how-much-safer-transit-is-compared-to-driving-streetsblog-usa}
 
