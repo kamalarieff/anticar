@@ -42,3 +42,12 @@ Lots of good links to promote cycling.
 -   <https://reddit.com/r/fuckcars/comments/tzzt33/not_cars_but_still_these_barriers_designed_to/i44bn5o/>
 
 Netherlands has microcars which are suitable for senior citizens and disabled people. There's even one modified so that you can fit an entire wheelchair inside.
+
+
+### Accessible Cities: Seeing the city through a different lens With Guest Maya Levi - YouTube - MobyCon {#accessible-cities-seeing-the-city-through-a-different-lens-with-guest-maya-levi-youtube-mobycon}
+
+<https://youtu.be/knpDMq6wab0?t=396>
+
+-   <https://reddit.com/r/fuckcars/comments/um2xu1/in_a_city_with_biking_infrastructure_disabled/i80q8rr/>
+
+When there is adequate infrastructure, people with disabilities are able to travel anywhere.

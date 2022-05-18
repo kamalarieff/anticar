@@ -120,6 +120,12 @@ You can also join Strong Town's local conversations. You can find one nearest to
 
 -   <https://www.reddit.com/r/fuckcars/comments/u514i5/cardependent_zoning_go_brrrr/i50nyrb/>
 
+You can also persuade businesses to provide discounts for people who cycles e.g. Bicycle Benefits
+
+<https://bicyclebenefits.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/ulrzgf/i_just_wanted_to_get_an_ice_cream_from_dairy/i7ylkfj/>
+
 
 ## Resources {#resources}
 
@@ -196,3 +202,12 @@ There is a lot of benefits to implementing parking cash out.
 From the article,
 
 > solo driving to work fell 17%, carpooling increased 64%, transit ridership increased 50%, and walking or biking increased 39%. These changes reduced vehicle travel to work by 12% — equivalent to removing from the road one of every eight cars driven to work. Employers reported that parking cash out was cheap, easy to manage and fair. It also helped them to recruit and retain workers.
+
+
+### Curbing the need to speed {#curbing-the-need-to-speed}
+
+<https://www.apa.org/monitor/2018/04/curbing-speed>
+
+-   <https://reddit.com/r/fuckcars/comments/ul855z/i_live_in_a_moderately_rural_place_where_nearly/i7ukpjm/>
+
+Changing the way we design streets make people drive the appropriate speeds. There's also other ways to slow down speed: road works, public campaigns and smart cars.

@@ -406,3 +406,41 @@ Measured and estimated exposures from ambient pollutant monitors and LUR model s
 -   <https://reddit.com/r/fuckcars/comments/udhs9o/can_i_just_talk_about_how_much_i_fucking_hate_car/i6gzpb6/>
 
 Apparently there is a tire graveyard in Kuwait and now they're on fire.
+
+
+## CO2 emissions from cars: facts and figures (infographics) | News | European Parliament {#co2-emissions-from-cars-facts-and-figures--infographics--news-european-parliament}
+
+<https://www.europarl.europa.eu/news/en/headlines/society/20190313STO31218/co2-emissions-from-cars-facts-and-figures-infographics>
+
+-   <https://reddit.com/r/fuckcars/comments/ulbh57/guys_close_the_sub_down_cars_are_actually_good/i7x34qj/>
+
+> “Transport is responsible for nearly 30% of the EU’s total CO2 emissions, of which 72% comes from road transportation.”
+
+<!--quoteend-->
+
+> “CO2 emissions from passenger transport vary significantly depending on the transport mode. Passenger cars are a major polluter, accounting for 60.7% of total CO2 emissions from road transport in Europe.”
+
+
+## What To Do About Environmental Noise? {#what-to-do-about-environmental-noise}
+
+<https://acousticstoday.org/wp-content/uploads/2017/05/Murphy.pdf>
+
+-   <https://reddit.com/r/fuckcars/comments/uqoal8/motorcycles_are_even_worse/i8scd3t/>
+
+
+## New study quantifies the global health impacts of vehicle exhaust - International Council on Clean Transportation {#new-study-quantifies-the-global-health-impacts-of-vehicle-exhaust-international-council-on-clean-transportation}
+
+<https://theicct.org/new-study-quantifies-the-global-health-impacts-of-vehicle-exhaust/>
+
+-   <https://reddit.com/r/fuckcars/comments/uqr98m/the_only_car_ill_ever_respect/i8ti604/>
+
+> Study links ambient PM2.5 and ozone specifically caused by vehicle exhaust emissions to ~361,000 premature deaths worldwide in 2010 and ~385,000 in 2015
+
+
+## Heavy traffic pollution may affect kids' brain development | Reuters {#heavy-traffic-pollution-may-affect-kids-brain-development-reuters}
+
+<https://www.reuters.com/article/us-health-pollution-brain-development-idUSKBN1ZR2KG>
+
+-   <https://reddit.com/r/fuckcars/comments/uqytm4/when_its_considered_a_flex_to_keep_up_with_a/i8xrm69/>
+
+> Brain scans of 12-year-old children show reduced thickness of the cortex and decreased gray matter volume in those who lived less than a quarter of a mile (400 meters) from a major highway at age 1,

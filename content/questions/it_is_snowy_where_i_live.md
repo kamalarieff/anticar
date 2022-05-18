@@ -103,3 +103,10 @@ A video showing people cycling in the snow no problem.
 -   <https://reddit.com/r/fuckcars/comments/ubl49j/i_just_want_to_be_able_to_walk_places/i66tshr/>
 
 Here is how the city in Oulu, Finland built their infrastructure around bicycles. They make sure that the there is proper lighting and the bike paths are plowed so that it's safe to use.
+
+
+### Oulu - pyöräilykaupunki - YouTube - Velogi {#oulu-pyöräilykaupunki-youtube-velogi}
+
+<https://www.youtube.com/watch?v=ixWvALq7d4g&t=392s>
+
+-   <https://reddit.com/r/fuckcars/comments/uomb3o/when_someone_from_nth_america_say_but_i_cant_ride/i8fu81p/>

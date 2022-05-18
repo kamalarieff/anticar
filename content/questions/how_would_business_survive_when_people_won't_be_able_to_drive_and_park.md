@@ -191,3 +191,12 @@ Here are the results from this project:
 A study was done in Toronto, Canada to remove 136 on-street parking on Bloor Street. They found that there is no negative economic impacts associated with the bike lanes: Monthly customer spending and number of customers served by merchants both increased on Bloor Street during the pilot.
 
 Due to this, bike lanes on Bloor Street were made permanent in November 2017.
+
+
+### Anatomy of a Protected Bike Lane: Infographic shows overwhelming benefits of good street design | Broken Sidewalk {#anatomy-of-a-protected-bike-lane-infographic-shows-overwhelming-benefits-of-good-street-design-broken-sidewalk}
+
+<https://brokensidewalk.com/2016/anatomy-protected-bike-lane/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/up6s1t/carbrain_try_not_to_have_the_worst_take_ever/i8j0a9i/>
+
+> A similar study from Salt Lake City showed that along a new Protected Bike Lane, sales through a commercial strip rose 8.8 percent compared to just 7 percent citywide.

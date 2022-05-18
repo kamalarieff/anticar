@@ -74,3 +74,16 @@ The gas tax is not enough to fund Utah's road infrastructure.
 <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>
 
 > Road traffic crashes cost most countries 3% of their gross domestic product.
+
+
+## Cost Analysis of Bicycle Facilities: Cases from cities in the Portland, OR region {#cost-analysis-of-bicycle-facilities-cases-from-cities-in-the-portland-or-region}
+
+-   <https://activelivingresearch.org/sites/activelivingresearch.org/files/Dill_Bicycle_Facility_Cost_June2013.pdf>
+
+-   <https://reddit.com/r/fuckcars/comments/ugwy1b/does_anyone_have_any_costbenefit_numbers_for/i75uv20/>
+
+Bike infrastructure is much cheaper to build than road infrastructure.
+
+> the City of Portland calculated that the city’s entire bicycle network, consisting of over 300 miles of bikeways would cost $60 million to replace, whereas the same investment would yield just one mile of a four-lane urban freeway
+
+This study is about how much each proponent of bike infrastructure costs.

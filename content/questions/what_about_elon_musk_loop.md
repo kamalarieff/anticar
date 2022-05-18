@@ -42,3 +42,10 @@ This video goes through the initial promises of the loop and the actual reality 
 -   <https://www.reddit.com/r/fuckcars/comments/rzuajm/repeating_silly_mistakes_how_did_it_come_to_this/>
 
 A very good video that debunks the Loop just by using common sense. He also went through statistics. For example, how Tesla's rank second to last on reliablity [2:45]. He also went through some maths on the carrying capacity of the Loop [5:10].
+
+
+### Video shows apparent CES traffic jam in Boring Company tunnel | Mashable {#video-shows-apparent-ces-traffic-jam-in-boring-company-tunnel-mashable}
+
+<https://mashable.com/article/ces-las-vegas-boring-tunnel-tesla-traffic>
+
+-   <https://reddit.com/r/fuckcars/comments/un4par/induced_demand_is_one_of_the_single_dumbest/i86px50/>

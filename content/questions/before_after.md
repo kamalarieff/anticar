@@ -337,6 +337,8 @@ A before and after image from 2019 and 2022 where car lanes are taken away to ma
 
 <https://www.youtube.com/watch?v=JcgGiHZoWBc>
 
+-   <https://reddit.com/r/fuckcars/comments/uqgzs5/i_hate_cars_but_i_think_some_of_you_are_really_in/i8rcg09/>
+
 This video analyzed what happened to streets in the United States when they ban cars namely Market Street in San Francisco, 14th Street in New York and State Street in Madison. Business still thriving, public transport gets faster, there's less congestion.
 
 
@@ -442,3 +444,33 @@ Coconut Grove, Miami.
 <https://www.reddit.com/r/fuckcars/comments/uimb81/yes_please_more_green_spaces>
 
 Blankenstraat, Amsterdam.
+
+
+### Warms my heart : fuckcars {#warms-my-heart-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/uo4llr/warms_my_heart>
+
+Trnava, Slovakia.
+
+
+### Bandera, a street of Santiago, Chile, January 2012 vs March 2018 : fuckcars {#bandera-a-street-of-santiago-chile-january-2012-vs-march-2018-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/uoazhu/bandera_a_street_of_santiago_chile_january_2012/>
+
+Santiago, Chile.
+
+
+### Vienna in 1966 and 2015 : fuckcars {#vienna-in-1966-and-2015-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/uompvi/vienna_in_1966_and_2015/>
+
+Vienna, Austria.
+
+
+### How Frieberg's Vauban neighborhood created a car-free paradise {#how-frieberg-s-vauban-neighborhood-created-a-car-free-paradise}
+
+<https://www.fastcompany.com/90327301/what-can-we-learn-from-this-thriving-car-free-german-neighborhood-get-rid-of-parking-spaces>
+
+-   <https://reddit.com/r/fuckcars/comments/uoq6gl/its_illegal_to_build_streets_like_this_in_america/i8gdny5/>
+
+Vauban, Freiburg.

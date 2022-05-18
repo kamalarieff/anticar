@@ -172,3 +172,10 @@ Channel that shows good bike infrastructure in the Netherlands.
 -   <https://www.reddit.com/r/fuckcars/comments/s9hlr4/i_couldnt_find_any_youtube_channels_showing_off/>
 
 Channel on how you can explore on a bike. One underrated aspect of a bike is how much you can explore with them. Combine them with trains and you can go very far.
+
+
+## The Life-Sized City - YouTube {#the-life-sized-city-youtube}
+
+<https://youtube.com/c/TheLifeSizedCity>
+
+-   <https://reddit.com/r/fuckcars/comments/umi1cs/painfully_accurate_short_story_of_traffic/i83omkp/>

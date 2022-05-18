@@ -102,6 +102,9 @@ An infographic on how much each mode of transportation carry people with suburba
 
 -   <https://www.reddit.com/r/BicyclingCirclejerk/comments/ry3kwq/the_enviromental_friendly_fredster/>
 -   <https://www.reddit.com/r/fuckcars/comments/ry8vvf/the_enviromental_friendly_fredster/>
+-   <https://reddit.com/r/fuckcars/comments/uom97t/puddles_reveals_damage_caused_by_cars_to_the/i8i4qv8/>
+-   <https://reddit.com/r/fuckcars/comments/up0j9j/how_much_do_bikes_wear_and_damage_asphalt/i8icjrh/>
+-   <https://reddit.com/r/fuckcars/comments/up0j9j/how_much_do_bikes_wear_and_damage_asphalt/i8i5cao/>
 
 {{< figure src="/ox-hugo/2022-01-13_11:58 vehicle-weight-and-damage-chart.jpg" >}}
 

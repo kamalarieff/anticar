@@ -271,3 +271,21 @@ He talks about how bicycle roads are very enjoyable and safe to use.
 -   <https://reddit.com/r/fuckcars/comments/uapfgd/11k_free_parking_spaces_for_bicycles_in_one_garage/i616lvc/>
 
 Good bike infrastructure includes a safe place to store your bicycles.
+
+
+### Closed street redesigned with more space for people and green - YouTube - BicycleDutch {#closed-street-redesigned-with-more-space-for-people-and-green-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=QR3a3pzJZZE>
+
+-   <https://reddit.com/r/fuckcars/comments/unfei9/street_that_transport_a_lot_of_people_while/i88yqb1/>
+
+Converted a shared road to an only cycling path. Very safe and quiet.
+
+
+### Bike lane infrastructure could be the best thing to happen for disabled mobility in the history of the city, if we cared : MicromobilityNYC {#bike-lane-infrastructure-could-be-the-best-thing-to-happen-for-disabled-mobility-in-the-history-of-the-city-if-we-cared-micromobilitynyc}
+
+<https://www.reddit.com/r/MicromobilityNYC/comments/r83crz/bike_lane_infrastructure_could_be_the_best_thing/>
+
+-   <https://reddit.com/r/fuckcars/comments/uq1tto/if_youre_not_walking_or_riding_micromobility_you/i8pjbce/>
+
+A video showing how a person in a wheelchair gets around using bike lanes.

@@ -75,6 +75,8 @@ Here is a video where kids go to school unsupervised and there is plenty of spac
 
 <https://www.youtube.com/watch?v=OrQ-d2PBUto>
 
+-   <https://reddit.com/r/fuckcars/comments/urp5bo/children_have_no_freedom_in_car_dependency_we/i8yi1oa/>
+
 A video of kids cycling to school without needing any cars to send them. No traffic, no fuss.
 
 
@@ -307,3 +309,60 @@ This is because:
 -   <https://reddit.com/r/fuckcars/comments/ufuh8u/seen_in_central_london/i6wne04/>
 
 Despite the added risks when cycling to work, it is safer in terms of health wise. What this means is that if we can lower these risks by providing safe cycling infrastructure, it's a win-win for everyone.
+
+
+### (PDF) Walking and cycling in Western Europe and the United States: Trends, policies, and lessons {#pdf--walking-and-cycling-in-western-europe-and-the-united-states-trends-policies-and-lessons}
+
+<https://www.researchgate.net/publication/279579564_Walking_and_cycling_in_Western_Europe_and_the_United_States_Trends_policies_and_lessons>
+
+-   <https://reddit.com/r/fuckcars/comments/ujzcb5/human_cost_of_infrastructure_how_much_more_likely/i7m053r/>
+
+{{< figure src="/ox-hugo/2022-05-13_16:27 safer for pedestrians and cyclists.jpg" >}}
+
+When there is adequate infrastructure for pedestrians and cyclists, it is safer for everyone.
+
+
+### Anatomy of a Protected Bike Lane: Infographic shows overwhelming benefits of good street design | Broken Sidewalk {#anatomy-of-a-protected-bike-lane-infographic-shows-overwhelming-benefits-of-good-street-design-broken-sidewalk}
+
+<https://brokensidewalk.com/2016/anatomy-protected-bike-lane/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/up6s1t/carbrain_try_not_to_have_the_worst_take_ever/i8j0a9i/>
+
+Statistics on how protected bike lanes make safer streets for everyone.
+
+> According to PeopleForBikes’s research, installing a Protected Bike Lane on a street cuts injury risk to bikes by 28 percent.
+
+
+### Bicycles cause no damage to road surfaces - Ferrovial's blog {#bicycles-cause-no-damage-to-road-surfaces-ferrovial-s-blog}
+
+<https://blog.ferrovial.com/en/2018/04/bicycles-cause-no-damage-to-road-surfaces/>
+
+-   <https://reddit.com/r/fuckcars/comments/uom97t/puddles_reveals_damage_caused_by_cars_to_the/i8hw88i/>
+
+-   Bicycles cause no damage to road surfaces
+-   Bicycles don’t pollute as they move
+
+
+### Healthy Streets and how the Dutch build them - Mobycon {#healthy-streets-and-how-the-dutch-build-them-mobycon}
+
+<https://mobycon.com/updates/healthy-streets-and-how-the-dutch-build-them/>
+
+-   <https://reddit.com/r/fuckcars/comments/uqv0gx/how_to_create_the_dream_city/i8ta2fb/>
+
+Dutch streets are made for people in mind where cars are guests.
+
+
+### True mass cycling: Gone to the Park. Dutch teenagers' &amp; childrens' social lives depend on bicycles - YouTube - David Hembrow {#true-mass-cycling-gone-to-the-park-dot-dutch-teenagers-and-childrens-social-lives-depend-on-bicycles-youtube-david-hembrow}
+
+<https://www.youtube.com/watch?v=RNmGdAQZwb4>
+
+-   <https://reddit.com/r/fuckcars/comments/urp5bo/children_have_no_freedom_in_car_dependency_we/i8yi1oa/>
+
+
+### Japan encourages parents to let kids walk to school solo - YouTube - CBS Mornings {#japan-encourages-parents-to-let-kids-walk-to-school-solo-youtube-cbs-mornings}
+
+<https://youtu.be/IkVvXVDs5aI>
+
+-   <https://reddit.com/r/fuckcars/comments/urp5bo/children_have_no_freedom_in_car_dependency_we/i8yi1oa/>
+
+When you build safe infrastructure in Japan, 7 year old kids can go to school unsupervised.

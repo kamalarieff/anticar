@@ -106,3 +106,12 @@ The only way to not require these type of minerals is to not have electric vehic
 -   <https://www.reddit.com/r/fuckcars/comments/u5taov/electric_cars_are_not_the_way_spread_the_word/>
 
 If every internal combustion engine car is converted to electric cars, you would need to mine a lot more lithium, cobalt and copper. These mining introduces a lot of environmental problems as well. The better way to solve the climate crisis is to move towards public transportation, walkability and bikability. These public transportation needs to be affordable and extensive.
+
+
+### Why electric cars won't end pollution from vehicles - CGTN {#why-electric-cars-won-t-end-pollution-from-vehicles-cgtn}
+
+<https://newseu.cgtn.com/news/2020-09-18/Why-electric-cars-won-t-end-pollution-from-vehicles-TREQ6XDdq8/index.html>
+
+-   <https://reddit.com/r/fuckcars/comments/urlzwn/greenwashing_will_perpetuate_car_problems/i8yl47f/>
+
+Cutting down on the exhaust fumes is great but they still cause pollution from tire wear and brake wear.

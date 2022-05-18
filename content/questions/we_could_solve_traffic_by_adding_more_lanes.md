@@ -137,3 +137,31 @@ Other ways to reduce traffic is to introduce congestion pricing and reducing fre
 -   <https://reddit.com/r/fuckcars/comments/tzqp0e/a_city_designed_around_driving_doesnt_work_for/i41gere/>
 
 > After the widening of the Katy Freeway, morning and evening travel times along the route actually increased by 30 and 55 percent, respectively.
+
+
+### Please stop adding more lanes to busy highways—it doesn’t help | Ars Technica {#please-stop-adding-more-lanes-to-busy-highways-it-doesn-t-help-ars-technica}
+
+<https://arstechnica.com/cars/2021/08/please-stop-adding-more-lanes-to-busy-highways-it-doesnt-help/>
+
+-   <https://reddit.com/r/fuckcars/comments/un9p4f/we_need_densification_to_create_walkable_cities/i89l11g/>
+
+
+### More Lanes Do Not Mean Less Traffic - RMI {#more-lanes-do-not-mean-less-traffic-rmi}
+
+<https://rmi.org/more-lanes-do-not-mean-less-traffic/>
+
+-   <https://reddit.com/r/fuckcars/comments/un9p4f/we_need_densification_to_create_walkable_cities/i89l11g/>
+
+
+### Adding lanes doesn't reduce congestion. So what is TxDOT doing? {#adding-lanes-doesn-t-reduce-congestion-dot-so-what-is-txdot-doing}
+
+<https://www.houstonchronicle.com/local/gray-matters/article/Why-TxDOT-s-upcoming-project-won-t-reduce-12287710.php>
+
+-   <https://reddit.com/r/fuckcars/comments/un9p4f/we_need_densification_to_create_walkable_cities/i89l11g/>
+
+
+### Why adding more lanes doesn't reduce traffic jams | The Spokesman-Review {#why-adding-more-lanes-doesn-t-reduce-traffic-jams-the-spokesman-review}
+
+<https://www.spokesman.com/blogs/transportation/2015/mar/04/why-adding-more-lanes-doesnt-reduce-traffic-jams/>
+
+-   <https://reddit.com/r/fuckcars/comments/un9p4f/we_need_densification_to_create_walkable_cities/i89l11g/>

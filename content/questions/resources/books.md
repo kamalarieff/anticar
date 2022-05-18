@@ -12,6 +12,7 @@ weight = 2044
 -   <https://www.reddit.com/r/fuckcars/comments/s6n740/fuck_cars_read_books/>
 -   <https://reddit.com/r/fuckcars/comments/u445xm/car_equipped_with_safety_scoop_1930s/i4tz532/>
 -   <https://reddit.com/r/fuckcars/comments/u10u3f/studies/i4a01tk/>
+-   <https://reddit.com/r/fuckcars/comments/un4par/induced_demand_is_one_of_the_single_dumbest/i86zheo/>
 
 | Author                                                         | Title                                                                                                                                           |
 |----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -67,3 +68,4 @@ weight = 2044
 | Jesse Singer                                                   | There Are No Accidents: The Deadly Rise of Injury and Disaster―Who Profits and Who Pays the Price                                               |
 | <https://rethinkingstreets.com/>                               | Rethinking Streets Series                                                                                                                       |
 | Movement: how to take back our streets and transform our lives | Thalia Verkade, Marco te Broemmelstroet, Fiona Graham                                                                                           |
+| Peter D. Norton                                                | Autonorama The Illusory Promise of High-Tech Driving                                                                                            |

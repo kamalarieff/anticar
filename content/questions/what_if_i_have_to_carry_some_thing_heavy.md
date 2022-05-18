@@ -42,3 +42,21 @@ This is a video of how people carry stuff around by hooking up a trailer to thei
 At 4:46, you can even use a bicycle to transport stuff.
 
 At 10:16, you can hire a tow from Ikea to transport stuff.
+
+
+### Heavy-Duty Bicycle Cargo Trailers | Bikes At Work {#heavy-duty-bicycle-cargo-trailers-bikes-at-work}
+
+<https://www.bikesatwork.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/um0bo5/paint/i802zl2/>
+
+A website that shows people carrying stuff on bicycles.
+
+
+### This Plumber Conducts 95% of His Business by Cargo Bike {#this-plumber-conducts-95-of-his-business-by-cargo-bike}
+
+<https://www.treehugger.com/uk-plumber-conducts-business-by-cargo-bike-5188214>
+
+-   <https://reddit.com/r/fuckcars/comments/ukzlb9/a_question/i7scray/>
+
+He substituted his van for an ebike. He said this change allows him to do 95% of the job. He rarely needs his van anymore.

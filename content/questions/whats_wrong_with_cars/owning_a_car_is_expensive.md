@@ -188,3 +188,32 @@ Typically, the driver of the car don't bear the costs of driving. Society have t
 This video is a break down on how much owning a car is. He goes into different aspects of owning a car like depreciation, parking, gas, insurance and maintenance.
 
 After 5 years, you lose 37% of your car's value [5:06].
+
+
+## Who Pays for Roads?: How the “Users Pay” Myth Gets in the Way of Solving America’s Transportation Problems {#who-pays-for-roads-how-the-users-pay-myth-gets-in-the-way-of-solving-america-s-transportation-problems}
+
+<https://uspirg.org/sites/pirg/files/reports/Who%20Pays%20for%20Roads%20vUS.pdf>
+
+-   <https://reddit.com/r/fuckcars/comments/uligo2/carbrain_mad_he_cant_drive_recklessly_because_of/i7x4my7/>
+-   <https://reddit.com/r/fuckcars/comments/ukbeul/rant_about_bikers_should_pay_their_way/i7rmcpu/>
+-   <https://www.reddit.com/r/BicyclingCirclejerk/comments/ry3kwq/the_enviromental_friendly_fredster/>
+-   <https://www.reddit.com/r/fuckcars/comments/ry8vvf/the_enviromental_friendly_fredster/>
+
+Many people believe that drivers pay the full cost of the road through gas taxes. But this has never been true. General taxes paid by everyone covers them. In fact, income taxes and sales taxes cover them, not gas taxes.
+
+Some more quotes from the study:
+
+> Governments spend more non-user tax dollars on highways than on transit, bicycling, walking and passenger rail travel, combined.
+
+<!--quoteend-->
+
+> People who walk and bicycle pay their fair share for use of the transportation system.
+
+
+## The True Cost of Owning a Car | Credit Karma {#the-true-cost-of-owning-a-car-credit-karma}
+
+<https://www.creditkarma.com/auto/i/what-it-costs-own-car>
+
+-   <https://reddit.com/r/fuckcars/comments/urq9un/freedom/i8zlrdt/>
+
+> Expenses like car insurance, gas and maintenance can drive up your monthly costs.

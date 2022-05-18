@@ -27,9 +27,9 @@ Death numbers globally.
 
 > Crash injuries are estimated to be the eighth leading cause of death globally for all age groups and the leading cause of death for children and young people 5–29 years of age. More people now die in crashes than from HIV/AIDS.
 
-This is supported by <a href="#citeproc_bib_item_1">[1]</a> <a href="#citeproc_bib_item_2">[2]</a>.
+This is supported by <a href="#citeproc_bib_item_1">[1]</a> <a href="#citeproc_bib_item_2">[2]</a> <a href="#citeproc_bib_item_3">[3]</a> <a href="#citeproc_bib_item_4">[4]</a>.
 
-### Bibliography
+## References
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
@@ -40,9 +40,37 @@ This is supported by <a href="#citeproc_bib_item_1">[1]</a> <a href="#citeproc_b
     <div class="csl-left-margin">[2]</div><div class="csl-right-inline">United Nations, “With 1.3 million annual road deaths, UN wants to halve number by 2030,” <i>Un news</i>. Dec. 2021. <a href="https://news.un.org/en/story/2021/12/1107152">https://news.un.org/en/story/2021/12/1107152</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Injury Facts by NSC, “Deaths by Transportation Mode,” <i>Injury facts</i>. <a href="https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/">https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/</a></div>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">ASIRT, “Road Safety Facts,” <i>Association for safe international road travel</i>. <a href="https://www.asirt.org/safe-travel/road-safety-facts/">https://www.asirt.org/safe-travel/road-safety-facts/</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a
+#+BEGIN_EXPORT html
+<style>.csl-left-margin{float: left; padding-right: 0em;}
+ .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
+    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">WHO, “Road traffic injuries,” <i>Road traffic injuries</i>. <a href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries">https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>
+    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">United Nations, “With 1.3 million annual road deaths, UN wants to halve number by 2030,” <i>Un news</i>. Dec. 2021. <a href="https://news.un.org/en/story/2021/12/1107152">https://news.un.org/en/story/2021/12/1107152</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
+    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">ASIRT, “Road Safety Facts,” <i>Association for safe international road travel</i>. <a href="https://www.asirt.org/safe-travel/road-safety-facts/">https://www.asirt.org/safe-travel/road-safety-facts/</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>
+    <div class="csl-left-margin">[4]</div><div class="csl-right-inline">“How Many People Die in Car Accidents? | Policy Advice.” <a href="https://policyadvice.net/insurance/insights/car-accidents/">https://policyadvice.net/insurance/insights/car-accidents/</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Injury Facts by NSC, “Deaths by Transportation Mode,” <i>Injury facts</i>. <a href="https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/">https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/</a></div>
   </div>
 </div>
+
+margin"&gt;[4]&lt;/div&gt;&lt;div class="csl-right-inline"&gt;“How Many People Die in Car Accidents? | Policy Advice.” &lt;a href="<https://policyadvice.net/insurance/insights/car-accidents/>"&gt;<https://policyadvice.net/insurance/insights/car-accidents/>&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="csl-entry"&gt;&lt;a id="citeproc_bib_item_5"&gt;&lt;/a&gt;
+    &lt;div class="csl-left-margin"&gt;[5]&lt;/div&gt;&lt;div class="csl-right-inline"&gt;Injury Facts by NSC, “Deaths by Transportation Mode,” &lt;i&gt;Injury facts&lt;/i&gt;. &lt;a href="<https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/>"&gt;<https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/>&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+\#+END_EXPORT
+
 
 ## Here’s How Much Safer Transit Is Compared to Driving – Streetsblog USA {#here-s-how-much-safer-transit-is-compared-to-driving-streetsblog-usa}
 
@@ -58,22 +86,9 @@ People always has this perception that public transit is unsafe but that's furth
 
 > In media coverage and in transit agencies’ own public messaging campaigns, transit is often linked to the threat of terrorism, but internationally, Litman notes, about 360 times more people are killed in auto collisions than in incidents of terrorism.
 
-This is further supported in <a href="#citeproc_bib_item_3">[3]</a> where over the last 10 years, passenger vehicle death rate per 100,000,000 passenger miles was over 9 times higher than for buses, 17 times higher than for passenger trains, and 1,606 times higher than for scheduled airlines.
+This is further supported in <a href="#citeproc_bib_item_5">[5]</a> where over the last 10 years, passenger vehicle death rate per 100,000,000 passenger miles was over 9 times higher than for buses, 17 times higher than for passenger trains, and 1,606 times higher than for scheduled airlines.
 
-### Bibliography
-
-<style>.csl-left-margin{float: left; padding-right: 0em;}
- .csl-right-inline{margin: 0 0 0 1em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>
-    <div class="csl-left-margin">[1]</div><div class="csl-right-inline">WHO, “Road traffic injuries,” <i>Road traffic injuries</i>. <a href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries">https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries</a></div>
-  </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>
-    <div class="csl-left-margin">[2]</div><div class="csl-right-inline">United Nations, “With 1.3 million annual road deaths, UN wants to halve number by 2030,” <i>Un news</i>. Dec. 2021. <a href="https://news.un.org/en/story/2021/12/1107152">https://news.un.org/en/story/2021/12/1107152</a></div>
-  </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>
-    <div class="csl-left-margin">[3]</div><div class="csl-right-inline">Injury Facts by NSC, “Deaths by Transportation Mode,” <i>Injury facts</i>. <a href="https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/">https://injuryfacts.nsc.org/home-and-community/safety-topics/deaths-by-transportation-mode/</a></div>
-  </div>
-</div>
+<biblio.bib>
 
 
 ## GRIPE SESSION: Departing Council Member Cumbo Gives Parting Gift to Car Owners – Streetsblog New York City {#gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners-streetsblog-new-york-city}
@@ -369,3 +384,17 @@ A driver blew through a red light and killed 9 people.
 -   <https://reddit.com/r/fuckcars/comments/ukhxqz/8_dead_in_4_days_from_cars_in_nyc/i7p5j8z/>
 
 A van took an illegal left turn and killed someone.
+
+
+## Michigan woman using wheelchair killed while trying to cross road - mlive.com {#michigan-woman-using-wheelchair-killed-while-trying-to-cross-road-mlive-dot-com}
+
+<https://www.mlive.com/news/2022/05/michigan-woman-using-wheelchair-killed-while-trying-to-cross-road.html>
+
+-   <https://reddit.com/r/fuckcars/comments/uon6g1/she_was_killed_on_a_two_lane_highway_outside_the/i8ffu8x/>
+
+
+## Allie Hart: 5-year-old killed in DC crosswalk deserved safer streets - The Washington Post {#allie-hart-5-year-old-killed-in-dc-crosswalk-deserved-safer-streets-the-washington-post}
+
+<https://www.washingtonpost.com/dc-md-va/2021/12/18/allison-hart-child-safer-streets/>
+
+-   <https://reddit.com/r/fuckcars/comments/uqw1m2/cars_kill_kids/i8ugvbb/>

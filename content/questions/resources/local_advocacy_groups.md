@@ -180,3 +180,35 @@ Better Streets Chicago is a transit advocacy organization made up of Chicagoans 
 
 -   <https://reddit.com/r/fuckcars/comments/ud7j2n/san_francisco_supervisors_just_voted_to_make_the/i6fyodx/>
 -   <https://reddit.com/r/fuckcars/comments/ud7j2n/san_francisco_supervisors_just_voted_to_make_the/i6fzg9o/>
+
+
+## Healthy Streets LA {#healthy-streets-la}
+
+<https://www.healthystreetsla.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/umouf4/yes_thats_a_parking_lot/i84b95j/>
+
+
+## INDYIMBY – Advocate for increasing density in central Indiana {#indyimby-advocate-for-increasing-density-in-central-indiana}
+
+<https://indyimby.wordpress.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/upwnog/what_can_we_do/i8nr3b9/>
+
+
+## A Challenge to Give Streets Back to People | NYC 25x25 | Transportation Alternatives {#a-challenge-to-give-streets-back-to-people-nyc-25x25-transportation-alternatives}
+
+<https://nyc25x25.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/up470m/an_anticar_movement_is_brewing_in_the_us_from/i8j04qo/>
+
+Aiming to make 25% of NYC streets car-free.
+
+
+## Twin Cities Boulevard {#twin-cities-boulevard}
+
+<https://www.twincitiesboulevard.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/urw4gx/tragic/i90ikyp/>
+
+Minneapolis.

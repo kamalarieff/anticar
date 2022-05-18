@@ -266,6 +266,13 @@ The people of Nottingham, UK have been responded positively to the proposal to m
 A huge network of cycle paths that connect cities. A lot of pictures inside.
 
 
+### How Paris Will Become ‘100% Cyclable’ - Bloomberg {#how-paris-will-become-100-cyclable-bloomberg}
+
+<https://www.bloomberg.com/news/articles/2021-10-22/how-paris-will-become-100-cyclable>
+
+-   <https://reddit.com/r/fuckcars/comments/un9p4f/we_need_densification_to_create_walkable_cities/i879adw/>
+
+
 ### Car-free zone coming to Paris by 2024 {#car-free-zone-coming-to-paris-by-2024}
 
 <https://thepointsguy.co.uk/news/paris-to-implement-a-ban-on-most-cars-in-the-city-by-2024/>
@@ -316,3 +323,10 @@ Atlanta Is building a 33 mile multi-use trails offering a pedestrian-friendly en
 -   <https://reddit.com/r/fuckcars/comments/ugdd79/car_free_development_in_arizona/i6yyalb/>
 
 The first car-free neighborhood built from scratch in the US! It will be built in Arizona.
+
+
+### NYC wants to take 25% of streets from cars, give to pedestrians &amp; bikes {#nyc-wants-to-take-25-of-streets-from-cars-give-to-pedestrians-and-bikes}
+
+<https://electrek.co/2022/05/12/nyc-wants-to-take-25-of-its-street-space-away-from-cars-in-favor-of-a-walkable-bikeable-city/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/unxrpt/nyc_wants_to_take_25_of_its_street_space_away>
