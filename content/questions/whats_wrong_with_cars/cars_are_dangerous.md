@@ -67,8 +67,6 @@ People always has this perception that public transit is unsafe but that's furth
 
 This is further supported in <a href="#citeproc_bib_item_5">[5]</a> where over the last 10 years, passenger vehicle death rate per 100,000,000 passenger miles was over 9 times higher than for buses, 17 times higher than for passenger trains, and 1,606 times higher than for scheduled airlines.
 
-<biblio.bib>
-
 
 ## GRIPE SESSION: Departing Council Member Cumbo Gives Parting Gift to Car Owners – Streetsblog New York City {#gripe-session-departing-council-member-cumbo-gives-parting-gift-to-car-owners-streetsblog-new-york-city}
 
