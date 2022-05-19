@@ -474,3 +474,12 @@ Vienna, Austria.
 -   <https://reddit.com/r/fuckcars/comments/uoq6gl/its_illegal_to_build_streets_like_this_in_america/i8gdny5/>
 
 Vauban, Freiburg.
+
+
+### Nordbahntrasse (Wuppertal, Germany) {#nordbahntrasse--wuppertal-germany}
+
+<https://wuppertalbewegung.de/nordbahntrasse>
+
+-   <https://reddit.com/r/fuckcars/comments/uswelb/bike_and_foot_path_built_on_an_old_railroad_track/i964w6q/>
+
+Wuppertal, Germany. Bike and foot path built on an old railroad track.
