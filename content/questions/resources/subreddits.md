@@ -206,3 +206,10 @@ Germany's version of fuck cars.
 <https://www.reddit.com/r/CarFreeRDU/>
 
 -   <https://www.reddit.com/r/fuckcars/comments/udvwrp/comment/i6jlcgk>
+
+
+## CarFreeChicago {#carfreechicago}
+
+<https://www.reddit.com/r/CarFreeChicago/>
+
+-   <https://www.reddit.com/r/fuckcars/comments/usiu0n/chicago_local_action_please_join_us>

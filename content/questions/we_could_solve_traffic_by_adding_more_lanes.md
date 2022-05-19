@@ -165,3 +165,23 @@ Other ways to reduce traffic is to introduce congestion pricing and reducing fre
 <https://www.spokesman.com/blogs/transportation/2015/mar/04/why-adding-more-lanes-doesnt-reduce-traffic-jams/>
 
 -   <https://reddit.com/r/fuckcars/comments/un9p4f/we_need_densification_to_create_walkable_cities/i89l11g/>
+
+
+### What Dallas, Houston, Louisville &amp; Rochester can teach us about widening freeways: Don’t! {#what-dallas-houston-louisville-and-rochester-can-teach-us-about-widening-freeways-don-t}
+
+<https://www.strongtowns.org/journal/2017/8/23/what-dallas-houston-louisville-rochester-can-teach-us-about-widening-freeways-dont>
+
+> America’s largest freeway is Houston’s 23-lane Katy Freeway. Its been widened many times, always, ostensibly with the idea of eliminating congestion. But no matter how wide it gets, added capacity just induces further flung development and more peak hour driving, with the result that the freeway is even slower today than it was when it was widened just a few years ago. Texas spent $2.3 billion to widen the road, but just three years after in opened, the morning commute has increased by 25 minutes (or 30 percent) and the afternoon commute has increased by 23 minutes (or 55 percent).
+
+
+### Expanding highways and building more roads actually makes traffic worse - Curbed {#expanding-highways-and-building-more-roads-actually-makes-traffic-worse-curbed}
+
+<https://archive.curbed.com/2020/3/6/21166655/highway-traffic-congestion-induced-demand>
+
+-   <https://reddit.com/r/fuckcars/comments/ulp3ib/my_eyes_are_bleeding/i7x1i0q/>
+
+> The nation’s largest 100 urban areas added 30,511 new lane-miles of roads between 1993 and 2017, according to the report, a 42 percent increase (and a trend that shows no signs of slowing down). For perspective, that’s higher than population growth, which was 32 percent in those metros over the same time period. That’s not all that grew: traffic congestion, as measured in annual hours of delay, actually rose during those 24 years, by a staggering 144 percent.
+
+<!--quoteend-->
+
+> In Pensacola, Florida, and Omaha, Nebraska—which both saw highways expand three times faster than population growth—congestion increased by 233 and 231 percent, respectively. In booming Boise, Idaho, roads expanded 141 percent while population grew 117 percent. But congestion increased 446 percent.

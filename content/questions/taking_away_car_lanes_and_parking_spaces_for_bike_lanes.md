@@ -13,9 +13,9 @@ In some cases, yes. But the best bike lanes are the one's that are away from any
 
 Seoul demolished a freeway to make way for more public transportation and more green spaces. The city has attracted affluent and educated workers and residents who appreciate the feel of a natural environment in an urban setting, open watercourse handles flooding rains better than buried sewers, highway led to the transformation of nearby streets and brought a 3.3 degree Celsius drop in average summer temperatures in the area and boosted Seoul's tourist economy <a href="#citeproc_bib_item_1">[1]</a>–<a href="#citeproc_bib_item_3">[3]</a>.
 
-There are some more other examples where tearing down highways created better living experience for all <a href="#citeproc_bib_item_4">[4]</a>.
+There are some more other examples where tearing down highways created better living experience for all <a href="#citeproc_bib_item_4">[4]</a>. Rochester, New York is in the process of removing a freeway and they see a revival in the city <a href="#citeproc_bib_item_5">[5]</a>.
 
-Furthermore, there is a study that no-car zone helps in a highly congested cities. A group of computer scientists created a software to know which streets to close <a href="#citeproc_bib_item_5">[5]</a>.
+Furthermore, there is a study that no-car zone helps in a highly congested cities. A group of computer scientists created a software to know which streets to close <a href="#citeproc_bib_item_6">[6]</a>.
 
 ## References
 
@@ -34,6 +34,9 @@ Furthermore, there is a study that no-car zone helps in a highly congested citie
     <div class="csl-left-margin">[4]</div><div class="csl-right-inline">“Huh?! 4 Cases Of How Tearing Down A Highway Can Relieve Traffic Jams (And Save Your City) | Cycling Action Network NZ.” <a href="https://can.org.nz/article/huh-4-cases-of-how-tearing-down-a-highway-can-relieve-traffic-jams-and-save-your-city">https://can.org.nz/article/huh-4-cases-of-how-tearing-down-a-highway-can-relieve-traffic-jams-and-save-your-city</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_5"></a>
-    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">“Is it time to go for no-car zone policies? Braess Paradox Detection - ScienceDirect.” <a href="https://www.sciencedirect.com/science/article/abs/pii/S0965856418308012">https://www.sciencedirect.com/science/article/abs/pii/S0965856418308012</a></div>
+    <div class="csl-left-margin">[5]</div><div class="csl-right-inline">Joe Cortright, “What Dallas, Houston, Louisville &#38; Rochester can teach us about widening freeways: Don’t!,” <i>Strong towns</i>. <a href="https://www.strongtowns.org/journal/2017/8/23/what-dallas-houston-louisville-rochester-can-teach-us-about-widening-freeways-dont">https://www.strongtowns.org/journal/2017/8/23/what-dallas-houston-louisville-rochester-can-teach-us-about-widening-freeways-dont</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>
+    <div class="csl-left-margin">[6]</div><div class="csl-right-inline">“Is it time to go for no-car zone policies? Braess Paradox Detection - ScienceDirect.” <a href="https://www.sciencedirect.com/science/article/abs/pii/S0965856418308012">https://www.sciencedirect.com/science/article/abs/pii/S0965856418308012</a></div>
   </div>
 </div>
