@@ -483,3 +483,10 @@ Vauban, Freiburg.
 -   <https://reddit.com/r/fuckcars/comments/uswelb/bike_and_foot_path_built_on_an_old_railroad_track/i964w6q/>
 
 Wuppertal, Germany. Bike and foot path built on an old railroad track.
+
+
+### Things used to be better, but not in Amsterdam. same exact location in 1970 vs today. : fuckcars {#things-used-to-be-better-but-not-in-amsterdam-dot-same-exact-location-in-1970-vs-today-dot-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/uv7e9h/things_used_to_be_better_but_not_in_amsterdam/>
+
+Amsterdam, Netherlands.

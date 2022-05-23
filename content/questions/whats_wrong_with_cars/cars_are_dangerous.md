@@ -375,3 +375,12 @@ A van took an illegal left turn and killed someone.
 <https://www.washingtonpost.com/dc-md-va/2021/12/18/allison-hart-child-safer-streets/>
 
 -   <https://reddit.com/r/fuckcars/comments/uqw1m2/cars_kill_kids/i8ugvbb/>
+
+
+## Georgia Mom Convicted of Vehicular Homicide For Crossing Street With Kids – Streetsblog USA {#georgia-mom-convicted-of-vehicular-homicide-for-crossing-street-with-kids-streetsblog-usa}
+
+<https://usa.streetsblog.org/2011/07/14/mother-convicted-of-vehicular-homicide-for-crossing-street-with-children/>
+
+-   <https://reddit.com/r/fuckcars/comments/uup2gl/fuck_cars_and_especially_unnecessarily_large_ones/i9ivz0h/>
+
+A mom crossing a street with her kids get convicted when a drunk driver killed her son.

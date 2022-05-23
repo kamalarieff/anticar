@@ -87,3 +87,12 @@ Bike infrastructure is much cheaper to build than road infrastructure.
 > the City of Portland calculated that the city’s entire bicycle network, consisting of over 300 miles of bikeways would cost $60 million to replace, whereas the same investment would yield just one mile of a four-lane urban freeway
 
 This study is about how much each proponent of bike infrastructure costs.
+
+
+## Study: Most Roads Don’t Pay for Themselves – Streetsblog USA {#study-most-roads-don-t-pay-for-themselves-streetsblog-usa}
+
+<https://usa.streetsblog.org/2015/05/04/study-most-roads-dont-pay-for-themselves/>
+
+-   <https://reddit.com/r/fuckcars/comments/utknar/oh_dear/i9bsa3e/>
+
+> A financial analysis by the think tank found that about four out of 10 U.S. highways don’t carry enough traffic to generate sufficient revenue to pay for their maintenance — let alone construction.

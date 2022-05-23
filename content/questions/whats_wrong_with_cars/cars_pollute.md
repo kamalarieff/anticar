@@ -50,7 +50,17 @@ SUVs are not good for the environment. It is very shocking that just SUVs are se
 
 > A typical passenger vehicle emits about 4.6 metric tons of carbon dioxide per year
 
-There is just this number. I don't think it is useful to use in an argument. You need something to compare with. Maybe compare it with cycling or walking.
+
+## Sources of Greenhouse Gas Emissions | US EPA {#sources-of-greenhouse-gas-emissions-us-epa}
+
+<https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions>
+
+-   <https://reddit.com/r/fuckcars/comments/ut23n9/there_has_to_be_a_better_way/i97kx6h/>
+-   <https://reddit.com/r/fuckcars/comments/ut23n9/there_has_to_be_a_better_way/i97ylpe/>
+-   <https://reddit.com/r/fuckcars/comments/ut23n9/there_has_to_be_a_better_way/i9948hn/>
+-   <https://reddit.com/r/fuckcars/comments/ut23n9/there_has_to_be_a_better_way/i97of5f/>
+
+> Transportation (27% of 2020 greenhouse gas emissions) – The transportation sector generates the largest share of greenhouse gas emissions. Greenhouse gas emissions from transportation primarily come from burning fossil fuel for our cars, trucks, ships, trains, and planes.
 
 
 ## Cycling across Europe in the pandemic - BBC World Service - YouTube - BBC World Service {#cycling-across-europe-in-the-pandemic-bbc-world-service-youtube-bbc-world-service}
@@ -85,6 +95,15 @@ Transport emit CO2 emissions. Here are some numbers from the article:
 <!--quoteend-->
 
 > Road travel accounts for three-quarters of transport emissions. Most of this comes from passenger vehicles – cars and buses.
+
+
+## Emissions by sector - Our World in Data {#emissions-by-sector-our-world-in-data}
+
+<https://ourworldindata.org/emissions-by-sector>
+
+-   <https://reddit.com/r/fuckcars/comments/ut23n9/there_has_to_be_a_better_way/i97ur0c/>
+
+> Road transport (11.9%): emissions from the burning of petrol and diesel from all forms of road transport which includes cars, trucks, lorries, motorcycles and buses.
 
 
 ## Plastic from tyres 'major source' of ocean pollution - BBC News {#plastic-from-tyres-major-source-of-ocean-pollution-bbc-news}
