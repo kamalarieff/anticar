@@ -268,6 +268,15 @@ Besides that,
 -   <https://www.reddit.com/r/fuckcars/comments/t3vidm/car_oil_drips/hyvekgw/>
 
 
+## Car tires were found to be biggest source of microplastic pollution - CNN {#car-tires-were-found-to-be-biggest-source-of-microplastic-pollution-cnn}
+
+<https://edition.cnn.com/2019/10/04/us/microplastic-pollution-car-tire-trnd/index.html>
+
+-   <https://reddit.com/r/fuckcars/comments/uwhytz/this_car_commercial_feels_like_a_personal_attack/i9sp3i1/>
+
+According to a study linked in the article, the biggest source of microplastic pollution in California's coastal waters may come from car tires.
+
+
 ## Development of Tire-Wear Particle Emission Measurements for Passenger Vehicles | SpringerLink {#development-of-tire-wear-particle-emission-measurements-for-passenger-vehicles-springerlink}
 
 <https://link.springer.com/article/10.1007/s40825-020-00181-z>

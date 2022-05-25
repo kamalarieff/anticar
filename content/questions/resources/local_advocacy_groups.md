@@ -212,3 +212,10 @@ Aiming to make 25% of NYC streets car-free.
 -   <https://reddit.com/r/fuckcars/comments/urw4gx/tragic/i90ikyp/>
 
 Minneapolis.
+
+
+## Advocacy – Bicycle NSW {#advocacy-bicycle-nsw}
+
+<https://bicyclensw.org.au/advocacy/>
+
+-   <https://reddit.com/r/fuckcars/comments/uwgd8o/sadly_this_was_the_progressive_area_of_town/i9s7eoi/>
