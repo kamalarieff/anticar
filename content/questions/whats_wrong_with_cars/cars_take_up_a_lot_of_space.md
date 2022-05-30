@@ -118,3 +118,12 @@ An opinion piece by author of Human Transit, Jarrett Walker. His facts are reall
 When he looked down from the Eiffel Tower, he saw how much space cars take. Lanes are wider than they have to be [4:26], wide enough that you can fit a bike lane in there if you do some road diet. Unused space when cars take a corner [6:09].
 
 He shared a tool where you can highlight how much space cars take <https://cyklokoalicia.sk/arrogance/>.
+
+
+## Saturn’s famous commercial shows why cars are so bad for cities - Curbed {#saturn-s-famous-commercial-shows-why-cars-are-so-bad-for-cities-curbed}
+
+<https://archive.curbed.com/word-on-the-street/2018/2/22/17037774/car-commercial-cities-saturn-jamie-barrett>
+
+-   <https://reddit.com/r/fuckcars/comments/ux6gje/that_time_saturn_accidentally_showed_everyone_how/i9wckbb/>
+
+This famous car commercial accidentally made a case on how cars take up a lot of space. There are even images in the article to show comparisons between the modes of transport.

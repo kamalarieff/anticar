@@ -185,3 +185,12 @@ Other ways to reduce traffic is to introduce congestion pricing and reducing fre
 <!--quoteend-->
 
 > In Pensacola, Florida, and Omaha, Nebraska—which both saw highways expand three times faster than population growth—congestion increased by 233 and 231 percent, respectively. In booming Boise, Idaho, roads expanded 141 percent while population grew 117 percent. But congestion increased 446 percent.
+
+
+### Rethinking How We Build So Californians Can Drive Less | Caltrans {#rethinking-how-we-build-so-californians-can-drive-less-caltrans}
+
+<https://dot.ca.gov/programs/sustainability/sb-743>
+
+-   <https://reddit.com/r/fuckcars/comments/uz8py4/induced_demand_why_wider_roads_often_dont_work_an/ia8slff/>
+
+{{< figure src="/ox-hugo/2022-05-30_22:07 induced demand.jpg" >}}

@@ -67,8 +67,6 @@ You can try signing up. These are the tasks that are specified on the page that 
 -   <https://www.reddit.com/r/fuckcars/comments/s6jlej/are_there_any_organizations_or_groups_dedicated/ht4fv1o/>
 -   <https://reddit.com/r/fuckcars/comments/tgdf3a/lobby/i11wj5t/>
 
-Pro-bike is usually anti-car.
-
 
 ## Telegraph for People {#telegraph-for-people}
 
@@ -219,3 +217,24 @@ Minneapolis.
 <https://bicyclensw.org.au/advocacy/>
 
 -   <https://reddit.com/r/fuckcars/comments/uwgd8o/sadly_this_was_the_progressive_area_of_town/i9s7eoi/>
+
+
+## New York Bicycling Coalition {#new-york-bicycling-coalition}
+
+<https://nybc.net/>
+
+-   <https://reddit.com/r/fuckcars/comments/uz2k24/are_american_cities_currently_making_efforts/ia7yh21/>
+
+
+## Home | Los Angeles County Bicycle Coalition {#home-los-angeles-county-bicycle-coalition}
+
+<https://www.la-bike.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/uz2k24/are_american_cities_currently_making_efforts/ia7yh21/>
+
+
+## Active Trans is a coalition of people who are working to make walking, biking, and public transit safe and equitable options for getting around Chicagoland. {#active-trans-is-a-coalition-of-people-who-are-working-to-make-walking-biking-and-public-transit-safe-and-equitable-options-for-getting-around-chicagoland-dot}
+
+<https://activetrans.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/uz2k24/are_american_cities_currently_making_efforts/ia7yh21/>

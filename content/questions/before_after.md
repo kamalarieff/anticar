@@ -490,3 +490,25 @@ Wuppertal, Germany. Bike and foot path built on an old railroad track.
 <https://www.reddit.com/r/fuckcars/comments/uv7e9h/things_used_to_be_better_but_not_in_amsterdam/>
 
 Amsterdam, Netherlands.
+
+
+### How Helsinki and Oslo cut pedestrian deaths to zero | World news | The Guardian {#how-helsinki-and-oslo-cut-pedestrian-deaths-to-zero-world-news-the-guardian}
+
+<https://www.theguardian.com/world/2020/mar/16/how-helsinki-and-oslo-cut-pedestrian-deaths-to-zero>
+
+-   <https://reddit.com/r/fuckcars/comments/ux96fr/your_child_is_more_likely_to_die_in_a_car/i9wskx5/>
+
+When you reduce car infrastructure, you have less pedestrian injuries and deaths. That is what happened in Helsinki, Finland and Oslo, Norway.
+
+
+### 'For me, this is paradise': life in the Spanish city that banned cars | Cities | The Guardian {#for-me-this-is-paradise-life-in-the-spanish-city-that-banned-cars-cities-the-guardian}
+
+<https://www.theguardian.com/cities/2018/sep/18/paradise-life-spanish-city-banned-cars-pontevedra>
+
+-   <https://reddit.com/r/fuckcars/comments/uws594/the_same_people_that_say_pedestrianonly_streets/i9tfdsr/>
+
+Pontevedra, Spain.
+
+Lots of benefits when you banned cars. From the article,
+
+> The benefits are numerous. On the same streets where 30 people died in traffic accidents from 1996 to 2006, only three died in the subsequent 10 years, and none since 2009. CO2 emissions are down 70%, nearly three-quarters of what were car journeys are now made on foot or by bicycle, and, while other towns in the region are shrinking, central Pontevedra has gained 12,000 new inhabitants. Also, withholding planning permission for big shopping centres has meant that small businesses – which elsewhere have been unable to withstand Spain’s prolonged economic crisis – have managed to stay afloat.

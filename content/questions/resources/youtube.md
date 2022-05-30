@@ -179,3 +179,10 @@ Channel on how you can explore on a bike. One underrated aspect of a bike is how
 <https://youtube.com/c/TheLifeSizedCity>
 
 -   <https://reddit.com/r/fuckcars/comments/umi1cs/painfully_accurate_short_story_of_traffic/i83omkp/>
+
+
+## cities4people - YouTube {#cities4people-youtube}
+
+<https://www.youtube.com/channel/UCx39RKOtW58DeW232Aaq_aw>
+
+-   <https://www.reddit.com/r/fuckcars/comments/uzlg1d/new_youtube_channel_on_the_german_grassroots>

@@ -472,3 +472,13 @@ Apparently there is a tire graveyard in Kuwait and now they're on fire.
 -   <https://reddit.com/r/fuckcars/comments/uqytm4/when_its_considered_a_flex_to_keep_up_with_a/i8xrm69/>
 
 > Brain scans of 12-year-old children show reduced thickness of the cortex and decreased gray matter volume in those who lived less than a quarter of a mile (400 meters) from a major highway at age 1,
+
+
+## Exposure to traffic noise linked to higher dementia risk | BMJ {#exposure-to-traffic-noise-linked-to-higher-dementia-risk-bmj}
+
+<https://www.bmj.com/company/newsroom/exposure-to-traffic-noise-linked-to-higher-dementia-risk/>
+
+-   <https://www.theguardian.com/society/2021/sep/09/transport-noise-linked-to-increased-risk-of-dementia-study-finds>
+-   <https://reddit.com/r/fuckcars/comments/uz2lo6/nyt_article_lists_reasons_why_nyc_is_loud_but/ia85jdz/>
+
+> The researchers estimate that as many as 1,216 out of the 8,475 cases of dementia registered in Denmark in 2017 could be attributed to these noise exposures, indicating a great potential for dementia prevention through reduction in traffic related noise.
