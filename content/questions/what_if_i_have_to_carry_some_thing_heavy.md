@@ -60,3 +60,12 @@ A website that shows people carrying stuff on bicycles.
 -   <https://reddit.com/r/fuckcars/comments/ukzlb9/a_question/i7scray/>
 
 He substituted his van for an ebike. He said this change allows him to do 95% of the job. He rarely needs his van anymore.
+
+
+### Cargo bikes deliver faster and cleaner than vans, study finds | Road transport | The Guardian {#cargo-bikes-deliver-faster-and-cleaner-than-vans-study-finds-road-transport-the-guardian}
+
+<https://www.theguardian.com/world/2021/aug/05/cargo-bikes-deliver-faster-and-cleaner-than-vans-study-finds>
+
+-   <https://reddit.com/r/fuckcars/comments/v2l5hl/murder_is_effectively_legal_in_most_places_as/iatplxc/>
+
+Vans are always stuck in traffic and trying to find parking in city centres. Electric cargo bikes deliver about 60% faster.

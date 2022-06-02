@@ -200,3 +200,12 @@ Due to this, bike lanes on Bloor Street were made permanent in November 2017.
 -   <https://www.reddit.com/r/fuckcars/comments/up6s1t/carbrain_try_not_to_have_the_worst_take_ever/i8j0a9i/>
 
 > A similar study from Salt Lake City showed that along a new Protected Bike Lane, sales through a commercial strip rose 8.8 percent compared to just 7 percent citywide.
+
+
+### Montreal to make 10 streets pedestrian-only during summer | Montreal Gazette {#montreal-to-make-10-streets-pedestrian-only-during-summer-montreal-gazette}
+
+<https://montrealgazette.com/news/local-news/montreal-to-make-10-streets-pedestrian-only-during-summer>
+
+-   <https://reddit.com/r/fuckcars/comments/v24uwo/the_riskiest_thing_we_can_do_is_just_maintain_the/iar75qj/>
+
+> The fact that merchants, via local business development associations known as Sociétés de développement commercial (SDC), want to bring back pedestrian streets shows they must be good for business, Plante said.

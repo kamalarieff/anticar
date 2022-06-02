@@ -211,3 +211,45 @@ From the article,
 -   <https://reddit.com/r/fuckcars/comments/ul855z/i_live_in_a_moderately_rural_place_where_nearly/i7ukpjm/>
 
 Changing the way we design streets make people drive the appropriate speeds. There's also other ways to slow down speed: road works, public campaigns and smart cars.
+
+
+### The Dutch 'Woonerf' - an example of safe road spaces - News and Blogs - articles on road safety and youth - Yours {#the-dutch-woonerf-an-example-of-safe-road-spaces-news-and-blogs-articles-on-road-safety-and-youth-yours}
+
+<http://www.youthforroadsafety.org/news-blog/news-blog-item/t/the_dutch_woonerf_an_example_of_safe_road_spaces>
+
+-   <https://reddit.com/r/fuckcars/comments/utjkrt/this_sub_is_changing_me_was_walking_home_today/i9a71a8/>
+
+Cars should behave as guests on these roads.
+
+
+### League Reports &amp; Resources | League of American Bicyclists {#league-reports-and-resources-league-of-american-bicyclists}
+
+<https://bikeleague.org/reports>
+
+-   <https://reddit.com/r/fuckcars/comments/ut6i2c/gas_prices_will_increase_more_use_this/i97t8t9/>
+
+In order to make the case for cyclable cities, you need statistics to support your argument. You can use this.
+
+
+### HOW TO HOST A “SHOW CONGRESS” EVENT {#how-to-host-a-show-congress-event}
+
+<https://bikeleague.org/sites/default/files/show_me_events_web.pdf>
+
+-   <https://reddit.com/r/fuckcars/comments/ut6i2c/gas_prices_will_increase_more_use_this/i97t8t9/>
+
+A full start to finish how to host an event for politicians. It includes checklists, email templates, etc.
+
+
+### 7 principles for building better cities | Peter Calthorpe - YouTube - TED {#7-principles-for-building-better-cities-peter-calthorpe-youtube-ted}
+
+<https://www.youtube.com/watch?v=IFjD3NMv6Kw>
+
+-   <https://www.reddit.com/r/fuckcars/comments/uyaa8u/a_video_that_might_change_your_mind>
+
+1.  Preserve - Preserve natural ecologies, agrarian landscapes and cultural heritage sites
+2.  Mix - Create mixed-use and mixed-income neighborhoods
+3.  Walk - Design walkable streets and human scale neighborhoods
+4.  Bike - Prioritize bicycle networks and auto-free streets
+5.  Connect - Increase density of road network, limit block size
+6.  Ride - Develop high quality transit and affordable BRT
+7.  Focus - Match density and mix to transit capacity

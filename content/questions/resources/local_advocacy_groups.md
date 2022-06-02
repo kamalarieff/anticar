@@ -238,3 +238,17 @@ Minneapolis.
 <https://activetrans.org/>
 
 -   <https://reddit.com/r/fuckcars/comments/uz2k24/are_american_cities_currently_making_efforts/ia7yh21/>
+
+
+## Denver Bicycle Lobby {#denver-bicycle-lobby}
+
+<https://denverbicyclelobby.com/>
+
+-   <https://reddit.com/r/fuckcars/comments/v1ulgi/town_advocacy_tuesday/iapk5d4/>
+
+
+## Our Streets Minneapolis {#our-streets-minneapolis}
+
+<https://www.ourstreetsmpls.org/>
+
+-   <https://reddit.com/r/fuckcars/comments/v1ulgi/town_advocacy_tuesday/iapntba/>

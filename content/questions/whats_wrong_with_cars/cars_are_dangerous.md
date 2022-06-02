@@ -56,6 +56,7 @@ This is supported by <a href="#citeproc_bib_item_1">[1]</a> <a href="#citeproc_b
 <https://usa.streetsblog.org/2014/12/19/heres-how-much-safer-transit-is-compared-to-driving/>
 
 -   <https://reddit.com/r/fuckcars/comments/tsqlfs/unsafe_public_transportation/i2t1qxd/>
+-   <https://reddit.com/r/fuckcars/comments/v11oyp/my_mom_dislikes_the_idea_of_me_taking_public_bus/iak01vn/>
 
 People always has this perception that public transit is unsafe but that's further from the truth.
 
