@@ -110,3 +110,10 @@ Here is how the city in Oulu, Finland built their infrastructure around bicycles
 <https://www.youtube.com/watch?v=ixWvALq7d4g&t=392s>
 
 -   <https://reddit.com/r/fuckcars/comments/uomb3o/when_someone_from_nth_america_say_but_i_cant_ride/i8fu81p/>
+
+
+### Do the Dutch cycle in the snow? - YouTube - BicycleDutch {#do-the-dutch-cycle-in-the-snow-youtube-bicycledutch}
+
+<https://www.youtube.com/watch?v=ViaDwkkXzC8>
+
+-   <https://reddit.com/r/fuckcars/comments/v85o8q/this_describes_some_of_the_craziness_among_car/ibptjar/>

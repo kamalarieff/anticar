@@ -127,3 +127,12 @@ He shared a tool where you can highlight how much space cars take <https://cyklo
 -   <https://reddit.com/r/fuckcars/comments/ux6gje/that_time_saturn_accidentally_showed_everyone_how/i9wckbb/>
 
 This famous car commercial accidentally made a case on how cars take up a lot of space. There are even images in the article to show comparisons between the modes of transport.
+
+
+## It’s True: The Typical Car Is Parked 95 Percent of the Time – Streetsblog USA {#it-s-true-the-typical-car-is-parked-95-percent-of-the-time-streetsblog-usa}
+
+<https://usa.streetsblog.org/2016/03/10/its-true-the-typical-car-is-parked-95-percent-of-the-time/>
+
+-   <https://reddit.com/r/fuckcars/comments/v7yn95/share_the_space/ibpfme7/>
+
+Cars are unused 95% of the time. They're just taking up space that could have been used for the people.

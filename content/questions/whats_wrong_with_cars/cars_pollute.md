@@ -482,3 +482,10 @@ Apparently there is a tire graveyard in Kuwait and now they're on fire.
 -   <https://reddit.com/r/fuckcars/comments/uz2lo6/nyt_article_lists_reasons_why_nyc_is_loud_but/ia85jdz/>
 
 > The researchers estimate that as many as 1,216 out of the 8,475 cases of dementia registered in Denmark in 2017 could be attributed to these noise exposures, indicating a great potential for dementia prevention through reduction in traffic related noise.
+
+
+## Car tyres produce vastly more particle pollution than exhausts, tests show | Pollution | The Guardian {#car-tyres-produce-vastly-more-particle-pollution-than-exhausts-tests-show-pollution-the-guardian}
+
+<https://www.theguardian.com/environment/2022/jun/03/car-tyres-produce-more-particle-pollution-than-exhausts-tests-show>
+
+-   <https://reddit.com/r/fuckcars/comments/v8e8s7/carbon_footprint_of_cars_leading_the_top_5/ibr5z0p/>

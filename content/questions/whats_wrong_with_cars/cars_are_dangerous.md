@@ -385,3 +385,32 @@ A van took an illegal left turn and killed someone.
 -   <https://reddit.com/r/fuckcars/comments/uup2gl/fuck_cars_and_especially_unnecessarily_large_ones/i9ivz0h/>
 
 A mom crossing a street with her kids get convicted when a drunk driver killed her son.
+
+
+## Girl, 3, killed in truck-bike crash is 2nd child fatality on/near Leland in one week – Streetsblog Chicago {#girl-3-killed-in-truck-bike-crash-is-2nd-child-fatality-on-near-leland-in-one-week-streetsblog-chicago}
+
+<https://chi.streetsblog.org/2022/06/09/female-toddler-reportedly-killed-in-truck-bike-crash-on-leland-greenway-in-uptown/>
+
+-   <https://reddit.com/r/fuckcars/comments/v8xevl/mom_bikes_around_a_comed_truck_parked_in_the_bike/ibtc6p2/>
+
+A truck parked in a bike lane forced the mother to ride in the mixed-traffic lane. You need protected bike lanes so that cars and trucks won't be able to do this.
+
+
+## SUVs, other large vehicles often hit pedestrians while turning {#suvs-other-large-vehicles-often-hit-pedestrians-while-turning}
+
+<https://www.iihs.org/news/detail/suvs-other-large-vehicles-often-hit-pedestrians-while-turning>
+
+-   <https://reddit.com/r/fuckcars/comments/v815sd/this/iboc6u6/>
+
+Driver of larger vehicles have more difficulty to see pedestrians when turning.
+
+
+## Is New York City More Dangerous Than Rural America? - Bloomberg {#is-new-york-city-more-dangerous-than-rural-america-bloomberg}
+
+<https://www.bloomberg.com/opinion/articles/2022-06-07/is-new-york-city-more-dangerous-than-rural-america>
+
+-   <https://reddit.com/r/fuckcars/comments/v7n599/new_york_city_is_safer_than_small_towns_and_car/iblgmis/>
+
+> “Your risk of getting killed on the subway or in a subway station is much higher in New York City than in a place with no subway, for example, but if you add up all risks related to getting to work or school or wherever else it is you need to go, it’s a different story. New Yorkers are only about as third as likely to die in transportation accidents of any kind as Americans are overall. Put homicide and transportation risks together, and New York starts looking like a refuge from the American carnage.”
+
+A city becomes more dangerous to live in it's filled with cars.

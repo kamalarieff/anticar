@@ -335,7 +335,9 @@ The first car-free neighborhood built from scratch in the US! It will be built i
 ### EYES ON THE STREET: How Hoboken Has Eliminated Traffic Deaths – Streetsblog New York City {#eyes-on-the-street-how-hoboken-has-eliminated-traffic-deaths-streetsblog-new-york-city}
 
 <https://nyc.streetsblog.org/2021/04/06/eyes-on-the-street-how-hoboken-has-eliminated-traffic-deaths/>
+<https://nextcity.org/urbanist-news/hoboken-new-jersey-has-recorded-zero-traffic-deaths-three-years-straight>
 
 -   <https://reddit.com/r/fuckcars/comments/v2i7hf/daylighting_is_a_quick_and_easy_way_to_make/iasg9za/>
+-   <https://reddit.com/r/fuckcars/comments/v6d0y0/carbrains_hate_children/ibeushp/>
 
 Hoboken, New Jersey. No traffic deaths in three straight years.

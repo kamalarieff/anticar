@@ -285,6 +285,7 @@ Here is an infographic on why we need cycle lanes.
 -   <https://bicycledutch.wordpress.com/2012/12/06/who-else-benefits-from-the-dutch-cycling-infrastructure/>
 -   <https://reddit.com/r/fuckcars/comments/tzzt33/not_cars_but_still_these_barriers_designed_to/i4655ex/>
 -   <https://www.reddit.com/r/fuckcars/comments/u5dg2k/serious_i_am_disabled_what_are_some_ways_i_could/i5328qp/>
+-   <https://reddit.com/r/fuckcars/comments/v8ftqo/american_infrastructure_is_inhumane_winstonsalem/ibr0xpc/>
 
 Able bodied people, senior citizens, children, disabled people are all able to use the great cycling infrastructure in the Netherlands. These cycling paths also allow mobility scooters to use them. It's very safe because they're protected from the car lanes.
 
@@ -309,6 +310,24 @@ This is because:
 -   <https://reddit.com/r/fuckcars/comments/ufuh8u/seen_in_central_london/i6wne04/>
 
 Despite the added risks when cycling to work, it is safer in terms of health wise. What this means is that if we can lower these risks by providing safe cycling infrastructure, it's a win-win for everyone.
+
+
+### Why the health benefits of cycling to work outweigh the risk of injury | New Scientist {#why-the-health-benefits-of-cycling-to-work-outweigh-the-risk-of-injury-new-scientist}
+
+<https://www.newscientist.com/article/2237214-why-the-health-benefits-of-cycling-to-work-outweigh-the-risk-of-injury/>
+
+-   <https://reddit.com/r/fuckcars/comments/usjlle/poor_guy_on_a_bike_got_killed_but_pray_for_the/i97swqo/>
+
+This article supports the previous entry.
+
+
+### (PDF) Do the Health Benefits of Cycling Outweigh the Risks? {#pdf--do-the-health-benefits-of-cycling-outweigh-the-risks}
+
+<https://www.researchgate.net/publication/44851378_Do_the_Health_Benefits_of_Cycling_Outweigh_the_Risks>
+
+-   <https://reddit.com/r/fuckcars/comments/usjlle/poor_guy_on_a_bike_got_killed_but_pray_for_the/i97swqo/>
+
+This article supports the two previous entries.
 
 
 ### (PDF) Walking and cycling in Western Europe and the United States: Trends, policies, and lessons {#pdf--walking-and-cycling-in-western-europe-and-the-united-states-trends-policies-and-lessons}

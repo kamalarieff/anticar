@@ -76,14 +76,16 @@ At 9:55, they're using a special kind of tarmac to make cycling easier.
 At 2:16, cars have to go around the city center which makes it very safe.
 
 
-### 5 minutes of traffic on a Dutch roundabout with bi-directional cycling lanes - YouTube {#5-minutes-of-traffic-on-a-dutch-roundabout-with-bi-directional-cycling-lanes-youtube}
+### 5 minutes of traffic on a Dutch roundabout with bi-directional cycling lanes - YouTube - Frank van Caspel {#5-minutes-of-traffic-on-a-dutch-roundabout-with-bi-directional-cycling-lanes-youtube-frank-van-caspel}
 
 <https://www.youtube.com/watch?v=FR5l48_h5Eo>
+
+-   <https://reddit.com/r/fuckcars/comments/uvdo5g/cycling_through_roundabouts_prove_that_cars_dont/i9ns2ls/>
 
 This is a Dutch roundabout. You can see that it is safe for all parties involved. Cars and buses wait for cycles and pedestrians. This is because need to let the more vulnerable mode of transportation pass through first. Thus, making it safe for them.
 
 
-### From the Netherlands Translating the World's Best Bikeway Designs - YouTube {#from-the-netherlands-translating-the-world-s-best-bikeway-designs-youtube}
+### From the Netherlands Translating the World's Best Bikeway Designs - YouTube - PnPrailroad {#from-the-netherlands-translating-the-world-s-best-bikeway-designs-youtube-pnprailroad}
 
 <https://www.youtube.com/watch?v=kp3s2EP0zVo>
 
@@ -147,6 +149,7 @@ A video of before and after a bike infrastructure is implemented at Vauxhall Bri
 -   <https://www.reddit.com/r/fuckcars/comments/rvbikr/another_addition_to_the_ableism_arguments_in/hr5b9oi/>
 -   <https://www.reddit.com/r/fuckcars/comments/t7061y/assert_your_dominance_and_take_back_the_streets/hzeo783/>
 -   <https://www.reddit.com/r/fuckcars/comments/u5dg2k/serious_i_am_disabled_what_are_some_ways_i_could/i5328qp/>
+-   <https://reddit.com/r/fuckcars/comments/v8ftqo/american_infrastructure_is_inhumane_winstonsalem/ibr0xpc/>
 
 Video of young, old and disabled peopled out and about on the cycling tracks because it's safe.
 

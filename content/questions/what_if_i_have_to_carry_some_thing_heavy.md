@@ -67,5 +67,6 @@ He substituted his van for an ebike. He said this change allows him to do 95% of
 <https://www.theguardian.com/world/2021/aug/05/cargo-bikes-deliver-faster-and-cleaner-than-vans-study-finds>
 
 -   <https://reddit.com/r/fuckcars/comments/v2l5hl/murder_is_effectively_legal_in_most_places_as/iatplxc/>
+-   <https://reddit.com/r/fuckcars/comments/v5ylnu/the_bottom_line/ibfh42n/>
 
 Vans are always stuck in traffic and trying to find parking in city centres. Electric cargo bikes deliver about 60% faster.

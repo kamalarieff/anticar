@@ -127,3 +127,14 @@ One damning quote:
 > People who ride bicycles also pay taxes, which means they often pay more into the road system than they cost it. By one estimate, a carfree cyclist would overpay by an average of $250 a year – a few dollars more than the amount the average driver underpays.
 
 These people who rides bicycles are overpaying for roads that they barely damage.
+
+
+### The cheap, green, low-tech solution for the world’s megacities | Financial Times {#the-cheap-green-low-tech-solution-for-the-world-s-megacities-financial-times}
+
+-   <https://www.ft.com/content/088f544d-2f7e-404a-9a19-43f1fda24ffa?fbclid=IwAR1kQLzt75zqXden5J3-9MdGbdJYvfgS1QEuAE7WfIAxNMPWE60AxQuqlJY>
+-   <https://archive.ph/5XaYO>
+
+-   <https://www.reddit.com/r/fuckcars/comments/v633io/the_cheap_green_lowtech_solution_for_the_worlds>
+-   <https://reddit.com/r/fuckcars/comments/v7l8u0/its_time_for_everyone_to_stop_ignoring_ebikes/iblqdac/>
+
+An eloquently put article how to cities should be built on bicycles.

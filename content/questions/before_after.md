@@ -512,3 +512,24 @@ Pontevedra, Spain.
 Lots of benefits when you banned cars. From the article,
 
 > The benefits are numerous. On the same streets where 30 people died in traffic accidents from 1996 to 2006, only three died in the subsequent 10 years, and none since 2009. CO2 emissions are down 70%, nearly three-quarters of what were car journeys are now made on foot or by bicycle, and, while other towns in the region are shrinking, central Pontevedra has gained 12,000 new inhabitants. Also, withholding planning permission for big shopping centres has meant that small businesses – which elsewhere have been unable to withstand Spain’s prolonged economic crisis – have managed to stay afloat.
+
+
+### Before and After in Midtown Atlanta (credit to @atlurbanist) : fuckcars {#before-and-after-in-midtown-atlanta--credit-to-atlurbanist--fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/v7t8jm/before_and_after_in_midtown_atlanta_credit_to>
+
+Atlanta.
+
+
+### Wrocław, Poland. 1960s v. now : fuckcars {#wrocław-poland-dot-1960s-v-dot-now-fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/v9wvmu>
+
+Wrocław, Poland.
+
+
+### 10 years ago people in Brussels demanded less cars by having a giant picnic on the city's central highway. This made everybody so poor that today no cars can be seen there anymore. (Boulevard Anspach, Brussels, 2012 vs 2022) : fuckcars {#10-years-ago-people-in-brussels-demanded-less-cars-by-having-a-giant-picnic-on-the-city-s-central-highway-dot-this-made-everybody-so-poor-that-today-no-cars-can-be-seen-there-anymore-dot--boulevard-anspach-brussels-2012-vs-2022--fuckcars}
+
+<https://www.reddit.com/r/fuckcars/comments/vb5x1d/10_years_ago_people_in_brussels_demanded_less>
+
+Boulevard Anspach, Brussels.

@@ -46,5 +46,6 @@ Check out this video of people carrying their babies on their bicycles.
 <https://youtu.be/FLRrA-rKY-Q>
 
 -   <https://reddit.com/r/fuckcars/comments/u5xgsg/another_typical_dutch_garage/i56h3og/>
+-   <https://reddit.com/r/fuckcars/comments/v6pu1e/bbut_i_need_my_massive_5_ton_truck_to_pick_up_my/ibgrs15/>
 
 This mum takes her three kids around on a bike.

@@ -80,3 +80,10 @@ Amsterdam planned to be a car-centric city in the 1970s. But the oil crisis and 
 -   <https://reddit.com/r/fuckcars/comments/tzqp0e/a_city_designed_around_driving_doesnt_work_for/i421ij5/>
 
 A short summary of how the Dutch got their cycle paths starting with a little bit of history. It wasn't always that way in the Netherlands but they protested for safer streets. And look where they are now.
+
+
+### How Amsterdam became the bicycle capital of the world | Cities | The Guardian {#how-amsterdam-became-the-bicycle-capital-of-the-world-cities-the-guardian}
+
+<https://www.theguardian.com/cities/2015/may/05/amsterdam-bicycle-capital-world-transport-cycling-kindermoord>
+
+-   <https://reddit.com/r/fuckcars/comments/v2yjum/not_sure_if_this_was_posted_here_yet/iaw6r3u/>
